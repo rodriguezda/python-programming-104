@@ -18,79 +18,51 @@ In this one-week Python Programming course, students will walk away with a found
 ## Quick Links
 - [About This Guide](#about-this-guide)
 - [Course Details](#course-details)
-- [Suggested Pacing Guide](#suggested-pacing-guide)
+- [Learning Objectives](#learning-objectives)
+- [Homework](#homework)
+- [Labs](#labs)
+- [Course Calendar](#course-calendar)
 - [Appendix: Materials and Resources](#appendix-materials-and-resources)
-- [Notes for Teaching This Course](python-specific-course.md)
-- [Instructions on Slide Delivery](presenting-and-creating-materials)
-- Note: All of the decks for this course can be found [here](https://s3.amazonaws.com/python-ga/v1.4.1/index.html).
+- Note: All of the learning material for this course can be found [here](XXXXX).
 
 ## About This Guide
 
-This guide contains links to a standard set of high quality resources for your use in teaching this course. But our goal is not to provide you with a script to follow; we hire practitioners at GA because we value what you bring to the classroom and want to encourage you to make adaptations.
-Think of this guide as a cookbook. You, as the chef, will use the guidelines provided to craft an amazing meal for your students. But of course, you’ll want to think ahead about the various “dietary restrictions” and preferences of your “diners” as well as the type of “ambience” best suited to the type of experience you want to create.
-Adaptations we encourage you to make:
-- **Swapping out our generic examples for real-life examples from your industry experience.** The more you can speak to your own experience, the more the content will resonate with students.
-- **Adapting suggested projects and activities to better challenge your students,** based on their level of prior knowledge and their interests.
-- **Moving faster or slower as needed through the lessons based on the needs of your class.**
+This guide contains course information, links to course material, and links to additional resources. It should be used for the duration of this course - when in doubt, check this guide out! 
 
-
-Adaptations we encourage you not to make without speaking with your manager first, especially during your first cohort:
-- **Skipping over or cutting learning objectives.** Our curriculum is designed specifically to prepare students to a career in your industry. We’ve made a promise to them to get them job ready; when you skip content you’re putting their job readiness at risk.
-- **Changing the scope of the course.** Try not to add new topics that distract from the core learning.
-- **Radically altering the sequence of the course.** It’s okay to skip around sometimes, but try to follow the order of the units suggesting, especially during your first cohort.
-
->NOTE: If you haven’t already done so, be sure to complete the Instructor Course on myGA. The self-paced course provides a basic background in key concepts necessary for success leading a GA class.
-
-When in doubt, discuss any planned changes to the curriculum you’d like to make with your manager, your fellow instructors, or a Global team member. Chances are, someone else can learn from or be inspired by your improvements!
-
+> After the end of the program, this repository will be made private. Students are encouraged to clone this repository at the end of the course for future use and reference (don't worry, we'll go over how to do that). 
 
 ## Course Details
-Python Programming is a 40-hour course, delivered in either 5 day full-time or 10 week part time (two 2-hour sessions a week) format. There is no admittance requirement - this course is open to and encouraged for absolute beginners.
+Python Programming is a 40-hour course. This course is open to and encouraged for absolute beginners, delivered in a 5 day full-time format, with a sixth day used for final project preparation and presentation.
 
 Once enrolled, students complete 3.5 hours of pre-work on the myGA platform.
 
->NOTE: As an instructor, you should familiarize yourself with this pre-work so you can incorporate it in to your first lesson.
-
-Your role as an instructor is to facilitate each student’s journey to mastery of the concepts outlined below. This guide will provide you with a suggested pacing guide you can use to ensure you hit all of the required objectives in a sequence that makes sense. **We recommend you follow the suggested pacing guide during your first instance.** Later on, as you become more familiar with the content and your own teaching style, you can remix and extend the lessons provided. Just be sure to cover all of the required topics that follow.
-
-In order to graduate and earn a course completion certificate, every student must complete a final project that meets or exceeds the minimum standards outlined in the project rubric. Your manager will help you track other graduation requirements and make decisions about graduation.
+In order to graduate and earn a course completion certificate, every student must complete a final project that meets or exceeds the minimum standards outlined in the project rubric. 
 
 ### Learning Objectives
 The high-level learning objectives for this course are:
 
-- Create a basic Python app, using control flow, classes, and try/catch statements.
+- Create a basic Python "app", using control flow, classes, and try/catch statements.
 - Incorporate APIs, modules, and user input into a Python app.
-- Use Pandas to create a visualization of a dataset **or** use Flask to create and run a Python application (depending on the special topic track).
+- Use Pandas to create a visualization of a dataset (data science track).
 
 Students cannot graduate unless they demonstrate mastery of the above learning objectives before the end of the course. Mastery is measured through assessment: homeworks, in-class activities and final projects.
 
-The official course syllabus, available [here](https://drive.google.com/file/d/1G5MxiLnVah4YAoJTzdIYK-8guTYC-Q7u/view), outlines what must be covered in the course.
-
-Optional topics you may consider adding on to extend learning (provided your students are ready) include:
-- More intermediate programming, such as decorators, logging, and unit tests.
-- More interesting or specialized libraries, such as PyGame, NumPy, or Django.
-
-### Course Format
-This course may be taught online or in-person, in a [10-week](#10-week-pacing) or [1-week format](#1-week-pacing).
+### Homework
+A Link to the homework assignments for this course are provided here: [course homework](xxxx). Homework is distributed at the end of the day, and reviewed at the start of the following day. Given the class size, your instructor can review your homework assignment and provide feedback, if requested. 
 
 ### Homework
-You will not have time to personally review each homework assignment. A group of instructors has [put together boilerplate responses](https://git.generalassemb.ly/ed-product-library/python-programming/tree/master/boilerplate_feedback) covering both strengths and weaknesses for the major topics.
+Links to the five lab assignments for this course are included in the Course Schedule in the section below. Each day, the students will receive a lab to complete. During lab time, the instructor will introduce the lab, and then approximately 1-1.5 hours will be alloted for students to complete the labs independently (depending on the class size, breakout sessions may be utilized instead, so students can work on the lab together in groups). Afterward, the class will review each lab together as a group. 
 
-## Suggested Pacing Guide
-The schedules below are provided as examples only. Feel free to create the right pace of lessons and activities for your students in order to ensure the required learning objectives are met. **Note:** These links will be live when the markdown files are available on Sept. 7
 
-#### 1 Week Pacing
-It is recommended that 1-week students complete both learning paths assigned to them prior to the first day of class. 
-1) Welcome to Python Programming
-2) Addition Python Lessons
+#### Course Schedule
 
-Day 1                                        | Day 2                               | Day 3                                 | Day 4                                        | Day 5: Data Option                       | Day 5: Web Dev Option                    | Day 6 (Select the option for your track)             |
------------------------------------          | ----------------------------------- | ------------------------------------- | -------------------------------------------- | ---------------------------------------- | ---------------------------------------- | ---------------------------------------------------- |
-[:30] [Course Introductions][1-1A]           | [:30] Day 2 Kickoff                 | [:30] Day 3 Kickoff                   | [:30] Day 4 Kickoff                          | [:30] Day 5: Data Kickoff                | [:30] Day 5: Web Dev Kickoff             | [:30] [Summary Kickoff, Data][6-1A]                  |
-[1:00] [Defining Variables][1-1B]            | [1:30] [Functions][2-1B]            | [:30] [Inheritance][3-1B]             | [:15] [Intermediate Python Discussion][4-1B] | [1:00] [Pandas 2][5-1F]                  | [:30] [Intro to Web Dev in Python][5-2B] | [:30] [Summary Kickoff, Web][6-1B]                   |
-[:30] [Python Installations][1-1C]           | [:15] Break                         | [:15] Break                           | [:15] Break                                  | [:15] Break                              | [:30] [Intro to Flask][5-2C]             | [2:00] [In-Class: Final Project Workshop, Web][6-1C] |
+Day 1                                        | Day 2                               | Day 3                                 | Day 4                                        | Day 5: Data Option                       | Day 6 (Select the option for your track)             |
+-----------------------------------          | ----------------------------------- | ------------------------------------- | -------------------------------------------- | ---------------------------------------- | ---------------------------------------------------- |
+[:30] [Course Introductions][1-1A]           | [:30] Day 2 Kickoff                 | [:30] Day 3 Kickoff                   | [:30] Day 4 Kickoff                          | [:30] Day 5: Data Kickoff                | [:30] [Summary Kickoff, Data][6-1A]                  |
+[1:00] [Defining Variables][1-1B]            | [1:30] [Functions][2-1B]            | [:30] [Inheritance][3-1B]             | [:15] [Intermediate Python Discussion][4-1B] | [1:00] [Pandas 2][5-1F]                  | [:30] [Summary Kickoff, Web][6-1B]                   |
+[:30] [Python Installations][1-1C]           | [:15] Break                         | [:15] Break                           | [:15] Break                                  | [:15] Break                              | [2:00] [In-Class: Final Project Workshop, Web][6-1C] |
 [:15] Break                                  | [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C]            | [:30] [Intro to Python for Data][5-1B]       | [1:00] [Plots and Charts][5-1E]          | [:15] Break                              | [2:00] [In-Class: Final Project Workshop, Web][6-1D] |
-[1:00] [Lab #1: Fundamentals][1-1D]          | [1:00] Lunch                        | [:15] Mid-Week Check-in               | [:30] [Modules & Libraries][4-1E]            | [1:00] Lunch                             | [1:15] [Styling Flask][5-2D]             | [1:00] Lunch                                         |
+[1:00] [Lab #1: Fundamentals][1-1D]          | [1:00] Lunch                        | [:15] Mid-Week Check-in               | [:30] [Modules & Libraries][4-1E]            | [1:00] Lunch                             | [1:00] Lunch                                         |
 [1:00] Lunch                                 | [1:30] [Lab #2: Control Flow][2-1D] | [1:00] Lunch                          | [1:00] Lunch                                 | [:45] [Pandas Datetime][5-1I]            | [1:00] Lunch                             | [2:00] [Project Presentations, Data][6-1E]           |
 [1:00] [Conditionals][1-1E]                  | [:30] [Dictionaries][2-1E]          | [:30] [Variable Scope][3-1D]          | [1:00] [Pandas 1][5-1C]                      | [1:00] [Pandas Joins][5-1J]              | [1:00] [Flask Variables][5-2E]           | [2:00] [Project Presentations, Web][6-1F]            |
 [:15] Break                                  | [:45] [Sets & Tuples][2-1F]         | [:15] Break                           | [:15] Break                                  | [1:15] [Lab #6: Weather Forecast][5-1G]  | [:15] Break                              | [:30] [Wrap-up & Celebrations, Data][6-1G]           |
@@ -135,14 +107,6 @@ Day 1                                        | Day 2                            
 [5-1H]: unit-6-pandas/instructor-resources/07-next-steps
 [5-1I]: unit-6-pandas/instructor-resources/08-pandas-datetime
 [5-1J]: unit-6-pandas/instructor-resources/09-pandas-join
-
-[5-2B]: unit-6-flask/instructor-resources/01-web-dev-intro
-[5-2C]: unit-6-flask/instructor-resources/02-flask
-[5-2D]: unit-6-flask/instructor-resources/03-styling-flask
-[5-2E]: unit-6-flask/instructor-resources/04-flask-routing
-[5-2F]: unit-6-flask/instructor-resources/05-flask-templates
-[5-2G]: unit-6-flask/instructor-resources/06-flask-apis
-[5-2H]: unit-6-flask/instructor-resources/08-next-steps
 
 [6-1A]: unit-7-data-wrap-up/instructor-resources/01-review
 [6-1B]: unit-7-web-dev-wrap-up/instructor-resources/01-review
