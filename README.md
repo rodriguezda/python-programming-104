@@ -60,10 +60,10 @@ Day 1                                        | Day 2                            
 [:30] [Course Introductions][1-1A]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] Day 6: Summary Kickoff, Data |
 
 
-[:30] GA Introductions (Erica and David) | [:30] Day 2 Kickoff |  [:30] Day 3 Kickoff  | [:30] Day 4 Kickoff  | [:30] Day 5: Data Kickoff  | [5-1F] | [2:00] In-Class: Final Project Workshop |
+[:30] GA Introductions (Erica and David) | [:30] Day 2 Kickoff |  [:30] Day 3 Kickoff  | [:30] Day 4 Kickoff  | [:30] Day 5: Data Kickoff | [2:00] In-Class: Final Project Workshop |
 
 
-[:30] HW, Labs, Final Project | [1:30] [Functions][2-1B]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2] | [1:00] Extended Break |
+[:30] HW, Labs, Final Project | [1:30] [Functions][2-1B]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2][5-1F] | [1:00] Extended Break |
 
 
 [:30] [Python Environment - Google Colaboratory] [1-1C]    |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][5-1B]  | [:15] Break  |  [1:00] Extended Break    |
