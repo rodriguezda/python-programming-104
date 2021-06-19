@@ -9,7 +9,7 @@ This guide was developed by Susi Remondi and heavily updated by Diego Rodriguez 
 
 ----
 
-> This course introduces beginners to the Python programming language, with a brief working intro to a special topic: Data Science (Pandas).
+> This course introduces beginners to the Python programming language, with a brief working intro to a special topic: Data Science ([Pandas](https://pandas.pydata.org/docs/user_guide/index.html#user-guide)).
 >> Instructor: [Diego Rodriguez](https://generalassemb.ly/instructors/diego-rodriguez/16908)
 
 ## Overview
@@ -38,7 +38,7 @@ Once enrolled, students complete 3.5 hours of pre-work on the myGA platform.
 
 In order to graduate and earn a course completion certificate, every student must complete a final project that meets or exceeds the minimum standards outlined in the project rubric. 
 
-### Learning Objectives
+## Learning Objectives
 The high-level learning objectives for this course are:
 
 - Create a basic Python "app", using control flow, classes, and try/catch statements.
@@ -53,18 +53,17 @@ A Link to the homework assignments for this course are provided here: [course ho
 ## Labs
 Links to the five lab assignments for this course are included in the Course Schedule in the section below. Each day, the students will receive a lab to complete. During lab time, the instructor will introduce the lab, and then approximately 1-1.5 hours will be alloted for students to complete the labs independently (depending on the class size, breakout sessions may be utilized instead, so students can work on the lab together in groups). Afterward, the class will review each lab together as a group. 
 
-
 ## Course Schedule
 
 Day 1                                        | Day 2                               | Day 3                                 | Day 4                                        | Day 5: Data Option                       | Day 6 (Select the option for your track)             |
 -----------------------------------          | ----------------------------------- | ------------------------------------- | -------------------------------------------- | ---------------------------------------- | ---------------------------------------------------- |
-[:30] [Course Introductions][1-1A]           | [:30] Day 2 Kickoff                 | [:30] Day 3 Kickoff                   | [:30] Day 4 Kickoff                          | [:30] Day 5: Data Kickoff                | [:30] [Summary Kickoff, Data][6-1A]                  |
+[:30] [Course Introductions][1-1A]           | [:30] Day 2 Kickoff                 | [:30] Day 3 Kickoff                   | [:30] Day 4 Kickoff                          | [:30] Day 5: Data Kickoff                |
 [1:00] [Defining Variables][1-1B]            | [1:30] [Functions][2-1B]            | [:30] [Inheritance][3-1B]             | [:15] [Intermediate Python Discussion][4-1B] | [1:00] [Pandas 2][5-1F]                  | [:30] [Summary Kickoff, Web][6-1B]                   |
 [:30] [Python Installations][1-1C]           | [:15] Break                         | [:15] Break                           | [:15] Break                                  | [:15] Break                              | [2:00] [In-Class: Final Project Workshop, Web][6-1C] |
 [:15] Break                                  | [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C]            | [:30] [Intro to Python for Data][5-1B]       | [1:00] [Plots and Charts][5-1E]          | [:15] Break                              | [2:00] [In-Class: Final Project Workshop, Web][6-1D] |
 [1:00] [Lab #1: Fundamentals][1-1D]          | [1:00] Lunch                        | [:15] Mid-Week Check-in               | [:30] [Modules & Libraries][4-1E]            | [1:00] Lunch                             | [1:00] Lunch                                         |
-[1:00] Lunch                                 | [1:30] [Lab #2: Control Flow][2-1D] | [1:00] Lunch                          | [1:00] Lunch                                 | [:45] [Pandas Datetime][5-1I]            | [1:00] Lunch                             | [2:00] [Project Presentations, Data][6-1E]           |
-[1:00] [Conditionals][1-1E]                  | [:30] [Dictionaries][2-1E]          | [:30] [Variable Scope][3-1D]          | [1:00] [Pandas 1][5-1C]                      | [1:00] [Pandas Joins][5-1J]              | [1:00] [Flask Variables][5-2E]           | [2:00] [Project Presentations, Web][6-1F]            |
+[1:00] Lunch                                 | [1:30] [Lab #2: Control Flow][2-1D] | [1:00] Lunch                          | [1:00] Lunch                                 | [:45] [Pandas Datetime][5-1I]            | [2:00] [Project Presentations, Data][6-1E]           |
+[1:00] [Conditionals][1-1E]                  | [:30] [Dictionaries][2-1E]          | [:30] [Variable Scope][3-1D]          | [1:00] [Pandas 1][5-1C]                      | [1:00] [Pandas Joins][5-1J]              | [2:00] [Project Presentations, Web][6-1F]            |
 [:15] Break                                  | [:45] [Sets & Tuples][2-1F]         | [:15] Break                           | [:15] Break                                  | [1:15] [Lab #6: Weather Forecast][5-1G]  | [:15] Break                              | [:30] [Wrap-up & Celebrations, Data][6-1G]           |
 [:30] [Loops][1-1G]                          | [:45] [Classes][2-1G]               | [:45] [Debugging Principles][3-1F]    | [1:15] [Lab #5: Intermediate Python][4-1G]   | [:30] [End-of-Day Recap][5-1H]           | [:30] [APIs and Requests][5-2G]          | [:30] [Wrap-up & Celebrations, Web][6-1H]            |
 [:30] [Lists][1-1F]                          | [:15] End-of-Day Recap              | [1:00] [Lab #4: Debugging][3-1G]      | [:15] Final Project Discussion               | --                                       | [1:15] Review and Practice       | --                                                   |
@@ -124,14 +123,18 @@ Day      | Suggested Homework
 3        | [Inheritance, Debugging ][7-1C]
 4        | [Scripting, APIs][7-1D]
 5, Data  | [Pandas EDA, Pandas Visualizations][7-1E], [Consumer Sales Exercise][7-1G], [OMDB Pandas Exercise][7-1H]
-5, Web   | [Rendering Templates, Creating APIs, GET/POST Requests][7-1F]
+<!---
+Extra   | [Rendering Templates, Creating APIs, GET/POST Requests][7-1F]
+--->
 
 [7-1A]: unit-1-variables/instructor-resources/hw-5day-day1
 [7-1B]: unit-2-control-flow/instructor-resources/hw-5day-day2
 [7-1C]: unit-5-intermediate/instructor-resources/hw-5day-day3
 [7-1D]: X
 [7-1E]: unit-6-pandas/instructor-resources/hw-5day-4pandas
+<!---
 [7-1F]: unit-6-flask/instructor-resources/hw-5day-4flask
+--->
 [7-1G]: unit-6-pandas/instructor-resources/10-pandas-consumersales
 [7-1H]: unit-6-pandas/instructor-resources/11-pandas-omdb-exercise
 
