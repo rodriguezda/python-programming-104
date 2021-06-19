@@ -9,19 +9,17 @@ Questions? Comments?
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
-### Instructor Guide
 # Python Programming
 
 ----
 
-> This course introduces beginners to the Python programming language, with a brief working intro to a special topic: either Data Science (Pandas) or Web Development (Flask).
+> This course introduces beginners to the Python programming language, with a brief working intro to a special topic: Data Science (Pandas).
 
 ## Overview
-In this Python Programming course, students will walk away with a solid foundation in Python, able to confidently build basic applications. Students will also get an 8 hour dive into of one of two Python libraries -  either Pandas (for Data Science) or Flask (for Web Development), and walk away with a project of their choosing they've built using that library.
+In this one-week Python Programming course, students will walk away with a foundation in Python programming. Students will get an 8 hour dive into the Python library for data analysis, Pandas, and walk away with a project of their choosing they've built using that library, thus, being able to confidently manage data collection, data manipulation, data analysis, and data presentation using Python and Pandas.
 
 ## Quick Links
 - [About This Guide](#about-this-guide)
-- [Contributors](#contributors)
 - [Course Details](#course-details)
 - [Suggested Pacing Guide](#suggested-pacing-guide)
 - [Appendix: Materials and Resources](#appendix-materials-and-resources)
@@ -48,15 +46,6 @@ Adaptations we encourage you not to make without speaking with your manager firs
 
 When in doubt, discuss any planned changes to the curriculum you’d like to make with your manager, your fellow instructors, or a Global team member. Chances are, someone else can learn from or be inspired by your improvements!
 
-
-## Contributors
-General Assembly’s course materials are developed in close collaboration with our global expert network. This guide could not have been possible without the contributions of the following current and former instructors, students and community members:
-- Brandi Butler
-- Steve Peters
-- Joseph Nelson
-- Kevin Coyle
-- Sonyl Nagale
-- Gregory Godreau
 
 ## Course Details
 Python Programming is a 40-hour course, delivered in either 5 day full-time or 10 week part time (two 2-hour sessions a week) format. There is no admittance requirement - this course is open to and encouraged for absolute beginners.
