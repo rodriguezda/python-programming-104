@@ -55,7 +55,7 @@ Links to the five lab assignments for this course are included in the Course Sch
 
 ## Course Schedule
 
-Day 1  | Day 2   | Day 3   | Day 4  | Day 5: Data Option  | Day 6         | 
+Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6         | 
 ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 [:30] [Course Introductions][1-1A]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] Day 6: Summary Kickoff, Data |
 [:30] GA Introductions (Erica and David) | [:30] Day 2 Kickoff |  [:30] Day 3 Kickoff  | [:30] Day 4 Kickoff  | [:30] Day 5: Data Kickoff | [2:00] In-Class: Final Project Workshop |
