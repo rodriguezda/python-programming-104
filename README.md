@@ -10,7 +10,7 @@ This guide was developed by Susi Remondi and heavily updated by Diego Rodriguez 
 ----
 
 > This course introduces beginners to the Python programming language, with a brief working intro to a special topic: Data Science (Pandas).
-> Instructor: [Diego Rodriguez](https://generalassemb.ly/instructors/diego-rodriguez/16908)
+>> Instructor: [Diego Rodriguez](https://generalassemb.ly/instructors/diego-rodriguez/16908)
 
 ## Overview
 In this one-week Python Programming course, students will walk away with a foundation in Python programming. Students will also get an 8 hour dive into the Python library for data analysis, Pandas, and walk away with a project of their choosing they've built using that library, thus, being able to confidently manage data collection, data manipulation, data analysis, data visualization, and data presentation using Python and Pandas.
