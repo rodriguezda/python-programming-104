@@ -1,10 +1,6 @@
 <!---
 This guide was developed by Susi Remondi and heavily updated by Diego Rodriguez for PYTHON-621 / June 21-26, 2021 / VIRTUAL.
 
-Questions? Comments?
-1. Log an issue to this repo to alert me of a problem.
-2. Suggest an edit yourself by forking this repo, making edits, and submitting a pull request with your changes back to our master branch.
-3. Hit me up on Slack @susiremondi
 --->
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
@@ -14,6 +10,7 @@ Questions? Comments?
 ----
 
 > This course introduces beginners to the Python programming language, with a brief working intro to a special topic: Data Science (Pandas).
+> Instructor: [Diego Rodriguez](https://generalassemb.ly/instructors/diego-rodriguez/16908)
 
 ## Overview
 In this one-week Python Programming course, students will walk away with a foundation in Python programming. Students will also get an 8 hour dive into the Python library for data analysis, Pandas, and walk away with a project of their choosing they've built using that library, thus, being able to confidently manage data collection, data manipulation, data analysis, data visualization, and data presentation using Python and Pandas.
