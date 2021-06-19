@@ -16,7 +16,7 @@ Questions? Comments?
 > This course introduces beginners to the Python programming language, with a brief working intro to a special topic: Data Science (Pandas).
 
 ## Overview
-In this one-week Python Programming course, students will walk away with a foundation in Python programming. Students will get an 8 hour dive into the Python library for data analysis, Pandas, and walk away with a project of their choosing they've built using that library, thus, being able to confidently manage data collection, data manipulation, data analysis, and data presentation using Python and Pandas.
+In this one-week Python Programming course, students will walk away with a foundation in Python programming. Students will also get an 8 hour dive into the Python library for data analysis, Pandas, and walk away with a project of their choosing they've built using that library, thus, being able to confidently manage data collection, data manipulation, data analysis, data visualization, and data presentation using Python and Pandas.
 
 ## Quick Links
 - [About This Guide](#about-this-guide)
