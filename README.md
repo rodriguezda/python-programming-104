@@ -1,5 +1,5 @@
 <!---
-This guide was developed by Susi Remondi for COHORT NAME / DATE / LOCATION HERE.
+This guide was developed by Susi Remondi and heavily updated by Diego Rodriguez for PYTHON-621 / June 21-26, 2021 / VIRTUAL.
 
 Questions? Comments?
 1. Log an issue to this repo to alert me of a problem.
