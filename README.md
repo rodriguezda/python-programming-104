@@ -145,4 +145,4 @@ Day      | Suggested Homework
 - For help and support, join the GA Instructors Slack Community and post your questions in #SLACKCHANNEL.
 
 
-*Copyright 2018, General Assembly Space. Licensed under [CC-BY-NC-SA, 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
+*Copyright 2021, General Assembly Space. Licensed under [CC-BY-NC-SA, 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
