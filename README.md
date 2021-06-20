@@ -48,7 +48,7 @@ The high-level learning objectives for this course are:
 Students cannot graduate unless they demonstrate mastery of the above learning objectives before the end of the course. Mastery is measured through assessment: homeworks, in-class activities and final projects.
 
 ## Homework
-A Link to the homework assignments for this course are provided here: [course homework](xxxx). Homework is distributed at the end of the day, and reviewed at the start of the following day. Given the class size, your instructor can review your homework assignment and provide feedback, if requested. 
+A Link to the homework assignments for this course are provided here: [course homework](xxxx). Homework is distributed at the end of the day, and reviewed at the start of the following day. Given the class size, your instructor can review your homework assignment and provide feedback, **if requested**. 
 
 ## Labs
 Links to the five lab assignments for this course are included in the Course Schedule in the section below. Each day, the students will receive a lab to complete. During lab time, the instructor will introduce the lab, and then approximately 1-1.5 hours will be alloted for students to complete the labs independently (depending on the class size, breakout sessions may be utilized instead, so students can work on the lab together in groups). Afterward, the class will review each lab together as a group. 
