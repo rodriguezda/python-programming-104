@@ -69,7 +69,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [:15] Break   |   [:45] [Sets & Tuples][2-1F]   |  [:45] [Debugging Principles][3-1F]   | [:15] Final Project Discussion |  [1:15] [Lab #6: Weather Forecast][5-1G]  | --- | 
 [:30] [Loops][1-1F]  |  [:15] Break   |  [1:00] [Lab #4: Debugging][3-1G]  |  [:30] End-of-Day Recap  |  [:30] [End-of-Day Recap][5-1H] |  ---  |
 [:30] [Lists][1-1G]   | [:45] [Classes][2-1G]   |  [:30] In-class HW/Review Time  |  ---  |  [:15] Optional: Final Project Discussion  | ---|
-[:30] [End-of-Day Recap][1-1I]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] End-of-Day Recap  |  ---  | ---  | --- | 
+[:30] [End-of-Day Recap][1-1I]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] [End-of-Day Recap][3-1H]  |  ---  | ---  | --- | 
 [:30] Office Hours     | --    |  --   |  --   | --   |  --   | 
        
 <!---                      
@@ -102,7 +102,8 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [3-1D]: https://colab.research.google.com/drive/16yKZQwo-oWip1hTb0Sr3-v33VUFuMbzs?usp=sharing
 [3-1E]: unit-4-troubleshooting/instructor-resources/16-intermediate-variables
 [3-1F]: https://colab.research.google.com/drive/1fzYpBHVplY-L_2gkg4Nw6v33S_paVJJg?usp=sharing
-[3-1G]: unit-4-troubleshooting/instructor-resources/18-unit-lab-4
+[3-1G]: https://colab.research.google.com/drive/1R5XXiKqDKTurdoRVPO7JQxqglvw7shxB?usp=sharing
+[3-1H]: xxx
 
 [4-1B]: unit-5-intermediate/instructor-resources/19-intermediate-intro
 [4-1C]: unit-5-intermediate/instructor-resources/20-scripting
