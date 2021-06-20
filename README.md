@@ -61,7 +61,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [:30] GA Introductions (Erica and David) | [:30] Day 2 Kickoff |  [:30] Day 3 Kickoff  | [:30] Day 4 Kickoff  | [:30] Day 5: Data Kickoff | [2:00] In-Class: Final Project Workshop |
 [:30] [HW, Labs, Final Project][1-1H] | [1:30] [Functions][2-1B], [Decorators][2-1BB]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2][5-1F] | [1:00] Extended Break |
 [:30] [Google Colaboratory][1-1C]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][5-1B]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
-[1:00] [Defining Variables][1-1B]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C]   | [:30] [Modules & Libraries][4-1E]  | [1:00] [Plots and Charts][5-1E]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
+[1:00] [Defining Variables][1-1B]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1E]  | [1:00] [Plots and Charts][5-1E]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
 [:15] Break   |  [1:00] Extended Break  | [:15] Mid-Week Check-in   |   [1:00] Extended Break  |  [1:00] Extended Break  | --- |
 [1:00] [Lab #1: Fundamentals][1-1D]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas 1][5-1C]  | [:45] [Pandas Datetime][5-1I]    |  --- |
 [1:00] Extended Break   | [:30] [Dictionaries][2-1E] |  [:30] [Variable Scope][3-1D]   |  [:15] Break |  [1:00] [Pandas Joins][5-1J]   |  ---  |
@@ -97,7 +97,9 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [2-1H]: xxxxx
 
 [3-1B]: https://colab.research.google.com/drive/10S0bhvnqrJT8tF2voLNgXZIsgqoXZ8Cl?usp=sharing
-[3-1C]: unit-3-oop/instructor-resources/14-unit-lab-3
+[3-1C]: https://colab.research.google.com/drive/1p2P3fIQW990MIRsZTrX66uELUWZUfZjE?usp=sharing
+[3-1CC]: https://colab.research.google.com/drive/1i6x_EX95X8663Utrp8IypPuhHSCgYDLu?usp=sharing
+
 [3-1D]: unit-4-troubleshooting/instructor-resources/15-variable-scope
 [3-1E]: unit-4-troubleshooting/instructor-resources/16-intermediate-variables
 [3-1F]: unit-4-troubleshooting/instructor-resources/17-debugging
