@@ -58,7 +58,7 @@ Links to the five lab assignments for this course are included in the Course Sch
 Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   | 
 ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 [:30] [Course Introductions][1-1A]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] [Day 6: Summary Kickoff][6-1A]  |
-[:30] GA Introductions (Erica and David) | [:30] Day 2 Kickoff |  [:30] Day 3 Kickoff  | [:30] Day 4 Kickoff  | [:30] Day 5: Data Kickoff | [2:00] In-Class: Final Project Workshop |
+[:30] GA Introductions (Erica and David) | [:30] [Day 2 Kickoff][2-1A] |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5: Data Kickoff][5-1A] | [2:00] In-Class: Final Project Workshop |
 [:30] [HW, Labs, Final Project][1-1H] | [1:30] [Functions][2-1B], [Decorators][2-1BB]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2][5-1F] | [1:00] Extended Break |
 [:30] [Google Colaboratory][1-1C]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][5-1B]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
 [1:00] [Defining Variables][1-1B]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1E]  | [1:00] [Plots and Charts][5-1E]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
@@ -87,6 +87,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [1-1H]: unit-1-variables/day1-hw-labs-final-project.md
 [1-1I]: xxxxx
 
+[2-1A]: xxxx
 [2-1B]: https://colab.research.google.com/drive/1cJ2tOOaimnRAdt2aXJH01x0x8kwLw7HA?usp=sharing
 [2-1BB]: https://colab.research.google.com/drive/1ozuWYeKLUfLmAv9TIYUDaMCCe3F78sV1?usp=sharing
 [2-1C]: https://colab.research.google.com/drive/1T7V4nIPFaKbfYj4_N0lN5GnSQs4D6Uip?usp=sharing
@@ -96,6 +97,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [2-1G]: https://colab.research.google.com/drive/1uFS_Px75JWhaf0A1U7y_DMjjWEj25G7i?usp=sharing
 [2-1H]: xxxxx
 
+[3-1A]: xxxx
 [3-1B]: https://colab.research.google.com/drive/10S0bhvnqrJT8tF2voLNgXZIsgqoXZ8Cl?usp=sharing
 [3-1C]: https://colab.research.google.com/drive/1p2P3fIQW990MIRsZTrX66uELUWZUfZjE?usp=sharing
 [3-1CC]: https://colab.research.google.com/drive/1i6x_EX95X8663Utrp8IypPuhHSCgYDLu?usp=sharing
@@ -105,12 +107,14 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [3-1G]: https://colab.research.google.com/drive/1R5XXiKqDKTurdoRVPO7JQxqglvw7shxB?usp=sharing
 [3-1H]: xxx
 
-[4-1B]: unit-5-intermediate/instructor-resources/19-intermediate-intro
+[4-1A]: xxxx
+[4-1B]: https://colab.research.google.com/drive/1yOkC5GoD4-Ny8OGEHjJNVxO8IFAPixqt?usp=sharing
 [4-1C]: unit-5-intermediate/instructor-resources/20-scripting
 [4-1E]: unit-5-intermediate/instructor-resources/22-modules
 [4-1F]: unit-5-intermediate/instructor-resources/23-apis
 [4-1G]: unit-5-intermediate/instructor-resources/24-unit-lab-5
 
+[5-1A]: xxxx
 [5-1B]: unit-6-pandas/instructor-resources/01-ds-intro
 [5-1C]: unit-6-pandas/instructor-resources/02-pandas-i
 [5-1D]: unit-6-pandas/instructor-resources/03-data-viz
