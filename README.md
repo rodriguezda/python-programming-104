@@ -58,7 +58,7 @@ Links to the five lab assignments for this course are included in the Course Sch
 Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   | 
 ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 [:30] [Course Introductions][1-1A]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] [Day 6: Summary Kickoff][6-1A]  |
-[:30] GA Introductions (Erica and David) | [:30] [Day 2 Kickoff][2-1A] |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5 Kickoff][5-1A] | [2:00] In-Class: Final Project Workshop |
+[:30] GA Introductions (Erica and David) | [:30] [Day 2 Kickoff][2-1A] |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5 Kickoff][5-1A] | [2:00] [In-Class: Final Project Workshop][6-1B] |
 [:30] [HW, Labs, Final Project][1-1H] | [1:30] [Functions][2-1B], [Decorators][2-1BB]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2 Intro][5-1B], [Pandas 2 Notebook][5-1BB] | [1:00] Extended Break |
 [:30] [Google Colaboratory][1-1C]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][4-1C]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
 [1:00] [Defining Variables][1-1B]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D]  | [1:00] [Plots and Charts Intro][5-1C], [Notebook][5-1CC]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
@@ -134,10 +134,13 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [5-1J]: unit-6-pandas/instructor-resources/09-pandas-join
 <!---[5-2G]: unit-6-flask/instructor-resources/06-flask-apis--->
 
-[6-1A]: unit-7-data-wrap-up/instructor-resources/01-review
-[6-1C]: unit-7-data-wrap-up/instructor-resources/02-project
-[6-1E]: unit-7-data-wrap-up/instructor-resources/02-project
-[6-1G]: unit-7-data-wrap-up/instructor-resources/03-summary
+[6-1A]: https://colab.research.google.com/drive/11HfEeTrGopGC_PSbxijbayrotoeKCZvF?usp=sharing
+[6-1B]: https://colab.research.google.com/drive/1Ex8U8VvmmkvPSCllOSIcf3JPFNgwHWHf?usp=sharing
+[6-1C]: https://colab.research.google.com/drive/1Ex8U8VvmmkvPSCllOSIcf3JPFNgwHWHf?usp=sharing
+[6-1D]: https://colab.research.google.com/drive/12-gNBsO81yRAb4HywyQswMK4oT8faiot?usp=sharing
+[6-1E]: xxxx
+[6-1F]: xxxx
+[6-1G]: xxxx
 <!---[6-1B]: unit-7-web-dev-wrap-up/instructor-resources/01-review--->
 <!---[6-1D]: unit-7-web-dev-wrap-up/instructor-resources/02-project--->
 <!---[6-1F]: unit-7-web-dev-wrap-up/instructor-resources/02-project--->
@@ -148,15 +151,15 @@ Day      | Suggested Homework
 1        | [Lists, `if/elif/else`, and `for/while`][7-1A]
 2        | [Functions, Dictionaries, *Bonus: Kwargs*][7-1B]
 3        | [Inheritance, Debugging ][7-1C]
-4        | [Scripting, APIs][7-1D]
-5        | [Pandas EDA, Pandas Visualizations][7-1E], [Consumer Sales Exercise][7-1G], [OMDB Pandas Exercise][7-1H]
+<!---4        | [Scripting, APIs][7-1D]--->
+<!---5        | [Pandas EDA, Pandas Visualizations][7-1E], [Consumer Sales Exercise][7-1G], [OMDB Pandas Exercise][7-1H]--->
 <!---
 Extra   | [Rendering Templates, Creating APIs, GET/POST Requests][7-1F]
 --->
 
-[7-1A]: unit-1-variables/instructor-resources/hw-5day-day1
-[7-1B]: unit-2-control-flow/instructor-resources/hw-5day-day2
-[7-1C]: unit-5-intermediate/instructor-resources/hw-5day-day3
+[7-1A]: https://colab.research.google.com/drive/1pgB-liqvXN_U9v7860tlMB5haG5tRRAn?usp=sharing
+[7-1B]: https://colab.research.google.com/drive/1-VqR4yvm4UVWChi3v3HPDO7-6OT6NdK6?usp=sharing
+[7-1C]: https://colab.research.google.com/drive/1__0CAhmj8WVbVH_ANdSoum44TDGf9MvT?usp=sharing
 [7-1D]: X
 [7-1E]: unit-6-pandas/instructor-resources/hw-5day-4pandas
 <!---
