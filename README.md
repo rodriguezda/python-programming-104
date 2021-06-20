@@ -91,7 +91,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [2-1C]: https://colab.research.google.com/drive/1T7V4nIPFaKbfYj4_N0lN5GnSQs4D6Uip?usp=sharing
 [2-1D]: https://colab.research.google.com/drive/1osi0pjYorszSxAyKisNhn_JTQIYvYWe6?usp=sharing
 [2-1E]: https://drive.google.com/file/d/15otQYkKeYNysmQWNaInJea0Chy2ztwGs/view?usp=sharing
-[2-1F]: unit-3-oop/instructor-resources/11-sets-tuples
+[2-1F]: https://colab.research.google.com/drive/16s8vMdwOm4P5aOYhe8iwzcNjYXkM6R5J?usp=sharing
 [2-1G]: unit-3-oop/instructor-resources/12-classes
 
 [3-1B]: unit-3-oop/instructor-resources/13-inheritance
