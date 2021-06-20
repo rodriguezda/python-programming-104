@@ -58,7 +58,7 @@ Links to the five lab assignments for this course are included in the Course Sch
 Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   | 
 ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 [:30] [Course Introductions][1-1A]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] [Day 6: Summary Kickoff][6-1A]  |
-[:30] GA Introductions (Erica and David) | [:30] [Day 2 Kickoff][2-1A] |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5: Data Kickoff][5-1A] | [2:00] In-Class: Final Project Workshop |
+[:30] GA Introductions (Erica and David) | [:30] [Day 2 Kickoff][2-1A] |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5 Kickoff][5-1A] | [2:00] In-Class: Final Project Workshop |
 [:30] [HW, Labs, Final Project][1-1H] | [1:30] [Functions][2-1B], [Decorators][2-1BB]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2][5-1F] | [1:00] Extended Break |
 [:30] [Google Colaboratory][1-1C]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][4-1C]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
 [1:00] [Defining Variables][1-1B]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D]  | [1:00] [Plots and Charts][5-1E]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
@@ -114,7 +114,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [4-1E]: https://colab.research.google.com/drive/1hnzdA_tSQ2zIGKE1KZkcIQGiTre9vh9w?usp=sharing
 [4-1EE]: https://colab.research.google.com/drive/1-gYSubXmwN0OJzyP8h-vpbuZ6Zmxyqxc?usp=sharing
 [4-1F]: https://colab.research.google.com/drive/1EoePiLgN6BrX3nOMQil9qdtdXvMslwTq?usp=sharing
-[4-1G]: unit-5-intermediate/instructor-resources/24-unit-lab-5
+[4-1G]: XXXX
 [4-1H]: XXXX
 
 [5-1A]: xxxx
