@@ -77,7 +77,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 --->
 
 
-[1-1A]: unit-1-variables/instructor-resources/01-welcome
+[1-1A]: /unit-1-variables/day1-welcome-slides.md
 [1-1B]: unit-1-variables/instructor-resources/02-variables
 [1-1C]: https://colab.research.google.com/drive/1riuwhlTRrQIuY4MVnw9AMPVoiKW8K-Xo?usp=sharing
 [1-1D]: unit-1-variables/instructor-resources/03-unit-lab-1
