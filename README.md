@@ -89,7 +89,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [2-1B]: https://colab.research.google.com/drive/1cJ2tOOaimnRAdt2aXJH01x0x8kwLw7HA?usp=sharing
 [2-1BB]: https://colab.research.google.com/drive/1ozuWYeKLUfLmAv9TIYUDaMCCe3F78sV1?usp=sharing
 [2-1C]: https://colab.research.google.com/drive/1T7V4nIPFaKbfYj4_N0lN5GnSQs4D6Uip?usp=sharing
-[2-1D]: unit-2-control-flow/instructor-resources/09-unit-lab-2
+[2-1D]: https://colab.research.google.com/drive/1osi0pjYorszSxAyKisNhn_JTQIYvYWe6?usp=sharing
 [2-1E]: unit-3-oop/instructor-resources/10-dictionaries
 [2-1F]: unit-3-oop/instructor-resources/11-sets-tuples
 [2-1G]: unit-3-oop/instructor-resources/12-classes
