@@ -78,7 +78,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 
 
 [1-1A]: unit-1-variables/day1-welcome-slides.md
-[1-1B]: https://colab.research.google.com/drive/1JEfYIowaRA8ci_RpJE1Gfa7OGyzhH1KH?usp=sharing
+[1-1B]: https://colab.research.google.com/drive/1ot-QxmXfdbQexLJtiRaVqeosibepEVqv?usp=sharing
 [1-1C]: https://colab.research.google.com/drive/1riuwhlTRrQIuY4MVnw9AMPVoiKW8K-Xo?usp=sharing
 [1-1D]: https://colab.research.google.com/drive/1ztcIUodygDEYDRWMnXIwm2xkG_xl_ase?usp=sharing
 [1-1E]: unit-2-control-flow/instructor-resources/04-conditionals
