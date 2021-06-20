@@ -60,14 +60,14 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [:30] [Course Introductions][1-1A]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] [Day 6: Summary Kickoff][6-1A]  |
 [:30] GA Introductions (Erica and David) | [:30] [Day 2 Kickoff][2-1A] |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5: Data Kickoff][5-1A] | [2:00] In-Class: Final Project Workshop |
 [:30] [HW, Labs, Final Project][1-1H] | [1:30] [Functions][2-1B], [Decorators][2-1BB]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2][5-1F] | [1:00] Extended Break |
-[:30] [Google Colaboratory][1-1C]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][5-1B]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
-[1:00] [Defining Variables][1-1B]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1E]  | [1:00] [Plots and Charts][5-1E]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
+[:30] [Google Colaboratory][1-1C]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][4-1C]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
+[1:00] [Defining Variables][1-1B]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D]  | [1:00] [Plots and Charts][5-1E]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
 [:15] Break   |  [1:00] Extended Break  | [:15] Mid-Week Check-in   |   [1:00] Extended Break  |  [1:00] Extended Break  | --- |
-[1:00] [Lab #1: Fundamentals][1-1D]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas 1][5-1C]  | [:45] [Pandas Datetime][5-1I]    |  --- |
+[1:00] [Lab #1: Fundamentals][1-1D]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas 1][4-1E], [Pandas 2][4-1EE]  | [:45] [Pandas Datetime][5-1I]    |  --- |
 [1:00] Extended Break   | [:30] [Dictionaries][2-1E] |  [:30] [Variable Scope][3-1D]   |  [:15] Break |  [1:00] [Pandas Joins][5-1J]   |  ---  |
-[1:00] [Conditionals][1-1E]   | [:15] Break   | [:15] Break   |  [1:15] [Lab #5: Intermediate Python][4-1G]   |   [:15] Break   |  ----  |
-[:15] Break   |   [:45] [Sets & Tuples][2-1F]   |  [:45] [Debugging Principles][3-1F]   | [:15] Final Project Discussion |  [1:15] [Lab #6: Weather Forecast][5-1G]  | --- | 
-[:30] [Loops][1-1F]  |  [:15] Break   |  [1:00] [Lab #4: Debugging][3-1G]  |  [:30] End-of-Day Recap  |  [:30] [End-of-Day Recap][5-1H] |  ---  |
+[1:00] [Conditionals][1-1E]   | [:15] Break   | [:15] Break   |  [1:15] [Lab #5: Intermediate Python][4-1F]   |   [:15] Break   |  ----  |
+[:15] Break   |   [:45] [Sets & Tuples][2-1F]   |  [:45] [Debugging Principles][3-1F]   | [:15] [Final Project Discussion][4-1G] |  [1:15] [Lab #6: Weather Forecast][5-1G]  | --- | 
+[:30] [Loops][1-1F]  |  [:15] Break   |  [1:00] [Lab #4: Debugging][3-1G]  |  [:30] [End-of-Day Recap][4-1H]  |  [:30] [End-of-Day Recap][5-1H] |  ---  |
 [:30] [Lists][1-1G]   | [:45] [Classes][2-1G]   |  [:30] In-class HW/Review Time  |  ---  |  [:15] Optional: Final Project Discussion  | ---|
 [:30] [End-of-Day Recap][1-1I]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] [End-of-Day Recap][3-1H]  |  ---  | ---  | --- | 
 [:30] Office Hours     | --    |  --   |  --   | --   |  --   | 
@@ -109,10 +109,13 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 
 [4-1A]: xxxx
 [4-1B]: https://colab.research.google.com/drive/1yOkC5GoD4-Ny8OGEHjJNVxO8IFAPixqt?usp=sharing
-[4-1C]: unit-5-intermediate/instructor-resources/20-scripting
-[4-1E]: unit-5-intermediate/instructor-resources/22-modules
-[4-1F]: unit-5-intermediate/instructor-resources/23-apis
+[4-1C]: https://colab.research.google.com/drive/1jaL7K_P80usXCWbmFqLwXbN9UJ0wtF2h?usp=sharing
+[4-1D]: https://colab.research.google.com/drive/1WAMiLfzjHRkE615zL53ntXkO0yYsrnBo?usp=sharing
+[4-1E]: https://colab.research.google.com/drive/1hnzdA_tSQ2zIGKE1KZkcIQGiTre9vh9w?usp=sharing
+[4-1EE]: https://colab.research.google.com/drive/1-gYSubXmwN0OJzyP8h-vpbuZ6Zmxyqxc?usp=sharing
+[4-1F]: https://colab.research.google.com/drive/1EoePiLgN6BrX3nOMQil9qdtdXvMslwTq?usp=sharing
 [4-1G]: unit-5-intermediate/instructor-resources/24-unit-lab-5
+[4-1H]: XXXX
 
 [5-1A]: xxxx
 [5-1B]: unit-6-pandas/instructor-resources/01-ds-intro
