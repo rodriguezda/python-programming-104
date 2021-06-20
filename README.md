@@ -96,7 +96,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [2-1G]: https://colab.research.google.com/drive/1uFS_Px75JWhaf0A1U7y_DMjjWEj25G7i?usp=sharing
 [2-1H]: xxxxx
 
-[3-1B]: unit-3-oop/instructor-resources/13-inheritance
+[3-1B]: https://colab.research.google.com/drive/10S0bhvnqrJT8tF2voLNgXZIsgqoXZ8Cl?usp=sharing
 [3-1C]: unit-3-oop/instructor-resources/14-unit-lab-3
 [3-1D]: unit-4-troubleshooting/instructor-resources/15-variable-scope
 [3-1E]: unit-4-troubleshooting/instructor-resources/16-intermediate-variables
