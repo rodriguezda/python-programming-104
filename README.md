@@ -86,7 +86,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [1-1G]: https://colab.research.google.com/drive/1IvwKNlJT1d4iA_swGGye7myvLNrACUsy?usp=sharing
 [1-1H]: unit-1-variables/day1-hw-labs-final-project.md
 
-[2-1B]: unit-2-control-flow/instructor-resources/07-functions
+[2-1B]: https://colab.research.google.com/drive/1cJ2tOOaimnRAdt2aXJH01x0x8kwLw7HA?usp=sharing
 [2-1BB]: https://colab.research.google.com/drive/1ozuWYeKLUfLmAv9TIYUDaMCCe3F78sV1?usp=sharing
 [2-1C]: unit-2-control-flow/instructor-resources/08-args
 [2-1D]: unit-2-control-flow/instructor-resources/09-unit-lab-2
