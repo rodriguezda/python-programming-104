@@ -1,5 +1,5 @@
 ---
-title: Welcome to Python Programming!
+title: Homework, Labs, final Project
 type: lesson
 duration: "01:00"
 creator:
