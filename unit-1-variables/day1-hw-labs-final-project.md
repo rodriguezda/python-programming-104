@@ -1,13 +1,13 @@
 ---
 title: Homework, Labs, final Project
-type: lesson
-duration: "01:00"
+type: Overview
+duration: "0:30"
 creator:
-    name: Brandi Butler
-    city: Seattle
+    name: Diego Rodriguez
+    city: Virtual
 ---
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to Python Programming!
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Homework, Labs, final Project!
 
 
 
