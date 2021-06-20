@@ -1,0 +1,71 @@
+body {
+  font-family: "Georgia", sans-serif;
+  color: #333a56;
+  text-align: center;
+  font-size: 16px;
+  background: #f7f5e6;
+}
+
+
+h2 {
+  text-transform: uppercase;
+  font-weight: bold;
+}
+
+/* ----- Below this was in the starter file ------ */
+
+/*
+This styles the hyperlinks. It sets the color, removes the default underline that hyperlines have, makes the text in the link bold, and puts some space between the link and everything else.
+If you're curious about margin, look up "CSS Box Model".
+*/
+
+
+a {
+  color: #52658f;
+  text-decoration: none;
+  font-weight: bold;
+  margin: 20px;
+}
+
+/*
+This styles the paragraphs. Line height is the space between multiple lines of text. The default is 1, so here, we're increasing that number up for readability.
+*/
+
+p {
+  line-height: 1.5;
+}
+
+/*
+This styles the table, which is used in the search results on the home page. It has a margin like above, to make the table easier to read. It sets a larger font, and makes all the text bold.
+*/
+
+table {
+  margin-left: 30%;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/*
+td is a table column. This puts a solid line of the specified color underneath the column. It's one pixel high.
+*/
+
+td {
+  border-bottom: 1px solid #333a56;
+}
+
+/*
+This is the form on the home page. It puts space around the text in the form to make it easier to read. To learn more about padding, look up the "CSS Box Model".
+*/
+
+input {
+  padding: 20px;
+}
+
+/*
+This styles the entire form, which is used on the home page. It has a padding like above, to make the form easier to read. It also sets all the text bold.
+*/
+
+form {
+  font-weight: bold;
+  padding: 20px;
+}

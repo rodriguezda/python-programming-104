@@ -1,0 +1,9 @@
+1. A nested loop is when one loop happens inside of another loop
+
+2. While loops
+
+3. For loops
+
+4. Yes! The example given is the string "sammy" in the for loop article.
+
+5. Yes, it is possible. The conditions of each loop are independent of one another.

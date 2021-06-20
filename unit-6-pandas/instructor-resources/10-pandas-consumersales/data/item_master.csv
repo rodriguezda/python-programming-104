@@ -1,0 +1,828 @@
+Item Number,Product Group,Product Line,Product Sub Group,Product Type
+10001,Beverages,Drink,Juice,Pure Juice Beverages
+10002,Beverages,Drink,Flavored Drinks,Drinks
+10003,Beverages,Drink,Flavored Drinks,Drinks
+10004,Beverages,Drink,Soda,Carbonated Beverages
+10005,Beverages,Drink,Soda,Carbonated Beverages
+10006,Beverages,Drink,Soda,Carbonated Beverages
+10007,Beverages,Drink,Soda,Carbonated Beverages
+10008,Beverages,Drink,Juice,Pure Juice Beverages
+10009,Beverages,Drink,Juice,Pure Juice Beverages
+10010,Beverages,Drink,Juice,Pure Juice Beverages
+10011,Beverages,Drink,Flavored Drinks,Drinks
+10012,Breakfast Foods,Food,Cereal,Breakfast Foods
+10013,Breakfast Foods,Food,Cereal,Breakfast Foods
+10014,Breakfast Foods,Food,Cereal,Breakfast Foods
+10015,Breakfast Foods,Food,Cereal,Breakfast Foods
+10016,Canned Products,Food,Canned Vegetables,Vegetables
+10017,Canned Products,Food,Canned Vegetables,Vegetables
+10018,Canned Products,Food,Canned Vegetables,Vegetables
+10019,Canned Products,Food,Soup,Canned Soup
+10020,Canned Products,Food,Canned Vegetables,Vegetables
+10021,Canned Products,Food,Soup,Canned Soup
+10022,Canned Products,Food,Canned Vegetables,Vegetables
+10023,Canned Products,Food,Soup,Canned Soup
+10024,Canned Products,Food,Soup,Canned Soup
+10025,Canned Products,Food,Soup,Canned Soup
+10026,Canned Products,Food,Soup,Canned Soup
+10027,Canned Products,Food,Soup,Canned Soup
+10028,Canned Products,Food,Canned Vegetables,Vegetables
+10029,Canned Products,Food,Soup,Canned Soup
+10030,Canned Products,Food,Tuna,Canned Tuna
+10031,Canned Products,Food,Tuna,Canned Tuna
+10032,Canned Products,Food,Shrimp,Canned Shrimp
+10033,Canned Products,Food,Anchovies,Canned Anchovies
+10034,Canned Products,Food,Clams,Canned Clams
+10035,Canned Products,Food,Oysters,Canned Oysters
+10036,Canned Products,Food,Sardines,Canned Sardines
+10037,Canned Products,Food,Soup,Canned Soup
+10038,Canned Products,Food,Canned Fruit,Fruit
+10039,Canned Products,Food,Canned Fruit,Fruit
+10043,Dairy,Food,Cottage Cheese,Dairy
+10044,Dairy,Food,Sour Cream,Dairy
+10045,Dairy,Food,Sour Cream,Dairy
+10046,Dairy,Food,Cheese,Dairy
+10047,Dairy,Food,Cheese,Dairy
+10048,Dairy,Food,Cheese,Dairy
+10049,Dairy,Food,Cheese,Dairy
+10050,Dairy,Food,Cheese,Dairy
+10051,Dairy,Food,Cheese,Dairy
+10052,Dairy,Food,Cheese,Dairy
+10053,Dairy,Food,Cheese,Dairy
+10054,Dairy,Food,Cheese,Dairy
+10055,Dairy,Food,Cottage Cheese,Dairy
+10056,Dairy,Drink,Milk,Dairy
+10057,Dairy,Drink,Milk,Dairy
+10058,Dairy,Drink,Milk,Dairy
+10059,Dairy,Drink,Milk,Dairy
+10060,Dairy,Drink,Milk,Dairy
+10061,Dairy,Food,Yogurt,Dairy
+10062,Dairy,Food,Yogurt,Dairy
+10063,Deli,Food,Hot Dogs,Meat
+10064,Deli,Food,Bologna,Meat
+10065,Deli,Food,Bologna,Meat
+10066,Deli,Food,Bologna,Meat
+10067,Deli,Food,Hot Dogs,Meat
+10068,Deli,Food,Hot Dogs,Meat
+10069,Deli,Food,Deli Salads,Side Dishes
+10070,Deli,Food,Deli Salads,Side Dishes
+10071,Deli,Food,Fresh Chicken,Meat
+10072,Deli,Food,Deli Meats,Meat
+10073,Deli,Food,Deli Meats,Meat
+10074,Deli,Food,Deli Meats,Meat
+10075,Deli,Food,Deli Salads,Side Dishes
+10076,Deli,Food,Deli Meats,Meat
+10077,Eggs,Food,Eggs,Eggs
+10078,Eggs,Food,Eggs,Eggs
+10079,Eggs,Food,Eggs,Eggs
+10080,Eggs,Food,Eggs,Eggs
+10081,Eggs,Food,Eggs,Eggs
+10082,Frozen Foods,Food,Waffles,Breakfast Foods
+10083,Frozen Foods,Food,Popsicles,Frozen Desserts
+10084,Frozen Foods,Food,Frozen Chicken,Meat
+10085,Frozen Foods,Food,Pancakes,Breakfast Foods
+10086,Frozen Foods,Food,French Fries,Vegetables
+10087,Frozen Foods,Food,Pizza,Pizza
+10088,Frozen Foods,Food,Waffles,Breakfast Foods
+10089,Frozen Foods,Food,French Fries,Vegetables
+10090,Frozen Foods,Food,Waffles,Breakfast Foods
+10091,Frozen Foods,Food,Pizza,Pizza
+10092,Frozen Foods,Food,Pizza,Pizza
+10093,Frozen Foods,Food,Pizza,Pizza
+10094,Frozen Foods,Food,Waffles,Breakfast Foods
+10095,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10096,Frozen Foods,Food,TV Dinner,Frozen Entrees
+10097,Frozen Foods,Food,TV Dinner,Frozen Entrees
+10098,Frozen Foods,Food,TV Dinner,Frozen Entrees
+10099,Frozen Foods,Food,Pancake Mix,Breakfast Foods
+10100,Frozen Foods,Food,Popsicles,Frozen Desserts
+10101,Frozen Foods,Food,French Fries,Vegetables
+10102,Frozen Foods,Food,Popsicles,Frozen Desserts
+10103,Frozen Foods,Food,Ice Cream,Frozen Desserts
+10104,Frozen Foods,Food,Ice Cream,Frozen Desserts
+10105,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10106,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10107,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10108,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10109,Frozen Foods,Food,Ice Cream,Frozen Desserts
+10110,Frozen Foods,Food,Frozen Chicken,Meat
+10111,Frozen Foods,Food,Frozen Chicken,Meat
+10112,Frozen Foods,Food,Popsicles,Frozen Desserts
+10164,Meat,Food,Hamburger,Meat
+10171,Produce,Food,Fresh Vegetables,Vegetables
+10172,Produce,Food,Fresh Vegetables,Vegetables
+10173,Produce,Food,Fresh Vegetables,Vegetables
+10174,Produce,Food,Fresh Vegetables,Vegetables
+10175,Produce,Food,Fresh Vegetables,Vegetables
+10176,Produce,Food,Fresh Vegetables,Vegetables
+10177,Produce,Food,Fresh Vegetables,Vegetables
+10178,Produce,Food,Fresh Vegetables,Vegetables
+10179,Produce,Food,Fresh Vegetables,Vegetables
+10180,Produce,Food,Fresh Vegetables,Vegetables
+10181,Produce,Food,Fresh Vegetables,Vegetables
+10182,Produce,Food,Fresh Vegetables,Vegetables
+10183,Produce,Food,Fresh Vegetables,Vegetables
+10184,Produce,Food,Fresh Vegetables,Vegetables
+10185,Produce,Food,Fresh Vegetables,Vegetables
+10186,Produce,Food,Fresh Vegetables,Vegetables
+10187,Produce,Food,Fresh Vegetables,Vegetables
+10188,Produce,Food,Fresh Vegetables,Vegetables
+10189,Produce,Food,Fresh Vegetables,Vegetables
+10190,Produce,Food,Fresh Vegetables,Vegetables
+10191,Produce,Food,Fresh Vegetables,Vegetables
+10192,Produce,Food,Fresh Vegetables,Vegetables
+10193,Produce,Food,Fresh Fruit,Fruit
+10194,Produce,Food,Tofu,Packaged Vegetables
+10195,Produce,Food,Nuts,Specialty
+10196,Produce,Food,Fresh Fruit,Fruit
+10197,Produce,Food,Fresh Fruit,Fruit
+10198,Produce,Food,Fresh Fruit,Fruit
+10199,Produce,Food,Fresh Fruit,Fruit
+10200,Produce,Food,Fresh Fruit,Fruit
+10201,Produce,Food,Fresh Fruit,Fruit
+10202,Produce,Food,Fresh Fruit,Fruit
+10203,Produce,Food,Fresh Vegetables,Vegetables
+10204,Produce,Food,Fresh Fruit,Fruit
+10205,Produce,Food,Nuts,Specialty
+10206,Produce,Food,Nuts,Specialty
+10207,Produce,Food,Fresh Vegetables,Vegetables
+10208,Produce,Food,Fresh Fruit,Fruit
+10209,Produce,Food,Fresh Fruit,Fruit
+10210,Produce,Food,Fresh Fruit,Fruit
+10211,Produce,Food,Nuts,Specialty
+10212,Produce,Food,Fresh Fruit,Fruit
+10213,Produce,Food,Fresh Fruit,Fruit
+10214,Produce,Food,Nuts,Specialty
+10215,Seafood,Food,Fresh Fish,Seafood
+10216,Seafood,Food,Shellfish,Seafood
+10217,Snacks,Food,Cookies,Snack Foods
+10218,Snacks,Food,Chips,Snack Foods
+10219,Snacks,Food,Chips,Snack Foods
+10220,Snacks,Food,Chips,Snack Foods
+10221,Snacks,Food,Cookies,Snack Foods
+10222,Snacks,Food,Cookies,Snack Foods
+10223,Snacks,Food,Cookies,Snack Foods
+10224,Snacks,Food,Cookies,Snack Foods
+10225,Snacks,Food,Chips,Snack Foods
+10226,Snacks,Food,Cookies,Snack Foods
+10227,Snacks,Food,Cookies,Snack Foods
+10228,Snacks,Food,Crackers,Snack Foods
+10229,Snacks,Food,Popcorn,Snack Foods
+10230,Snacks,Food,Popcorn,Snack Foods
+10231,Snacks,Food,Popcorn,Snack Foods
+10232,Snacks,Food,Dips,Snack Foods
+10233,Snacks,Food,Dips,Snack Foods
+10234,Snacks,Food,Pretzels,Snack Foods
+10235,Snacks,Food,Dips,Snack Foods
+10236,Snacks,Food,Dips,Snack Foods
+10237,Snacks,Food,Donuts,Snack Foods
+10238,Snacks,Food,Dried Meat,Snack Foods
+10239,Snacks,Food,Donuts,Snack Foods
+10240,Snacks,Food,Chips,Snack Foods
+10241,Snacks,Food,Crackers,Snack Foods
+10242,Snacks,Food,Cookies,Snack Foods
+10243,Snacks,Food,Dried Fruit,Snack Foods
+10244,Snacks,Food,Dried Fruit,Snack Foods
+10245,Snacks,Food,Dried Fruit,Snack Foods
+10247,Snacks,Food,Dried Fruit,Snack Foods
+10248,Snacks,Food,Dried Fruit,Snack Foods
+10249,Snacks,Food,Dried Fruit,Snack Foods
+10250,Snacks,Food,Dried Fruit,Snack Foods
+10251,Snacks,Food,Dried Fruit,Snack Foods
+10252,Snacks,Food,Donuts,Snack Foods
+10253,Snacks,Food,Chocolate Candy,Candy
+10254,Snacks,Food,Chocolate Candy,Candy
+10255,Snacks,Food,Chocolate Candy,Candy
+10256,Snacks,Food,Chocolate Candy,Candy
+10257,Snacks,Food,Gum,Candy
+10258,Snacks,Food,Hard Candy,Candy
+10259,Snacks,Food,Hard Candy,Candy
+10260,Snacks,Food,Chocolate Candy,Candy
+10261,Starchy Foods,Food,Pasta,Starchy Foods
+10262,Starchy Foods,Food,Pasta,Starchy Foods
+10263,Starchy Foods,Food,Pasta,Starchy Foods
+10264,Starchy Foods,Food,Rice,Starchy Foods
+10265,Starchy Foods,Food,Rice,Starchy Foods
+10266,Alcoholic Beverages,Drink,Beer,Beer and Wine
+10267,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10268,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10269,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10270,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10271,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10272,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10273,Alcoholic Beverages,Drink,Beer,Beer and Wine
+10274,Baked Goods,Food,Sliced Bread,Bread
+10275,Baked Goods,Food,Sliced Bread,Bread
+10276,Baked Goods,Food,Sliced Bread,Bread
+10277,Baked Goods,Food,Muffins,Bread
+10278,Baked Goods,Food,Muffins,Bread
+10279,Baked Goods,Food,Muffins,Bread
+10280,Baked Goods,Food,Bagels,Bread
+10281,Baked Goods,Food,Muffins,Bread
+10282,Baked Goods,Food,Sliced Bread,Bread
+10283,Baking Goods,Food,Cooking Oil,Baking Goods
+10284,Baking Goods,Food,Peanut Butter,Jams and Jellies
+10285,Beverages,Drink,Chocolate,Hot Beverages
+10286,Baking Goods,Food,Sugar,Baking Goods
+10287,Baking Goods,Food,Sugar,Baking Goods
+10288,Beverages,Drink,Coffee,Hot Beverages
+10289,Beverages,Drink,Coffee,Hot Beverages
+10290,Beverages,Drink,Coffee,Hot Beverages
+10291,Baking Goods,Food,Cooking Oil,Baking Goods
+10292,Baking Goods,Food,Cooking Oil,Baking Goods
+10293,Baking Goods,Food,Sauces,Baking Goods
+10294,Baking Goods,Food,Cooking Oil,Baking Goods
+10295,Baking Goods,Food,Preserves,Jams and Jellies
+10296,Beverages,Drink,Coffee,Hot Beverages
+10297,Baking Goods,Food,Jelly,Jams and Jellies
+10298,Baking Goods,Food,Spices,Baking Goods
+10299,Baking Goods,Food,Preserves,Jams and Jellies
+10300,Baking Goods,Food,Spices,Baking Goods
+10301,Baking Goods,Food,Preserves,Jams and Jellies
+10302,Baking Goods,Food,Spices,Baking Goods
+10303,Baking Goods,Food,Jelly,Jams and Jellies
+10304,Baking Goods,Food,Jam,Jams and Jellies
+10305,Baking Goods,Food,Jam,Jams and Jellies
+10306,Baking Goods,Food,Jam,Jams and Jellies
+10307,Baking Goods,Food,Peanut Butter,Jams and Jellies
+10308,Baking Goods,Food,Preserves,Jams and Jellies
+10309,Baking Goods,Food,Peanut Butter,Jams and Jellies
+10310,Baking Goods,Food,Preserves,Jams and Jellies
+10311,Baking Goods,Food,Jelly,Jams and Jellies
+10312,Beverages,Drink,Juice,Pure Juice Beverages
+10313,Beverages,Drink,Flavored Drinks,Drinks
+10314,Beverages,Drink,Flavored Drinks,Drinks
+10315,Beverages,Drink,Soda,Carbonated Beverages
+10316,Beverages,Drink,Soda,Carbonated Beverages
+10317,Beverages,Drink,Soda,Carbonated Beverages
+10318,Beverages,Drink,Soda,Carbonated Beverages
+10319,Beverages,Drink,Juice,Pure Juice Beverages
+10320,Beverages,Drink,Juice,Pure Juice Beverages
+10321,Beverages,Drink,Juice,Pure Juice Beverages
+10322,Beverages,Drink,Flavored Drinks,Drinks
+10323,Breakfast Foods,Food,Cereal,Breakfast Foods
+10324,Breakfast Foods,Food,Cereal,Breakfast Foods
+10325,Breakfast Foods,Food,Cereal,Breakfast Foods
+10326,Breakfast Foods,Food,Cereal,Breakfast Foods
+10327,Canned Products,Food,Canned Vegetables,Vegetables
+10328,Canned Products,Food,Canned Vegetables,Vegetables
+10329,Canned Products,Food,Canned Vegetables,Vegetables
+10330,Canned Products,Food,Soup,Canned Soup
+10331,Canned Products,Food,Canned Vegetables,Vegetables
+10332,Canned Products,Food,Soup,Canned Soup
+10333,Canned Products,Food,Canned Vegetables,Vegetables
+10334,Canned Products,Food,Soup,Canned Soup
+10335,Canned Products,Food,Soup,Canned Soup
+10336,Canned Products,Food,Soup,Canned Soup
+10337,Canned Products,Food,Soup,Canned Soup
+10338,Canned Products,Food,Soup,Canned Soup
+10339,Canned Products,Food,Canned Vegetables,Vegetables
+10340,Canned Products,Food,Soup,Canned Soup
+10341,Canned Products,Food,Tuna,Canned Tuna
+10342,Canned Products,Food,Tuna,Canned Tuna
+10343,Canned Products,Food,Shrimp,Canned Shrimp
+10344,Canned Products,Food,Anchovies,Canned Anchovies
+10345,Canned Products,Food,Clams,Canned Clams
+10346,Canned Products,Food,Oysters,Canned Oysters
+10347,Canned Products,Food,Sardines,Canned Sardines
+10348,Canned Products,Food,Soup,Canned Soup
+10349,Canned Products,Food,Canned Fruit,Fruit
+10350,Canned Products,Food,Canned Fruit,Fruit
+10354,Dairy,Food,Cottage Cheese,Dairy
+10355,Dairy,Food,Sour Cream,Dairy
+10356,Dairy,Food,Sour Cream,Dairy
+10357,Dairy,Food,Cheese,Dairy
+10358,Dairy,Food,Cheese,Dairy
+10359,Dairy,Food,Cheese,Dairy
+10360,Dairy,Food,Cheese,Dairy
+10361,Dairy,Food,Cheese,Dairy
+10362,Dairy,Food,Cheese,Dairy
+10363,Dairy,Food,Cheese,Dairy
+10364,Dairy,Food,Cheese,Dairy
+10365,Dairy,Food,Cheese,Dairy
+10366,Dairy,Food,Cottage Cheese,Dairy
+10367,Dairy,Drink,Milk,Dairy
+10368,Dairy,Drink,Milk,Dairy
+10369,Dairy,Drink,Milk,Dairy
+10370,Dairy,Drink,Milk,Dairy
+10371,Dairy,Drink,Milk,Dairy
+10372,Dairy,Food,Yogurt,Dairy
+10373,Dairy,Food,Yogurt,Dairy
+10374,Deli,Food,Hot Dogs,Meat
+10375,Deli,Food,Bologna,Meat
+10376,Deli,Food,Bologna,Meat
+10377,Deli,Food,Bologna,Meat
+10378,Deli,Food,Hot Dogs,Meat
+10379,Deli,Food,Hot Dogs,Meat
+10380,Deli,Food,Deli Salads,Side Dishes
+10381,Deli,Food,Deli Salads,Side Dishes
+10382,Deli,Food,Fresh Chicken,Meat
+10383,Deli,Food,Deli Meats,Meat
+10384,Deli,Food,Deli Meats,Meat
+10385,Deli,Food,Deli Meats,Meat
+10386,Deli,Food,Deli Salads,Side Dishes
+10387,Deli,Food,Deli Meats,Meat
+10388,Eggs,Food,Eggs,Eggs
+10389,Eggs,Food,Eggs,Eggs
+10390,Eggs,Food,Eggs,Eggs
+10391,Eggs,Food,Eggs,Eggs
+10392,Eggs,Food,Eggs,Eggs
+10393,Frozen Foods,Food,Waffles,Breakfast Foods
+10394,Frozen Foods,Food,Popsicles,Frozen Desserts
+10395,Frozen Foods,Food,Frozen Chicken,Meat
+10396,Frozen Foods,Food,Pancakes,Breakfast Foods
+10397,Frozen Foods,Food,French Fries,Vegetables
+10398,Frozen Foods,Food,Pizza,Pizza
+10399,Frozen Foods,Food,Waffles,Breakfast Foods
+10400,Frozen Foods,Food,French Fries,Vegetables
+10401,Frozen Foods,Food,Waffles,Breakfast Foods
+10402,Frozen Foods,Food,Pizza,Pizza
+10403,Frozen Foods,Food,Pizza,Pizza
+10404,Frozen Foods,Food,Pizza,Pizza
+10405,Frozen Foods,Food,Waffles,Breakfast Foods
+10406,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10407,Frozen Foods,Food,TV Dinner,Frozen Entrees
+10408,Frozen Foods,Food,TV Dinner,Frozen Entrees
+10409,Frozen Foods,Food,TV Dinner,Frozen Entrees
+10410,Frozen Foods,Food,Pancake Mix,Breakfast Foods
+10411,Frozen Foods,Food,Popsicles,Frozen Desserts
+10412,Frozen Foods,Food,French Fries,Vegetables
+10413,Frozen Foods,Food,Popsicles,Frozen Desserts
+10414,Frozen Foods,Food,Ice Cream,Frozen Desserts
+10415,Frozen Foods,Food,Ice Cream,Frozen Desserts
+10416,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10417,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10418,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10419,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10420,Frozen Foods,Food,Ice Cream,Frozen Desserts
+10421,Frozen Foods,Food,Frozen Chicken,Meat
+10422,Frozen Foods,Food,Frozen Chicken,Meat
+10423,Frozen Foods,Food,Popsicles,Frozen Desserts
+10475,Meat,Food,Hamburger,Meat
+10476,Meat,Food,Hamburger,Meat
+10482,Produce,Food,Fresh Vegetables,Vegetables
+10483,Produce,Food,Fresh Vegetables,Vegetables
+10484,Produce,Food,Fresh Vegetables,Vegetables
+10485,Produce,Food,Fresh Vegetables,Vegetables
+10486,Produce,Food,Fresh Vegetables,Vegetables
+10487,Produce,Food,Fresh Vegetables,Vegetables
+10488,Produce,Food,Fresh Vegetables,Vegetables
+10489,Produce,Food,Fresh Vegetables,Vegetables
+10490,Produce,Food,Fresh Vegetables,Vegetables
+10491,Produce,Food,Fresh Vegetables,Vegetables
+10492,Produce,Food,Fresh Vegetables,Vegetables
+10493,Produce,Food,Fresh Vegetables,Vegetables
+10494,Produce,Food,Fresh Vegetables,Vegetables
+10495,Produce,Food,Fresh Vegetables,Vegetables
+10496,Produce,Food,Fresh Vegetables,Vegetables
+10497,Produce,Food,Fresh Vegetables,Vegetables
+10498,Produce,Food,Fresh Vegetables,Vegetables
+10499,Produce,Food,Fresh Vegetables,Vegetables
+10500,Produce,Food,Fresh Vegetables,Vegetables
+10501,Produce,Food,Fresh Vegetables,Vegetables
+10502,Produce,Food,Fresh Vegetables,Vegetables
+10503,Produce,Food,Fresh Vegetables,Vegetables
+10504,Produce,Food,Fresh Fruit,Fruit
+10505,Produce,Food,Tofu,Packaged Vegetables
+10506,Produce,Food,Nuts,Specialty
+10507,Produce,Food,Fresh Fruit,Fruit
+10508,Produce,Food,Fresh Fruit,Fruit
+10509,Produce,Food,Fresh Fruit,Fruit
+10510,Produce,Food,Fresh Fruit,Fruit
+10511,Produce,Food,Fresh Fruit,Fruit
+10512,Produce,Food,Fresh Fruit,Fruit
+10513,Produce,Food,Fresh Fruit,Fruit
+10514,Produce,Food,Fresh Vegetables,Vegetables
+10515,Produce,Food,Fresh Fruit,Fruit
+10516,Produce,Food,Nuts,Specialty
+10517,Produce,Food,Nuts,Specialty
+10518,Produce,Food,Fresh Vegetables,Vegetables
+10519,Produce,Food,Fresh Fruit,Fruit
+10520,Produce,Food,Fresh Fruit,Fruit
+10521,Produce,Food,Fresh Fruit,Fruit
+10522,Produce,Food,Nuts,Specialty
+10523,Produce,Food,Fresh Fruit,Fruit
+10524,Produce,Food,Fresh Fruit,Fruit
+10525,Produce,Food,Nuts,Specialty
+10526,Seafood,Food,Fresh Fish,Seafood
+10527,Seafood,Food,Shellfish,Seafood
+10528,Snacks,Food,Cookies,Snack Foods
+10529,Snacks,Food,Chips,Snack Foods
+10530,Snacks,Food,Chips,Snack Foods
+10531,Snacks,Food,Chips,Snack Foods
+10532,Snacks,Food,Cookies,Snack Foods
+10533,Snacks,Food,Cookies,Snack Foods
+10534,Snacks,Food,Cookies,Snack Foods
+10535,Snacks,Food,Cookies,Snack Foods
+10536,Snacks,Food,Chips,Snack Foods
+10537,Snacks,Food,Cookies,Snack Foods
+10538,Snacks,Food,Cookies,Snack Foods
+10539,Snacks,Food,Crackers,Snack Foods
+10540,Snacks,Food,Popcorn,Snack Foods
+10541,Snacks,Food,Popcorn,Snack Foods
+10542,Snacks,Food,Popcorn,Snack Foods
+10543,Snacks,Food,Dips,Snack Foods
+10544,Snacks,Food,Dips,Snack Foods
+10545,Snacks,Food,Pretzels,Snack Foods
+10546,Snacks,Food,Dips,Snack Foods
+10547,Snacks,Food,Dips,Snack Foods
+10548,Snacks,Food,Donuts,Snack Foods
+10549,Snacks,Food,Dried Meat,Snack Foods
+10550,Snacks,Food,Donuts,Snack Foods
+10551,Snacks,Food,Chips,Snack Foods
+10552,Snacks,Food,Crackers,Snack Foods
+10553,Snacks,Food,Cookies,Snack Foods
+10554,Snacks,Food,Dried Fruit,Snack Foods
+10555,Snacks,Food,Dried Fruit,Snack Foods
+10556,Snacks,Food,Dried Fruit,Snack Foods
+10557,Snacks,Food,Dried Fruit,Snack Foods
+10558,Snacks,Food,Dried Fruit,Snack Foods
+10559,Snacks,Food,Dried Fruit,Snack Foods
+10560,Snacks,Food,Dried Fruit,Snack Foods
+10561,Snacks,Food,Dried Fruit,Snack Foods
+10562,Snacks,Food,Dried Fruit,Snack Foods
+10563,Snacks,Food,Donuts,Snack Foods
+10564,Snacks,Food,Chocolate Candy,Candy
+10565,Snacks,Food,Chocolate Candy,Candy
+10566,Snacks,Food,Chocolate Candy,Candy
+10567,Snacks,Food,Chocolate Candy,Candy
+10568,Snacks,Food,Gum,Candy
+10569,Snacks,Food,Hard Candy,Candy
+10570,Snacks,Food,Hard Candy,Candy
+10571,Snacks,Food,Chocolate Candy,Candy
+10572,Starchy Foods,Food,Pasta,Starchy Foods
+10573,Starchy Foods,Food,Pasta,Starchy Foods
+10574,Starchy Foods,Food,Pasta,Starchy Foods
+10575,Starchy Foods,Food,Rice,Starchy Foods
+10576,Starchy Foods,Food,Rice,Starchy Foods
+10577,Alcoholic Beverages,Drink,Beer,Beer and Wine
+10578,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10579,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10580,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10581,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10582,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10583,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10584,Alcoholic Beverages,Drink,Beer,Beer and Wine
+10585,Baked Goods,Food,Sliced Bread,Bread
+10586,Baked Goods,Food,Sliced Bread,Bread
+10587,Baked Goods,Food,Sliced Bread,Bread
+10588,Baked Goods,Food,Muffins,Bread
+10589,Baked Goods,Food,Muffins,Bread
+10590,Baked Goods,Food,Muffins,Bread
+10591,Baked Goods,Food,Bagels,Bread
+10592,Baked Goods,Food,Muffins,Bread
+10593,Baked Goods,Food,Sliced Bread,Bread
+10594,Baking Goods,Food,Cooking Oil,Baking Goods
+10595,Baking Goods,Food,Peanut Butter,Jams and Jellies
+10596,Beverages,Drink,Chocolate,Hot Beverages
+10597,Baking Goods,Food,Sugar,Baking Goods
+10598,Baking Goods,Food,Sugar,Baking Goods
+10599,Beverages,Drink,Coffee,Hot Beverages
+10600,Beverages,Drink,Coffee,Hot Beverages
+10601,Beverages,Drink,Coffee,Hot Beverages
+10602,Baking Goods,Food,Cooking Oil,Baking Goods
+10603,Baking Goods,Food,Cooking Oil,Baking Goods
+10604,Baking Goods,Food,Sauces,Baking Goods
+10605,Baking Goods,Food,Cooking Oil,Baking Goods
+10606,Baking Goods,Food,Preserves,Jams and Jellies
+10607,Beverages,Drink,Coffee,Hot Beverages
+10608,Baking Goods,Food,Jelly,Jams and Jellies
+10609,Baking Goods,Food,Spices,Baking Goods
+10610,Baking Goods,Food,Preserves,Jams and Jellies
+10611,Baking Goods,Food,Spices,Baking Goods
+10612,Baking Goods,Food,Preserves,Jams and Jellies
+10613,Baking Goods,Food,Spices,Baking Goods
+10614,Baking Goods,Food,Jelly,Jams and Jellies
+10615,Baking Goods,Food,Jam,Jams and Jellies
+10616,Baking Goods,Food,Jam,Jams and Jellies
+10617,Baking Goods,Food,Jam,Jams and Jellies
+10618,Baking Goods,Food,Peanut Butter,Jams and Jellies
+10619,Baking Goods,Food,Preserves,Jams and Jellies
+10620,Baking Goods,Food,Peanut Butter,Jams and Jellies
+10621,Baking Goods,Food,Preserves,Jams and Jellies
+10622,Baking Goods,Food,Jelly,Jams and Jellies
+10623,Beverages,Drink,Juice,Pure Juice Beverages
+10624,Beverages,Drink,Flavored Drinks,Drinks
+10625,Beverages,Drink,Flavored Drinks,Drinks
+10626,Beverages,Drink,Soda,Carbonated Beverages
+10627,Beverages,Drink,Soda,Carbonated Beverages
+10628,Beverages,Drink,Soda,Carbonated Beverages
+10629,Beverages,Drink,Soda,Carbonated Beverages
+10630,Beverages,Drink,Juice,Pure Juice Beverages
+10631,Beverages,Drink,Juice,Pure Juice Beverages
+10632,Beverages,Drink,Juice,Pure Juice Beverages
+10633,Beverages,Drink,Flavored Drinks,Drinks
+10634,Breakfast Foods,Food,Cereal,Breakfast Foods
+10635,Breakfast Foods,Food,Cereal,Breakfast Foods
+10636,Breakfast Foods,Food,Cereal,Breakfast Foods
+10637,Breakfast Foods,Food,Cereal,Breakfast Foods
+10638,Canned Products,Food,Canned Vegetables,Vegetables
+10639,Canned Products,Food,Canned Vegetables,Vegetables
+10640,Canned Products,Food,Canned Vegetables,Vegetables
+10641,Canned Products,Food,Soup,Canned Soup
+10642,Canned Products,Food,Canned Vegetables,Vegetables
+10643,Canned Products,Food,Soup,Canned Soup
+10644,Canned Products,Food,Canned Vegetables,Vegetables
+10645,Canned Products,Food,Soup,Canned Soup
+10646,Canned Products,Food,Soup,Canned Soup
+10647,Canned Products,Food,Soup,Canned Soup
+10648,Canned Products,Food,Soup,Canned Soup
+10649,Canned Products,Food,Soup,Canned Soup
+10650,Canned Products,Food,Canned Vegetables,Vegetables
+10651,Canned Products,Food,Soup,Canned Soup
+10652,Canned Products,Food,Tuna,Canned Tuna
+10653,Canned Products,Food,Tuna,Canned Tuna
+10654,Canned Products,Food,Shrimp,Canned Shrimp
+10655,Canned Products,Food,Anchovies,Canned Anchovies
+10656,Canned Products,Food,Clams,Canned Clams
+10657,Canned Products,Food,Oysters,Canned Oysters
+10658,Canned Products,Food,Sardines,Canned Sardines
+10659,Canned Products,Food,Soup,Canned Soup
+10660,Canned Products,Food,Canned Fruit,Fruit
+10661,Canned Products,Food,Canned Fruit,Fruit
+10665,Dairy,Food,Cottage Cheese,Dairy
+10666,Dairy,Food,Sour Cream,Dairy
+10667,Dairy,Food,Sour Cream,Dairy
+10668,Dairy,Food,Cheese,Dairy
+10669,Dairy,Food,Cheese,Dairy
+10670,Dairy,Food,Cheese,Dairy
+10671,Dairy,Food,Cheese,Dairy
+10672,Dairy,Food,Cheese,Dairy
+10673,Dairy,Food,Cheese,Dairy
+10674,Dairy,Food,Cheese,Dairy
+10675,Dairy,Food,Cheese,Dairy
+10676,Dairy,Food,Cheese,Dairy
+10677,Dairy,Food,Cottage Cheese,Dairy
+10678,Dairy,Drink,Milk,Dairy
+10679,Dairy,Drink,Milk,Dairy
+10680,Dairy,Drink,Milk,Dairy
+10681,Dairy,Drink,Milk,Dairy
+10682,Dairy,Drink,Milk,Dairy
+10683,Dairy,Food,Yogurt,Dairy
+10684,Dairy,Food,Yogurt,Dairy
+10685,Deli,Food,Hot Dogs,Meat
+10686,Deli,Food,Bologna,Meat
+10687,Deli,Food,Bologna,Meat
+10688,Deli,Food,Bologna,Meat
+10689,Deli,Food,Hot Dogs,Meat
+10690,Deli,Food,Hot Dogs,Meat
+10691,Deli,Food,Deli Salads,Side Dishes
+10692,Deli,Food,Deli Salads,Side Dishes
+10693,Deli,Food,Fresh Chicken,Meat
+10694,Deli,Food,Deli Meats,Meat
+10695,Deli,Food,Deli Meats,Meat
+10696,Deli,Food,Deli Meats,Meat
+10697,Deli,Food,Deli Salads,Side Dishes
+10698,Deli,Food,Deli Meats,Meat
+10699,Eggs,Food,Eggs,Eggs
+10700,Eggs,Food,Eggs,Eggs
+10701,Eggs,Food,Eggs,Eggs
+10702,Eggs,Food,Eggs,Eggs
+10703,Eggs,Food,Eggs,Eggs
+10704,Frozen Foods,Food,Waffles,Breakfast Foods
+10705,Frozen Foods,Food,Popsicles,Frozen Desserts
+10706,Frozen Foods,Food,Frozen Chicken,Meat
+10707,Frozen Foods,Food,Pancakes,Breakfast Foods
+10708,Frozen Foods,Food,French Fries,Vegetables
+10709,Frozen Foods,Food,Pizza,Pizza
+10710,Frozen Foods,Food,Waffles,Breakfast Foods
+10711,Frozen Foods,Food,French Fries,Vegetables
+10712,Frozen Foods,Food,Waffles,Breakfast Foods
+10713,Frozen Foods,Food,Pizza,Pizza
+10714,Frozen Foods,Food,Pizza,Pizza
+10715,Frozen Foods,Food,Pizza,Pizza
+10716,Frozen Foods,Food,Waffles,Breakfast Foods
+10717,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10718,Frozen Foods,Food,TV Dinner,Frozen Entrees
+10719,Frozen Foods,Food,TV Dinner,Frozen Entrees
+10720,Frozen Foods,Food,TV Dinner,Frozen Entrees
+10721,Frozen Foods,Food,Pancake Mix,Breakfast Foods
+10722,Frozen Foods,Food,Popsicles,Frozen Desserts
+10723,Frozen Foods,Food,French Fries,Vegetables
+10724,Frozen Foods,Food,Popsicles,Frozen Desserts
+10725,Frozen Foods,Food,Ice Cream,Frozen Desserts
+10726,Frozen Foods,Food,Ice Cream,Frozen Desserts
+10727,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10728,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10729,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10730,Frozen Foods,Food,Frozen Vegetables,Vegetables
+10731,Frozen Foods,Food,Ice Cream,Frozen Desserts
+10732,Frozen Foods,Food,Frozen Chicken,Meat
+10733,Frozen Foods,Food,Frozen Chicken,Meat
+10734,Frozen Foods,Food,Popsicles,Frozen Desserts
+10786,Meat,Food,Hamburger,Meat
+10787,Meat,Food,Hamburger,Meat
+10793,Produce,Food,Fresh Vegetables,Vegetables
+10794,Produce,Food,Fresh Vegetables,Vegetables
+10795,Produce,Food,Fresh Vegetables,Vegetables
+10796,Produce,Food,Fresh Vegetables,Vegetables
+10797,Produce,Food,Fresh Vegetables,Vegetables
+10799,Produce,Food,Fresh Vegetables,Vegetables
+10800,Produce,Food,Fresh Vegetables,Vegetables
+10801,Produce,Food,Fresh Vegetables,Vegetables
+10802,Produce,Food,Fresh Vegetables,Vegetables
+10803,Produce,Food,Fresh Vegetables,Vegetables
+10804,Produce,Food,Fresh Vegetables,Vegetables
+10805,Produce,Food,Fresh Vegetables,Vegetables
+10806,Produce,Food,Fresh Vegetables,Vegetables
+10807,Produce,Food,Fresh Vegetables,Vegetables
+10808,Produce,Food,Fresh Vegetables,Vegetables
+10809,Produce,Food,Fresh Vegetables,Vegetables
+10810,Produce,Food,Fresh Vegetables,Vegetables
+10811,Produce,Food,Fresh Vegetables,Vegetables
+10812,Produce,Food,Fresh Vegetables,Vegetables
+10813,Produce,Food,Fresh Vegetables,Vegetables
+10814,Produce,Food,Fresh Vegetables,Vegetables
+10815,Produce,Food,Fresh Fruit,Fruit
+10816,Produce,Food,Tofu,Packaged Vegetables
+10817,Produce,Food,Nuts,Specialty
+10818,Produce,Food,Fresh Fruit,Fruit
+10819,Produce,Food,Fresh Fruit,Fruit
+10820,Produce,Food,Fresh Fruit,Fruit
+10821,Produce,Food,Fresh Fruit,Fruit
+10822,Produce,Food,Fresh Fruit,Fruit
+10823,Produce,Food,Fresh Fruit,Fruit
+10824,Produce,Food,Fresh Fruit,Fruit
+10825,Produce,Food,Fresh Vegetables,Vegetables
+10826,Produce,Food,Fresh Fruit,Fruit
+10827,Produce,Food,Nuts,Specialty
+10828,Produce,Food,Nuts,Specialty
+10829,Produce,Food,Fresh Vegetables,Vegetables
+10830,Produce,Food,Fresh Fruit,Fruit
+10831,Produce,Food,Fresh Fruit,Fruit
+10832,Produce,Food,Fresh Fruit,Fruit
+10833,Produce,Food,Nuts,Specialty
+10834,Produce,Food,Fresh Fruit,Fruit
+10835,Produce,Food,Fresh Fruit,Fruit
+10836,Produce,Food,Nuts,Specialty
+10837,Seafood,Food,Fresh Fish,Seafood
+10838,Seafood,Food,Shellfish,Seafood
+10839,Snacks,Food,Cookies,Snack Foods
+10840,Snacks,Food,Chips,Snack Foods
+10841,Snacks,Food,Chips,Snack Foods
+10842,Snacks,Food,Chips,Snack Foods
+10843,Snacks,Food,Cookies,Snack Foods
+10844,Snacks,Food,Cookies,Snack Foods
+10845,Snacks,Food,Cookies,Snack Foods
+10846,Snacks,Food,Cookies,Snack Foods
+10847,Snacks,Food,Chips,Snack Foods
+10848,Snacks,Food,Cookies,Snack Foods
+10849,Snacks,Food,Cookies,Snack Foods
+10850,Snacks,Food,Crackers,Snack Foods
+10851,Snacks,Food,Popcorn,Snack Foods
+10852,Snacks,Food,Popcorn,Snack Foods
+10853,Snacks,Food,Popcorn,Snack Foods
+10854,Snacks,Food,Dips,Snack Foods
+10855,Snacks,Food,Dips,Snack Foods
+10856,Snacks,Food,Pretzels,Snack Foods
+10857,Snacks,Food,Dips,Snack Foods
+10858,Snacks,Food,Dips,Snack Foods
+10859,Snacks,Food,Donuts,Snack Foods
+10860,Snacks,Food,Dried Meat,Snack Foods
+10861,Snacks,Food,Donuts,Snack Foods
+10862,Snacks,Food,Chips,Snack Foods
+10863,Snacks,Food,Crackers,Snack Foods
+10864,Snacks,Food,Cookies,Snack Foods
+10865,Snacks,Food,Dried Fruit,Snack Foods
+10866,Snacks,Food,Dried Fruit,Snack Foods
+10867,Snacks,Food,Dried Fruit,Snack Foods
+10868,Snacks,Food,Dried Fruit,Snack Foods
+10869,Snacks,Food,Dried Fruit,Snack Foods
+10870,Snacks,Food,Dried Fruit,Snack Foods
+10871,Snacks,Food,Dried Fruit,Snack Foods
+10872,Snacks,Food,Dried Fruit,Snack Foods
+10873,Snacks,Food,Dried Fruit,Snack Foods
+10874,Snacks,Food,Donuts,Snack Foods
+10875,Snacks,Food,Chocolate Candy,Candy
+10876,Snacks,Food,Chocolate Candy,Candy
+10877,Snacks,Food,Chocolate Candy,Candy
+10878,Snacks,Food,Chocolate Candy,Candy
+10879,Snacks,Food,Gum,Candy
+10880,Snacks,Food,Hard Candy,Candy
+10881,Snacks,Food,Hard Candy,Candy
+10882,Snacks,Food,Chocolate Candy,Candy
+10883,Starchy Foods,Food,Pasta,Starchy Foods
+10884,Starchy Foods,Food,Pasta,Starchy Foods
+10885,Starchy Foods,Food,Pasta,Starchy Foods
+10886,Starchy Foods,Food,Rice,Starchy Foods
+10887,Starchy Foods,Food,Rice,Starchy Foods
+10888,Starchy Foods,Food,Pasta,Starchy Foods
+10889,Starchy Foods,Food,Pasta,Starchy Foods
+10890,Starchy Foods,Food,Pasta,Starchy Foods
+10891,Starchy Foods,Food,Rice,Starchy Foods
+10892,Starchy Foods,Food,Rice,Starchy Foods
+10893,Alcoholic Beverages,Drink,Beer,Beer and Wine
+10894,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10895,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10896,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10897,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10898,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10899,Alcoholic Beverages,Drink,Wine,Beer and Wine
+10900,Alcoholic Beverages,Drink,Beer,Beer and Wine
+10901,Baked Goods,Food,Sliced Bread,Bread
+10902,Baked Goods,Food,Sliced Bread,Bread
+10903,Baked Goods,Food,Sliced Bread,Bread
+10908,Baked Goods,Food,Muffins,Bread
+10909,Baked Goods,Food,Sliced Bread,Bread
+10910,Baking Goods,Food,Cooking Oil,Baking Goods
+10911,Baking Goods,Food,Peanut Butter,Jams and Jellies
+10912,Beverages,Drink,Chocolate,Hot Beverages
+10913,Baking Goods,Food,Sugar,Baking Goods
+10914,Baking Goods,Food,Sugar,Baking Goods
+10915,Beverages,Drink,Coffee,Hot Beverages
+10916,Beverages,Drink,Coffee,Hot Beverages
+10917,Beverages,Drink,Coffee,Hot Beverages
+10918,Baking Goods,Food,Cooking Oil,Baking Goods
+10919,Baking Goods,Food,Cooking Oil,Baking Goods
+10920,Baking Goods,Food,Sauces,Baking Goods
+10921,Baking Goods,Food,Cooking Oil,Baking Goods
+10922,Baking Goods,Food,Preserves,Jams and Jellies
+10923,Beverages,Drink,Coffee,Hot Beverages
+10924,Baking Goods,Food,Jelly,Jams and Jellies
+10925,Baking Goods,Food,Spices,Baking Goods
+10926,Baking Goods,Food,Preserves,Jams and Jellies
+10927,Baking Goods,Food,Spices,Baking Goods
+10928,Baking Goods,Food,Preserves,Jams and Jellies
+10929,Baking Goods,Food,Spices,Baking Goods
+10930,Baking Goods,Food,Jelly,Jams and Jellies
+10931,Baking Goods,Food,Jam,Jams and Jellies
+10932,Baking Goods,Food,Jam,Jams and Jellies
+10933,Baking Goods,Food,Jam,Jams and Jellies
+10934,Baking Goods,Food,Peanut Butter,Jams and Jellies
+10935,Baking Goods,Food,Preserves,Jams and Jellies
+10936,Baking Goods,Food,Peanut Butter,Jams and Jellies
+10937,Baking Goods,Food,Preserves,Jams and Jellies
+10938,Baking Goods,Food,Jelly,Jams and Jellies
+10939,Beverages,Drink,Juice,Pure Juice Beverages
+10940,Beverages,Drink,Flavored Drinks,Drinks
+10941,Beverages,Drink,Flavored Drinks,Drinks
+10942,Beverages,Drink,Soda,Carbonated Beverages
+10943,Beverages,Drink,Soda,Carbonated Beverages
+10944,Beverages,Drink,Soda,Carbonated Beverages
+10945,Beverages,Drink,Soda,Carbonated Beverages
+10946,Beverages,Drink,Juice,Pure Juice Beverages
+10947,Beverages,Drink,Juice,Pure Juice Beverages
+10948,Beverages,Drink,Juice,Pure Juice Beverages
+10949,Beverages,Drink,Flavored Drinks,Drinks
+10950,Breakfast Foods,Food,Cereal,Breakfast Foods
+10951,Breakfast Foods,Food,Cereal,Breakfast Foods
+10952,Breakfast Foods,Food,Cereal,Breakfast Foods
+10953,Breakfast Foods,Food,Cereal,Breakfast Foods
+10954,Canned Products,Food,Canned Vegetables,Vegetables
+10955,Canned Products,Food,Canned Vegetables,Vegetables
+10956,Canned Products,Food,Canned Vegetables,Vegetables
+10957,Canned Products,Food,Soup,Canned Soup
+10958,Canned Products,Food,Canned Vegetables,Vegetables
+10959,Canned Products,Food,Soup,Canned Soup
+10960,Canned Products,Food,Canned Vegetables,Vegetables
+10961,Canned Products,Food,Soup,Canned Soup
+10962,Canned Products,Food,Soup,Canned Soup
+10963,Canned Products,Food,Soup,Canned Soup
+10964,Canned Products,Food,Soup,Canned Soup
+10965,Canned Products,Food,Soup,Canned Soup
+10966,Canned Products,Food,Canned Vegetables,Vegetables
+10967,Canned Products,Food,Soup,Canned Soup
+10968,Canned Products,Food,Tuna,Canned Tuna
+10969,Canned Products,Food,Tuna,Canned Tuna
+10970,Canned Products,Food,Shrimp,Canned Shrimp
+10971,Canned Products,Food,Anchovies,Canned Anchovies
+10972,Canned Products,Food,Clams,Canned Clams
+10973,Canned Products,Food,Oysters,Canned Oysters
+10974,Canned Products,Food,Sardines,Canned Sardines
+10975,Canned Products,Food,Soup,Canned Soup
+10976,Canned Products,Food,Canned Fruit,Fruit
+10977,Canned Products,Food,Canned Fruit,Fruit
+10981,Dairy,Food,Cottage Cheese,Dairy
+10982,Dairy,Food,Sour Cream,Dairy
+10983,Dairy,Food,Sour Cream,Dairy
+10984,Dairy,Food,Cheese,Dairy
+10985,Dairy,Food,Cheese,Dairy
+10986,Dairy,Food,Cheese,Dairy
+10987,Dairy,Food,Cheese,Dairy
+10988,Dairy,Food,Cheese,Dairy
+10989,Dairy,Food,Cheese,Dairy
+10990,Dairy,Food,Cheese,Dairy
+10991,Dairy,Food,Cheese,Dairy
+10992,Dairy,Food,Cheese,Dairy
+10993,Dairy,Food,Cottage Cheese,Dairy
+10994,Dairy,Drink,Milk,Dairy
+10995,Dairy,Drink,Milk,Dairy
+10996,Dairy,Drink,Milk,Dairy
+10997,Dairy,Drink,Milk,Dairy
+10998,Dairy,Drink,Milk,Dairy
+10999,Dairy,Food,Yogurt,Dairy
+11000,Dairy,Food,Yogurt,Dairy
+11001,Deli,Food,Hot Dogs,Meat
+11008,Baked Goods,Food,Sliced Bread,Bread
+11021,Deli,Food,Bologna,Meat
+11052,Deli,Food,Hot Dogs,Meat
+11100,Deli,Food,Hot Dogs,Meat
+11101,Deli,Food,Deli Salads,Side Dishes
+11112,Deli,Food,Deli Salads,Side Dishes
+11241,Deli,Food,Fresh Chicken,Meat
+11247,Deli,Food,Deli Meats,Meat
+11249,Deli,Food,Deli Meats,Meat
+11373,Deli,Food,Deli Salads,Side Dishes
+11793,Deli,Food,Fresh Chicken,Meat
+11925,Eggs,Food,Eggs,Eggs
+11971,Eggs,Food,Eggs,Eggs

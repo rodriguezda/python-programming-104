@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Movie search</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css')}}">
+</head>
+
+<body>
+    <form>
+        <input type="text" name="query" value="{{ query }}" autofocus="autofocus" onfocus="this.select()" />
+        <input type="submit" value="Find the Movie!" />
+    </form>
+
+    {% if query %}
+
+    <table>
+        <tr>
+            <th>Title</th>
+            <th>Year</th>
+            <th>Poster</th>
+        </tr>
+
+        {% for result in results %}
+        <tr>
+            <td>
+                <a href="/movies/{{ result.imdbID }}">{{ result.Title }}</td>
+            <td>{{ result.Year }}</td>
+            <td>
+                <img src="{{ result.Poster }}" height="100px" />
+            </td>
+        </tr>
+        {% endfor %}
+
+    </table>
+    {% endif %}
+</body>
+
+</html>

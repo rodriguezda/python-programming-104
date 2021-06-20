@@ -1,0 +1,9 @@
+1. Implicit Type Conversion
+
+2. Explicit Type Conversion. While floor division is an example of type casting, the more correct answer is that type casting refers to any explicit type conversion.
+
+3. The type() function
+
+4. List
+
+5. If you want to change the data inside of a tuple, you can convert it to a list
