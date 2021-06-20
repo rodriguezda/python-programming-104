@@ -101,7 +101,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [3-1CC]: https://colab.research.google.com/drive/1i6x_EX95X8663Utrp8IypPuhHSCgYDLu?usp=sharing
 [3-1D]: https://colab.research.google.com/drive/16yKZQwo-oWip1hTb0Sr3-v33VUFuMbzs?usp=sharing
 [3-1E]: unit-4-troubleshooting/instructor-resources/16-intermediate-variables
-[3-1F]: unit-4-troubleshooting/instructor-resources/17-debugging
+[3-1F]: https://colab.research.google.com/drive/1fzYpBHVplY-L_2gkg4Nw6v33S_paVJJg?usp=sharing
 [3-1G]: unit-4-troubleshooting/instructor-resources/18-unit-lab-4
 
 [4-1B]: unit-5-intermediate/instructor-resources/19-intermediate-intro
