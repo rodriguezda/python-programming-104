@@ -59,16 +59,16 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 [:30] [Course Introductions][1-1A]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] [Day 6: Summary Kickoff][6-1A]  |
 [:30] GA Introductions (Erica and David) | [:30] [Day 2 Kickoff][2-1A] |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5 Kickoff][5-1A] | [2:00] In-Class: Final Project Workshop |
-[:30] [HW, Labs, Final Project][1-1H] | [1:30] [Functions][2-1B], [Decorators][2-1BB]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2][5-1F] | [1:00] Extended Break |
+[:30] [HW, Labs, Final Project][1-1H] | [1:30] [Functions][2-1B], [Decorators][2-1BB]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2 Intro][5-1B], [Pandas 2 Notebook][5-1BB] | [1:00] Extended Break |
 [:30] [Google Colaboratory][1-1C]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][4-1C]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
-[1:00] [Defining Variables][1-1B]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D]  | [1:00] [Plots and Charts][5-1E]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
+[1:00] [Defining Variables][1-1B]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D]  | [1:00] [Plots and Charts Intro][5-1C], [Notebook][5-1CC]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
 [:15] Break   |  [1:00] Extended Break  | [:15] Mid-Week Check-in   |   [1:00] Extended Break  |  [1:00] Extended Break  | --- |
-[1:00] [Lab #1: Fundamentals][1-1D]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas Intro][4-1E], [Pandas Notebook][4-1EE]  | [:45] [Pandas Datetime][5-1I]    |  --- |
-[1:00] Extended Break   | [:30] [Dictionaries][2-1E] |  [:30] [Variable Scope][3-1D]   |  [:15] Break |  [1:00] [Pandas Joins][5-1J]   |  ---  |
+[1:00] [Lab #1: Fundamentals][1-1D]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas Intro][4-1E], [Pandas Notebook][4-1EE]  | [:45] [Pandas Datetime Intro][5-1D], [Notebook][5-1DD]  |  --- |
+[1:00] Extended Break   | [:30] [Dictionaries][2-1E] |  [:30] [Variable Scope][3-1D]   |  [:15] Break |  [1:00] [Pandas Joins][5-1E], [Notebook][5-1EE]   |  ---  |
 [1:00] [Conditionals][1-1E]   | [:15] Break   | [:15] Break   |  [1:15] [Lab #5: Intermediate Python][4-1F]   |   [:15] Break   |  ----  |
-[:15] Break   |   [:45] [Sets & Tuples][2-1F]   |  [:45] [Debugging Principles][3-1F]   | [:15] [Final Project Discussion][4-1G] |  [1:15] [Lab #6: Weather Forecast][5-1G]  | --- | 
-[:30] [Loops][1-1F]  |  [:15] Break   |  [1:00] [Lab #4: Debugging][3-1G]  |  [:30] [End-of-Day Recap][4-1H]  |  [:30] [End-of-Day Recap][5-1H] |  ---  |
-[:30] [Lists][1-1G]   | [:45] [Classes][2-1G]   |  [:30] In-class HW/Review Time  |  ---  |  [:15] Optional: Final Project Discussion  | ---|
+[:15] Break   |   [:45] [Sets & Tuples][2-1F]   |  [:45] [Debugging Principles][3-1F]   | [:15] [Final Project Discussion][4-1G] |  [1:15] [Lab #6: Weather Forecast][5-1F]  | --- | 
+[:30] [Loops][1-1F]  |  [:15] Break   |  [1:00] [Lab #4: Debugging][3-1G]  |  [:30] [End-of-Day Recap][4-1H]  |  [:30] [End-of-Day Recap][5-1G] |  ---  |
+[:30] [Lists][1-1G]   | [:45] [Classes][2-1G]   |  [:30] In-class HW/Review Time  |  ---  |  [:15] [Optional: Final Project Discussion][1-1H]  | ---|
 [:30] [End-of-Day Recap][1-1I]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] [End-of-Day Recap][3-1H]  |  ---  | ---  | --- | 
 [:30] Office Hours     | --    |  --   |  --   | --   |  --   | 
        
@@ -118,12 +118,17 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [4-1H]: XXXX
 
 [5-1A]: xxxx
-[5-1B]: unit-6-pandas/instructor-resources/01-ds-intro
-[5-1C]: unit-6-pandas/instructor-resources/02-pandas-i
-[5-1D]: unit-6-pandas/instructor-resources/03-data-viz
-[5-1E]: unit-6-pandas/instructor-resources/04-plotting-with-pandas
-[5-1F]: unit-6-pandas/instructor-resources/05-pandas-ii
-[5-1G]: unit-6-pandas/instructor-resources/06-pandas-unit-lab
+[5-1B]: https://colab.research.google.com/drive/1BZNDt-BVZhToFHtUBQX-rZ521nnamOrL?usp=sharing
+[5-1BB]: https://colab.research.google.com/drive/1tLLx94FlhjqiLn5l3N6ggIxB_4wQ2xL2?usp=sharing
+[5-1C]: https://colab.research.google.com/drive/1F8DevuhzJTHhySKEO5579unMvyrKFNvm?usp=sharing
+[5-1CC]: https://colab.research.google.com/drive/1jziDMxq9fOVrQNVKt4sQNiOCbj5v07Xy?usp=sharing
+[5-1D]: https://colab.research.google.com/drive/15XY1OT7Sj2UDnffzlWMxYg7G4lqD-FSI?usp=sharing
+[5-1DD]: https://colab.research.google.com/drive/18H94d33CZ6ASF_xd_owSQLYznhg9Pvlg?usp=sharing
+[5-1E]: https://colab.research.google.com/drive/1zRxvYHNol0x0YNYkm3XmKTdfyhzBxwnv?usp=sharing
+[5-1EE]: https://colab.research.google.com/drive/14AsxP8reB1XaQiH2y1ome9JlSNLv8ore?usp=sharing
+[5-1F]: https://colab.research.google.com/drive/1AYvxJcWynbHsY_rxzFiLAXReu9c16yxI?usp=sharing
+[5-1G]: xxxxx
+
 [5-1H]: unit-6-pandas/instructor-resources/07-next-steps
 [5-1I]: unit-6-pandas/instructor-resources/08-pandas-datetime
 [5-1J]: unit-6-pandas/instructor-resources/09-pandas-join
