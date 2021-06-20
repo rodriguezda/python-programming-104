@@ -1,10 +1,10 @@
 ---
 title: Welcome to Python Programming!
 type: lesson
-duration: "01:00"
+duration: "00:30"
 creator:
-    name: Brandi Butler
-    city: Seattle
+    name: Diego
+    city: Virtual
 ---
 
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Welcome to Python Programming!
@@ -12,9 +12,9 @@ creator:
 
 
 ## Overview
-This lesson serves as the kick-off to your Python Programming class. Whether you’re delivering this course online or in-person, in a 1-week accelerated for 10-week format, take the first hour or so of your time together to get things started on the right foot.
+This lesson serves as the kick-off to your Python Programming class. Let's take the first 30 minutes of our time together to get things started on the right foot.
 
-This lesson is designed to introduce yourself, GA, and get the students comfortable and excited to learn. Following that, there's a brief review of the pre-work.
+This lesson is designed to get introduces, get comfortable and excited to learn.
 
 ## Learning Objectives
 In this lesson, students will:
@@ -26,21 +26,19 @@ In this lesson, students will:
 | Time | Activity |
 | --- | --- |
 | 0:00 - 0:10 | Welcome |
-| 0:10 - 0:12 | About General Assembly |
-| 0:12 - 0:14 | The Road to Success |
-| 0:14 - 0:16 | Course Structure |
-| 0:16 - 0:18 | Your Final Project |
-| 0:18 - 0:20 | Tools We'll Use |
-| 0:20 - 0:50 | [Pre-Work Recap](#activity-prework-recap-30-min) | Review the pre-work and level set. |
+| 0:10 - 0:20 | Meet and Greet |
+| 0:20 - 0:30 | About the Course |
+| 0:30 - 0:50 | About General Assembly |
+<!---| 0:20 - 0:50 | [Pre-Work Recap](#activity-prework-recap-30-min) | Review the pre-work and level set. |--->
 | 0:50 - 1:00 | Q&A + Close |
 
-## Before Class: Preparation
+<!---## Before Class: Preparation
 - Update the slides that follow with specific information about you, your class, your city and your local support team.
 - Take some time to consider your expectations for learners and be prepared to talk about them.
 - Choose an ice breaker to run that will allow learners to get to know one another in a fun, informal, low-stakes way. We have a list [here](https://docs.google.com/presentation/d/1a91IqhzijI_3EqU-trJbZN4vDDSU0rXqgIrqGwsWM7I/edit) of fun activities - and other good slides to copy - for the students for you to choose from. And if you have some good ones, feel free to share your ideas with us!
 - Before class, review completion data to understand how far your learners have progressed through the myGA prework.
 -- If most of your learners have completed all of the prework, you should be able to breeze through this lesson very quickly.
--- If most of your learners have not completed all of the prework, you might want to spend more time on this lesson and reduce your timings for the rest of the lessons in Unit 1.
+-- If most of your learners have not completed all of the prework, you might want to spend more time on this lesson and reduce your timings for the rest of the lessons in Unit 1.--->
 
 
 
@@ -51,7 +49,7 @@ In this lesson, students will:
 - About General Assembly.
 - Course structure.
 - The final project.
-- Key concepts from the myGA prework.
+<!---- Key concepts from the myGA prework.
 
 
 <aside class="notes">
@@ -60,7 +58,7 @@ In this lesson, students will:
 
 - We’re so excited to have to you here today.
 
-</aside>
+</aside>--->
 
 
 ---
@@ -69,78 +67,23 @@ In this lesson, students will:
 ## Meet Your Instructor
 
 
-**{Insert your name.}**
+**Diego Rodriguez**
 
-- [{Insert email address.}](link)
-- {Insert key facts about yourself and your career:
-- Current role.
-- Cool companies/brands you’ve worked with.
-- One fun fact (Keep it classy!).}
-
-<aside class="notes">
-
-**Talking Points**:
-
-- Talk about the instructor’s role as the instructional team “lead.”
-</aside>
+- Data Scientist with Brightspot. I do statistical modeling, data analytics, data engineering, and machine learning.
+- At General Assembly, I teach Python, and have previously taught Data Science. Also, I am a graduate of General Assembly’s Data Science Immersive bootcamp in 2017.
+- I enjoy cooking, learning to sail, Marvel movies, and teaching!
 
 ---
 
-## Meet Your Support Team
+## Meet Your Classmates!
 
-**{Insert IA's name.}**
+Please share:
 
-- [{Insert email address.}](link)
-- {Insert key facts about yourself and your career:
-- Current role.
-- Cool companies/brands you’ve worked with.
-- One fun fact (Keep it classy!).}
-
-<aside class="notes">
-**Teaching Tips**
-
-- Duplicate this slide for each IA or classroom member you want to introduce.
-</aside>
+- Your name.
+- Why you’re taking this course.
+- One interesting thing you've learned lately OR one thing you like to do.
 
 
----
-
-## Front Lines
-
-Have a question about:
-
-- The campus?
-- Lost and found?
-- Loaner equipment?
-- Free coffee and snacks?
-
-Come here to talk to Front Lines and they will help you out.
-
-{Picture of the local front lines desk}
-
-<aside class="notes">
-
-**Teaching Tips**:
-
-- Introduce anyone here; see the next slide for a template.
-
-</aside>
-
----
-
-## More Great People
-
-{Bullet list of names and roles}
-
-<aside class="notes">
-
-**Teaching Tips**:
-
-- These are common faces on campus the students should know about.
-
-</aside>
-
----
 
 
 ## Classroom Culture
@@ -148,42 +91,11 @@ Come here to talk to Front Lines and they will help you out.
 Let’s all agree to:
 
 - Treat each other with respect
-- Avoid bringing distractions into class
-- {Add more…}
+- Be patient with outselves! (lean in to the learning process)
+- Ask questions, be curious
 
-<aside class="notes">
+Other notes:
 
-**Talking Points**:
-
-- Add any rules you'd like to here.
-
-</aside>
-
----
-
-
-## More Great People: You! Meet Your Classmates
-
-Please share:
-
-- Your name.
-- Why you’re taking this course.
-- Your favorite comfort food.
-
-
-<aside class="notes">
-
-**Teaching Tips**:
-
-- Come up with a few icebreakers of your own and add the slides below!
-
-</aside>
-
----
-
-## Icebreakers
-
-{Insert some fun icebreakers here!}
 
 
 ---
@@ -321,64 +233,28 @@ We are expecting that:
 
 ## Office Hours
 
-Help us help you!
-
-{Mondays / Wednesdays}:
-{5:30pm - 6:30pm}
-
-
-<aside class="notes">
-
-**Teaching Tips**:
-
-- You won't have these in the 5 day delivery! Delete this slide if so.
-
-</aside>
+Office hours are currently scheduled for:
+- Monday: 6PM EST
+- Tuesday-Friday: 10AM EST
+- Use this time to: discuss lesson material, homework problems, labs, the final project, ask industry questions, learn more about General Assembly programs.
+- Hours are subject to change (based on need)
 
 ---
 
 
-
 ## How to get a certificate of completion
 
-1. Complete 80% of the homework
-2. Don’t miss more than 3 classes
+1. Complete all three homework assignments
+2. Don’t class (exceptions on a case-by-case basis)
 3. Complete the final project
-
-
-<aside class="notes">
-
-**Teaching Tips**:
-
-- This slide is on how to get a certificate of completion. If it's different, change it!
-
-</aside>
-
-
-
 
 ---
 
 ## Course Materials
 
-{Instructor note: This is your call! Choose ONE of the below}.
-
-- Lessons for the day will be linked at the beginning of the day.
-or
-- Lessons for the course will can be viewed here - don't go too far ahead!
-or
-- Each lesson will be shared before the lesson.
+- Lessons for the day will be linked/updated at the beginning of the day.
 
 The lessons are interactive to give as much programming practice as possible, so be sure you get the links and follow along!
-
-<aside class="notes">
-
-**Teaching Tips**:
-
-- Choose one of the above. Then, take this time to give out the links if necessary.
-- If you're using Heroku, you should have a landing page with all slide links! You can share that.
-
-</aside>
 
 ---
 
@@ -389,34 +265,31 @@ Homework:
 
   - Isn't graded, but is good practice.
   - We will go over it the next class!
-
-<aside class="notes">
-
-**Teaching Tips**:
-
-- Homework notes are in the specific course details doc.
-
-</aside>
-
-
+  - Homework will be assigned Monday, Tuesday, and Wednesday
+  - The homework is available from the main GitHub page.
 
 ---
+
+## Labs
+
+
+Labs:
+
+  - Like homework, labs aren't graded, but is good practice.
+  - We will go over each lab at the end of each lab session OR during Kickoff Sessions. 
+  - There are five labs, they will be assigned each day, and to be completed in class.
+  - The labs are available from the main GitHub page.
+
 
 ## Your Final Project
 
 - Each day, you’ll build skills in Python and understand different ways in which you can use it to build applications.
-- At the end of {Day 4 or the 9th week}, you’ll choose a final project focus.
-- On {Day 5 or the 10th week} in class, you’ll build an application in Python based on your project focus area.
-- At the end of {Day 5 or the 10th week}, you’ll demo your project for the class.
-
-<aside class="notes">
-2 MINUTES
-
-**Teaching Tips**:
-
-- Explain details of the final project, {updating this slide to reflect your own expectations if needed}.
-- Encourage students to think throughout the course of what they want to build.
-</aside>
+- At the end of {Day 4}, you’ll choose a final project focus.
+- On {Day 5 & 6} in class, you’ll build an application in Python based on your project focus area.
+- At the end of {Day 6}, you’ll demo your project for the class.
+- See **Final Project** [notebook]( ) for more information about the final project.
+- I will introduce the final project on day 1; we will be discussing it periodically on days 2-4; we will have classtime to work on the final project on days 5&6.
+- Throughout the course, think of 1) what data you'd like to explore 2) a problem statement. I will provide you with an example of both.
 
 ---
 
@@ -424,7 +297,7 @@ Homework:
 
 - Did everyone complete it?
 
-- Let's review it!
+<!--- - Let's review it! 
 
 We learned:
 
@@ -437,7 +310,7 @@ We learned:
 - There are slides on each concept following this.
 - These are basic concepts to you, but potentially brand new to some students. Take your time to make sure everyone understands them.
 
-</aside>
+</aside> --->
 
 ---
 
@@ -452,13 +325,13 @@ We learned:
 - There are thousands! But we're learning **Python**.
 - Specifically, Python 3.
 
-<aside class="notes">
+<!--- <aside class="notes">
 
 **Talking Points**:
 
 - On this and all below, don't just read the slides. Add in your own interpretation.
 
-</aside>
+</aside> --->
 
 ---
 
@@ -487,13 +360,13 @@ We learned:
 
 Most use cases!
 
-<aside class="notes">
+<!--- <aside class="notes">
 
 **Talking Points**:
 
 - If you know of any specific examples, talk about them!
 
-</aside>
+</aside> --->
 
 ---
 
@@ -508,13 +381,13 @@ Other programming languages exist - Python isn't great for everything!
 - Sometimes too easy
   - Easy to expect things to work that don't!
 
-<aside class="notes">
+<!--- <aside class="notes">
 
 **Talking Points**:
 
 - If you know of any specific examples, talk about them!
 
-</aside>
+</aside> --->
 
 ---
 
@@ -530,19 +403,19 @@ Then, take out the cheese.
 Then, close the fridge.
 ```
 
-<aside class="notes">
+<!--- <aside class="notes">
 
 **Talking Points**:
 
 - Ask students what they think pseudocode is good for; then tell them.
 - (e.g. to make sure you don't miss a step)
 
-</aside>
+</aside> ---> 
 
 
 ---
 
-## Group Exercise: Programming in Pseudocode
+<!--- ## Group Exercise: Programming in Pseudocode
 
 Let's write pseudocode that gives instructions on how to {give someone a high five}.
 
@@ -565,9 +438,7 @@ Include every step required. Remember, computers are very literal!
 - "Swing your arm forward to slap their raised open hand with yours."
 - "Lower your arm again."
 
-</aside>
-
-
+</aside> --->
 
 ---
 
@@ -582,14 +453,14 @@ Include every step required. Remember, computers are very literal!
 ```
 
 
-<aside class="notes">
+<!--- <aside class="notes">
 
 **Talking Points**:
 
 - Ask students what they think comments are good for; then tell them.
 - (e.g. for your pseudocode; so others know what your program does; so you on Monday morning still know!).
 
-</aside>
+</aside> --->
 
 
 ---
@@ -602,14 +473,14 @@ print("Hello")
 ```
 
 
-<aside class="notes">
+<!--- <aside class="notes">
 
 **Teaching Tips**:
 - Ask students what they think this does. If you deem it necessary, open a repl.it and demo it.
 
 https://repl.it/@GAcoding/blank-repl
 
-</aside>
+</aside> --->
 
 ---
 
@@ -619,11 +490,14 @@ Any other questions?
 
 Let's rock!
 
-<aside class="notes">
+Next up, we'll explore something new in Python - variables.
+
+
+<!--- <aside class="notes">
 
 **Talking Points**:
 
 - Check to see if there  are any lingering questions on the pre-work.
 - Mention that next up, we'll explore something new in Python - variables.
 
-</aside>
+</aside> --->
