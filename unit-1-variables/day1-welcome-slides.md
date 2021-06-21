@@ -71,7 +71,7 @@ In this lesson, students will:
 
 About Me:
 - Data Scientist with Brightspot. I do statistical modeling, data analytics, data engineering, and machine learning.
-- At General Assembly, I teach Python, and have previously taught Data Science. Also, I am a graduate of General Assembly’s Data Science Immersive bootcamp in 2017. I teach Python with an emphasis on data, data manipulation - best suited for aspiring data analysts or data scientists (less so for aspiring web developers).
+- At General Assembly, I teach Python, and have previously taught Data Science. Also, I am a graduate of General Assembly’s Data Science Immersive bootcamp in 2017. I teach Python with an emphasis on data, data manipulation, data analysis, data science.
 - I enjoy cooking, learning to sail, Marvel movies, AND teaching!
 
 My Teaching Style:
