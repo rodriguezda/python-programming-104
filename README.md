@@ -68,7 +68,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [:15] Break   |   [:45] [Sets & Tuples][2-1F]   |  [:45] [Debugging Principles][3-1F]   | [:15] [Final Project Discussion][4-1G] |  [1:15] [Lab #6: Weather Forecast][5-1F]  | --- | 
 [:30] [Lists][1-1G]  |  [:15] Break   |  [1:00] [Lab #4: Debugging][3-1G]  |  [:30] [End-of-Day Recap][4-1H]  |  [:30] [End-of-Day Recap][5-1G] |  ---  |
 [:30] [Loops][1-1F]  | [:45] [Classes][2-1G]   |  [:30] In-class HW/Review Time  |  ---  |  [:15] [Optional: Final Project Discussion][1-1H]  | ---|
-[:30] [End-of-Day Recap][1-1I]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] [End-of-Day Recap][3-1H]  |  ---  | ---  | --- | 
+[:30] [End-of-Day Recap]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] [End-of-Day Recap][3-1H]  |  ---  | ---  | --- | 
 [:30] Office Hours     | --    |  --   |  --   | --   |  --   | 
        
 <!---                      
