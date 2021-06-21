@@ -218,6 +218,7 @@ Labs:
   - There are five labs, they will be assigned each day, and to be completed in class.
   - The labs are available from the main GitHub page.
 
+---
 
 ## Your Final Project
 
