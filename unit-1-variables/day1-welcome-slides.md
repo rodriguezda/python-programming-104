@@ -111,6 +111,7 @@ Other notes (in no particular order):
 - Written Feedback will be asked of you at the end of every day - participation is not mandatory, but it helps me and GA understand how we're doing. 
 - We will speed up if we need to; we will slow down if we need to.
 - The pace of this course is FAST (faster than the 10 week program), but it is a good example of the pace of the immersive programs (just something to keep in mind!)
+- As part of our lessons, you will be asked or will volunteer to screenshare and walk us through you code. It's part of the learning process!
 
 ---
 
