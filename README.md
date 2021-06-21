@@ -41,17 +41,16 @@ In order to graduate and earn a course completion certificate, every student mus
 ## Learning Objectives
 The high-level learning objectives for this course are:
 
-- Create a basic Python "app", using control flow, classes, and try/catch statements.
-- Incorporate APIs, modules, and user input into a Python app.
-- Use Pandas to create a visualization of a dataset (data science track).
+- Create a Python script, using control flow, classes, and try/catch statements. Incorporate APIs, modules, and user input into Python script as-needed.
+- Use Pandas to conduct an analysis of a dataset, and develop visualizations.
 
 Students cannot graduate unless they demonstrate mastery of the above learning objectives before the end of the course. Mastery is measured through assessment: homeworks, in-class activities and final projects.
 
 ## Homework
-A Link to the homework assignments for this course are provided here: [course homework](xxxx). Homework is distributed at the end of the day, and reviewed at the start of the following day. Given the class size, your instructor can review your homework assignment and provide feedback, **if requested**. 
+The homework assignments for this course are listed below. Homework is distributed at the end of the day, and reviewed at the start of the following day. Given the class size, your instructor can review your homework assignment and provide feedback, **if requested**. 
 
 ## Labs
-Links to the five lab assignments for this course are included in the Course Schedule in the section below. Each day, the students will receive a lab to complete. During lab time, the instructor will introduce the lab, and then approximately 1-1.5 hours will be alloted for students to complete the labs independently (depending on the class size, breakout sessions may be utilized instead, so students can work on the lab together in groups). Afterward, the class will review each lab together as a group. 
+Links to the five lab assignments for this course are included in the Course Schedule in the section below. Each day, the students will receive a lab to complete. During lab time, the instructor will introduce the lab, and then approximately 1-1.5 hours will be alloted for students to complete the labs independently (depending on the class size, breakout sessions may be utilized instead, so students can work on the lab together in groups). Afterward (or during Kickoff sessions), the class will review each lab. 
 
 ## Course Schedule
 
@@ -169,13 +168,13 @@ Extra   | [Rendering Templates, Creating APIs, GET/POST Requests][7-1F]
 [7-1H]: unit-6-pandas/instructor-resources/11-pandas-omdb-exercise
 
 
-## Appendix: Materials and Resources
+<!--- ## Appendix: Materials and Resources
 - Please read through the [specific course details](python-specific-course.md) for information on the structure of the repos, how to run the unit labs, the projects, and more.
 - See the [presenting and creating materials](presenting-and-creating-materials/README.md) directory for instructions on presenting the materials on GA Brand or creating your own.
 - All lesson materials, homeworks and projects outlined on the Suggested Pacing Guide are in this repo.
 - Standard GA-produced pre-work materials can be accessed on myGA. The pre-work lessons details can be found [here.](https://git.generalassemb.ly/python-programming/python-programming/blob/revisions_v2.1/unit-0-prework/instructor-resources/README.md)
 - Tips and templates for instructors are available on the [GA Instructor Blog](http://assemblyrequired.ga.co).
-- For help and support, join the GA Instructors Slack Community and post your questions in #SLACKCHANNEL.
+- For help and support, join the GA Instructors Slack Community and post your questions in #SLACKCHANNEL. --->
 
 
 *Copyright 2021, General Assembly Space. Licensed under [CC-BY-NC-SA, 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
