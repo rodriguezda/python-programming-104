@@ -156,7 +156,7 @@ Day      | Suggested Homework
 Extra   | [Rendering Templates, Creating APIs, GET/POST Requests][7-1F]
 --->
 
-[7-1A]: https://colab.research.google.com/drive/1pgB-liqvXN_U9v7860tlMB5haG5tRRAn?usp=sharing
+[7-1A]: https://colab.research.google.com/drive/1pgB-liqvXN_U9v7860tlMB5haG5tRRAn?usp=sharing     
 [7-1B]: https://colab.research.google.com/drive/1-VqR4yvm4UVWChi3v3HPDO7-6OT6NdK6?usp=sharing
 [7-1C]: https://colab.research.google.com/drive/1__0CAhmj8WVbVH_ANdSoum44TDGf9MvT?usp=sharing
 [7-1D]: X
