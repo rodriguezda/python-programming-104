@@ -279,14 +279,6 @@ We learned:
 - It's always improving.
 - It's popular!
 
-<aside class="notes">
-
-**Talking Points**:
-
-- On this and all below, don't just read the slides. Add in your own experience and thoughts.
-
-</aside>
-
 ---
 
 ## When to Use Python
