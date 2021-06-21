@@ -103,7 +103,7 @@ Let’s all agree to:
 
 Other notes (in no particular order):
 
-- Five days seems like a lot of time; it's really not. It will go by quickly! Let's buckle down together!
+- Five days seems like a lot of time; it's really not. It will go by quickly! Let's make it count!
 - Any questions that I can't answer in the moment, I will put in our "Parking Lot." We will address these questions when feasible.
 - You can snack during class. Just go on mute!
 - Every day will be filled with "bloopers" - code will throw errors, notebooks will crash, etc. This is **normal**. We'll use each of these moments as learning opportunities, and we'll get through them together.
