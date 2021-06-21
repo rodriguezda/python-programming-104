@@ -48,7 +48,7 @@ In this lesson, students will:
 - Instructional team and classmate introductions.
 - About General Assembly.
 - Course structure.
-- The final project.
+- Homework, Labs, and the final project.
 <!---- Key concepts from the myGA prework.
 
 
@@ -69,9 +69,15 @@ In this lesson, students will:
 
 **Diego Rodriguez**
 
+About Me:
 - Data Scientist with Brightspot. I do statistical modeling, data analytics, data engineering, and machine learning.
-- At General Assembly, I teach Python, and have previously taught Data Science. Also, I am a graduate of General Assembly’s Data Science Immersive bootcamp in 2017.
-- I enjoy cooking, learning to sail, Marvel movies, and teaching!
+- At General Assembly, I teach Python, and have previously taught Data Science. Also, I am a graduate of General Assembly’s Data Science Immersive bootcamp in 2017. I teach Python with an emphasis on data, data manipulation - best suited for aspiring data analysts or data scientists (less so for aspiring web developers).
+- I enjoy cooking, learning to sail, Marvel movies, AND teaching!
+
+My Teaching Style:
+- To the point! 
+- I tend to repeat stuff! 
+- I am open to feedback (there will be opportunities to provide it in real-time and after class)
 
 ---
 
@@ -83,8 +89,7 @@ Please share:
 - Why you’re taking this course.
 - One interesting thing you've learned lately OR one thing you like to do.
 
-
-
+---
 
 ## Classroom Culture
 
@@ -92,11 +97,21 @@ Let’s all agree to:
 
 - Treat each other with respect
 - Be patient with outselves! (lean in to the learning process)
-- Ask questions, be curious
+- Be curious
+- Ask questions
+- Make (coding) mistakes. These are learning opportunities!
 
-Other notes:
+Other notes (in no particular order):
 
-
+- Five days seems like a lot of time; it's really not. It will go by quickly! Let's buckle down together!
+- Any questions that I can't answer in the moment, I will put in our "Parking Lot." We will address these questions when feasible.
+- You can snack during class. Just go on mute!
+- Every day will be filled with "bloopers" - code will throw errors, notebooks will crash, etc. This is **normal**. We'll use each of these moments as learning opportunities, and we'll get through them together.
+- During a lesson/demonstration/etc., please call out if you see something wrong with the code I'm presenting. I make mistakes, too!
+- My cat will make a guest appearance at some point during our lessons! She is very chatty and social.
+- Written Feedback will be asked of you at the end of every day - participation is not mandatory, but it helps me and GA understand how we're doing. 
+- We will speed up if we need to; we will slow down if we need to.
+- The pace of this course is FAST (faster than the 10 week program), but it is a good example of the pace of the immersive programs (just something to keep in mind!)
 
 ---
 
@@ -108,13 +123,13 @@ Other notes:
 - 500,000+ attendees at bootcamps, workshops, and events.
 
 
-<aside class="notes">
+<!--- <aside class="notes">
 
 **Teaching Tips**:
 
 - Go through this section quickly. Students have probably heard this information before in info sessions or via the GA website.
 
-</aside>
+</aside> --->
 
 
 ---
@@ -124,7 +139,7 @@ Other notes:
 > "GA was founded on the principle of empowering people to pursue the work they love. Since we opened our first campus in 2011, we have had the privilege of working with students, governments, and the world’s largest companies to create opportunities to radically transform careers and economic prospects." - Jake Schwartz, Founder + CEO, General Assembly
 
 
-<aside class="notes">
+<!--- <aside class="notes">
 
 1 MINUTE
 
@@ -132,59 +147,7 @@ Other notes:
 
 - Rather than reading the quotation out loud, take this opportunity to share with students your own reasons for being part of GA’s mission.
 
-</aside>
-
----
-
-## Student Experience
-
-Come work on campus!
-
-We’re open:
-
-- {8am - 10pm, Monday to Friday}
-- {10am - 6pm, Saturday and Sunday}
-
-
-<aside class="notes">
-
-**Teaching Tips**:
-
-- If this is the five day full time, delete this slide - students won't need to take advantage of this.
-
-</aside>
-
-
----
-
-## Map of the Campus
-
-{If possible; otherwise, remove this slide}
-
-<aside class="notes">
-
-**Talking Points**:
-
-- Point out restroooms, front lines, the classroom, and the kitchen, and where they could come work,  if that slide is left in.
-
-</aside>
-
----
-
-## Snack Calendar
-
-There’s a lot of work ahead, and you’re going to need fuel.
-
-{Link to snack calendar}
-
-<aside class="notes">
-
-**Teaching Tips**:
-
-- Remove this slide if there are no snacks available to them.
-
-</aside>
-
+</aside> --->
 
 ---
 
@@ -196,38 +159,12 @@ The classmates are cool.
 
 Let's talk about the course.
 
-<aside class="notes">
-
-1 MINUTE
-
-**Teaching Tips**:
-
-- Transition to talking about GA in general back to the Python course.
-
-</aside>
-
-
 ---
 
-## Computer Setup
+## Course Specifics
 
-We are expecting that:
-
-- You are on a Mac, PC, or Linux machine
-- You can get to the internet!
-- You have Slack.
-
-*Wi-fi: GA-GUEST*
-*pw: yellowpencil*
-
-<aside class="notes">
-
-**Teaching Tips**:
-
-- Make sure all students are set up on Slack and connected to the network.
-- Change the wifi if needed!
-
-</aside>
+- 6 days. Days 1-5 are lesson days. Day 6 is about the final project.
+- Lesson days consist of lessons (0.5-1.5 hr), labs (1-2 hr), review sessions (0.5-1 hr), and breaks (0.25-1 hr).
 
 ---
 
@@ -245,8 +182,8 @@ Office hours are currently scheduled for:
 ## How to get a certificate of completion
 
 1. Complete all three homework assignments
-2. Don’t class (exceptions on a case-by-case basis)
-3. Complete the final project
+2. Attend every class (If you do end up missing class, exceptions to this rule are made on a case-by-case basis. Please just Slack me if you plan on missing class, so I can be accountable.)
+4. Complete the final project
 
 ---
 
@@ -267,6 +204,7 @@ Homework:
   - We will go over it the next class!
   - Homework will be assigned Monday, Tuesday, and Wednesday
   - The homework is available from the main GitHub page.
+  - It shouldn't take you more than 1-2 hours. 
 
 ---
 
@@ -287,8 +225,8 @@ Labs:
 - At the end of {Day 4}, you’ll choose a final project focus.
 - On {Day 5 & 6} in class, you’ll build an application in Python based on your project focus area.
 - At the end of {Day 6}, you’ll demo your project for the class.
-- See **Final Project** [notebook]( ) for more information about the final project.
-- I will introduce the final project on day 1; we will be discussing it periodically on days 2-4; we will have classtime to work on the final project on days 5&6.
+- See **Final Project** [notebook](https://colab.research.google.com/drive/1Ex8U8VvmmkvPSCllOSIcf3JPFNgwHWHf?usp=sharing) for more information about the final project.
+- I will introduce the final project on day 1; we will be discussing it periodically on days 2-4; we will have classtime to work on the final project on days 5&6. My expectation is that you will work on it a little bit after class, too.
 - Throughout the course, think of 1) what data you'd like to explore 2) a problem statement. I will provide you with an example of both.
 
 ---
