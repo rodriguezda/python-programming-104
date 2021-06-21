@@ -47,8 +47,7 @@ In this lesson, students will:
 
 - Instructional team and classmate introductions.
 - About General Assembly.
-- Course structure.
-- Homework, Labs, and the final project.
+- Course structure, plus Homework, Labs, and the final project.
 <!---- Key concepts from the myGA prework.
 
 
