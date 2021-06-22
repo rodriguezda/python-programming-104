@@ -150,27 +150,27 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [C-CC]: xxxx
 [D-DD]: https://generalassembly.zoom.us/rec/play/Vip2HpV4nNuV6ZDdIUb9KjoB1sdwpMCLGS6vEZOmfLC-EqKsOvv0sF-FcKctcsxKA72XWIaTl6ZRpZY.Vv2uL2V0cJ2ACpxM
 [E-EE]: https://generalassembly.zoom.us/rec/play/ly1wcnKmSUpWyDeC-ki_ViiHOf5ta4Sy4GDLxnwZyTWDydbieYLJLaMCNPO1uGL9VMtYCq6ngaj57uQJ.n_gK7LTvanTOcxlJ
-[F-FF]:
-[G-GG]:
-[H-HH]:
-[I-II]:
-[J-JJ]:
-[K-KK]:
-[L-LL]:
-[M-MM]:
-[N-NN]:
-[O-OO]:
-[P-PP]:
-[Q-QQ]:
-[R-RR]:
-[S-SS]:
-[T-TT]:
-[U-UU]:
-[V-VV]:
-[W-WW]:
-[X-XX]:
-[Y-YY]:
-[Z-ZZ]:
+[F-FF]: xxxx
+[G-GG]: xxxx
+[H-HH]: xxxx
+[I-II]: xxxx
+[J-JJ]: xxxx
+[K-KK]: xxxx
+[L-LL]: xxxx
+[M-MM]: xxxx
+[N-NN]: xxxx
+[O-OO]: xxxx
+[P-PP]: xxxx
+[Q-QQ]: xxxx
+[R-RR]: xxxx
+[S-SS]: xxxx
+[T-TT]: xxxx
+[U-UU]: xxxx
+[V-VV]: xxxx
+[W-WW]: xxxx
+[X-XX]: xxxx
+[Y-YY]: xxxx
+[Z-ZZ]: xxxx
 
 Day      | Suggested Homework
 -------- | ---------
