@@ -147,7 +147,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 
 [A-AA]: https://generalassembly.zoom.us/rec/play/9FUI03G-B0XbQXnnMbZXbE8nvCOQwRr-fth7ihdb-Z_3RwVT61fLzKyC3ZOrI-bGj9wNsUdEvqXpW72z.pciY7EHCjhMBfWVR
 [B-BB]: https://generalassembly.zoom.us/rec/play/0Dt8bMKbqb6afZnayQpYrwtQVoEUvL2GzLsUSa0EMkdwYDmT2ou7ETSrjvlNAvVq48nK2oj2v2aMmztG.xmZzcuZFtKnUiOaN
-[C-CC]:
+[C-CC]: xxxx
 [D-DD]: https://generalassembly.zoom.us/rec/play/Vip2HpV4nNuV6ZDdIUb9KjoB1sdwpMCLGS6vEZOmfLC-EqKsOvv0sF-FcKctcsxKA72XWIaTl6ZRpZY.Vv2uL2V0cJ2ACpxM
 [E-EE]: https://generalassembly.zoom.us/rec/play/ly1wcnKmSUpWyDeC-ki_ViiHOf5ta4Sy4GDLxnwZyTWDydbieYLJLaMCNPO1uGL9VMtYCq6ngaj57uQJ.n_gK7LTvanTOcxlJ
 [F-FF]:
