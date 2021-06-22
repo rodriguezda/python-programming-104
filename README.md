@@ -56,18 +56,18 @@ Links to the five lab assignments for this course are included in the Course Sch
 
 Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   | 
 ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-[:30] [Course Introductions][1-1A]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] [Day 6: Summary Kickoff][6-1A]  |
+[:30] [Course Introductions][1-1A], [recording][A-AA]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] [Day 6: Summary Kickoff][6-1A]  |
 [:30] GA Introductions (Erica and David) | [:30] [Day 2 Kickoff][2-1A] |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5 Kickoff][5-1A] | [2:00] [In-Class: Final Project Workshop][6-1B] |
-[:30] [Final Project][6-1B] | [1:30] [Functions][2-1B], [Decorators][2-1BB]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2 Intro][5-1B], [Pandas 2 Notebook][5-1BB] | [1:00] Extended Break |
-[:30] [Google Colaboratory][1-1C]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][4-1C]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
-[1:00] [Defining Variables][1-1B]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D]  | [1:00] [Plots and Charts Intro][5-1C], [Notebook][5-1CC]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
+[:30] [Final Project][6-1B], [recording][A-AA] | [1:30] [Functions][2-1B], [Decorators][2-1BB]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2 Intro][5-1B], [Pandas 2 Notebook][5-1BB] | [1:00] Extended Break |
+[:30] [Google Colaboratory][1-1C], [recording][A-AA]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][4-1C]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
+[1:00] [Defining Variables][1-1B], [recording][A-AA]  |  [:45] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D]  | [1:00] [Plots and Charts Intro][5-1C], [Notebook][5-1CC]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
 [:15] Break   |  [1:00] Extended Break  | [:15] Mid-Week Check-in   |   [1:00] Extended Break  |  [1:00] Extended Break  | --- |
-[1:00] [Lab #1: Fundamentals][1-1D]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas Intro][4-1E], [Pandas Notebook][4-1EE]  | [:45] [Pandas Datetime Intro][5-1D], [Notebook][5-1DD]  |  --- |
+[1:00] [Lab #1: Fundamentals][1-1D], [Recording][B-BB]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas Intro][4-1E], [Pandas Notebook][4-1EE]  | [:45] [Pandas Datetime Intro][5-1D], [Notebook][5-1DD]  |  --- |
 [1:00] Extended Break   | [:30] [Dictionaries][2-1E] |  [:30] [Variable Scope][3-1D]   |  [:15] Break |  [1:00] [Pandas Joins][5-1E], [Notebook][5-1EE]   |  ---  |
-[1:00] [Conditionals][1-1E]   | [:15] Break   | [:15] Break   |  [1:15] [Lab #5: Intermediate Python][4-1F]   |   [:15] Break   |  ----  |
+[1:00] [Conditionals][1-1E], [Recording][C-CC]   | [:15] Break   | [:15] Break   |  [1:15] [Lab #5: Intermediate Python][4-1F]   |   [:15] Break   |  ----  |
 [:15] Break   |   [:45] [Sets & Tuples][2-1F]   |  [:45] [Debugging Principles][3-1F]   | [:15] [Final Project Discussion][4-1G] |  [1:15] [Lab #6: Weather Forecast][5-1F]  | --- | 
-[:30] [Lists][1-1G]  |  [:15] Break   |  [1:00] [Lab #4: Debugging][3-1G]  |  [:30] [End-of-Day Recap][4-1H]  |  [:30] [End-of-Day Recap][5-1G] |  ---  |
-[:30] [Loops][1-1F]  | [:45] [Classes][2-1G]   |  [:30] In-class HW/Review Time  |  ---  |  [:15] [Optional: Final Project Discussion][1-1H]  | ---|
+[:30] [Lists][1-1G], [Recording][D-DD]  |  [:15] Break   |  [1:00] [Lab #4: Debugging][3-1G]  |  [:30] [End-of-Day Recap][4-1H]  |  [:30] [End-of-Day Recap][5-1G] |  ---  |
+[:30] [Loops][1-1F], [Recording][E-EE]  | [:45] [Classes][2-1G]   |  [:30] In-class HW/Review Time  |  ---  |  [:15] [Optional: Final Project Discussion][1-1H]  | ---|
 [:30] [End-of-Day Recap]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] [End-of-Day Recap][3-1H]  |  ---  | ---  | --- | 
 [:30] Office Hours     | --    |  --   |  --   | --   |  --   | 
        
@@ -144,6 +144,33 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 <!---[6-1D]: unit-7-web-dev-wrap-up/instructor-resources/02-project--->
 <!---[6-1F]: unit-7-web-dev-wrap-up/instructor-resources/02-project--->
 <!---[6-1H]: unit-7-web-dev-wrap-up/instructor-resources/03-summary--->
+
+[A-AA]: https://generalassembly.zoom.us/rec/play/9FUI03G-B0XbQXnnMbZXbE8nvCOQwRr-fth7ihdb-Z_3RwVT61fLzKyC3ZOrI-bGj9wNsUdEvqXpW72z.pciY7EHCjhMBfWVR
+[B-BB]: https://generalassembly.zoom.us/rec/play/0Dt8bMKbqb6afZnayQpYrwtQVoEUvL2GzLsUSa0EMkdwYDmT2ou7ETSrjvlNAvVq48nK2oj2v2aMmztG.xmZzcuZFtKnUiOaN
+[C-CC]:
+[D-DD]: https://generalassembly.zoom.us/rec/play/Vip2HpV4nNuV6ZDdIUb9KjoB1sdwpMCLGS6vEZOmfLC-EqKsOvv0sF-FcKctcsxKA72XWIaTl6ZRpZY.Vv2uL2V0cJ2ACpxM
+[E-EE]: https://generalassembly.zoom.us/rec/play/ly1wcnKmSUpWyDeC-ki_ViiHOf5ta4Sy4GDLxnwZyTWDydbieYLJLaMCNPO1uGL9VMtYCq6ngaj57uQJ.n_gK7LTvanTOcxlJ
+[F-FF]:
+[G-GG]:
+[H-HH]:
+[I-II]:
+[J-JJ]:
+[K-KK]:
+[L-LL]:
+[M-MM]:
+[N-NN]:
+[O-OO]:
+[P-PP]:
+[Q-QQ]:
+[R-RR]:
+[S-SS]:
+[T-TT]:
+[U-UU]:
+[V-VV]:
+[W-WW]:
+[X-XX]:
+[Y-YY]:
+[Z-ZZ]:
 
 Day      | Suggested Homework
 -------- | ---------
