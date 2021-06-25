@@ -56,7 +56,7 @@ Links to the five lab assignments for this course are included in the Course Sch
 
 Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   | 
 ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-[:30] [Course Introductions][1-1A], [recording][A-AA]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] [Day 6: Summary Kickoff][6-1A]  |
+[:30] [Course Introductions][1-1A], [recording][A-AA]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [:30] API Lecture <!--[6-1A]-->  |
 [:30] GA Introductions (Erica and David) | [:30] Day 2 Kickoff<!--[2-1A]--> |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5 Kickoff][5-1A] | [2:00] [In-Class: Final Project Workshop][6-1B] |
 [:30] [Final Project][6-1B], [recording][A-AA] | [1:30] [Functions][2-1B]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B], [Recording][G-GG] |  [1:00] [Pandas 2 Intro][5-1B], [Pandas 2 Notebook][5-1BB] | [1:00] Extended Break |
 [:30] [Google Colaboratory][1-1C], [recording][A-AA]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][4-1C], [Recording][G-GG]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
