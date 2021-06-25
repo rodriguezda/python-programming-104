@@ -60,7 +60,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [:30] GA Introductions (Erica and David) | [:30] Day 2 Kickoff<!--[2-1A]--> |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5 Kickoff][5-1A] | [2:00] [In-Class: Final Project Workshop][6-1B] |
 [:30] [Final Project][6-1B], [recording][A-AA] | [1:30] [Functions][2-1B]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B] |  [1:00] [Pandas 2 Intro][5-1B], [Pandas 2 Notebook][5-1BB] | [1:00] Extended Break |
 [:30] [Google Colaboratory][1-1C], [recording][A-AA]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][4-1C]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
-[1:00] [Defining Variables][1-1B], [recording][A-AA]  |  [1:00] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D]  | [1:00] [Plots and Charts Intro][5-1C], [Notebook][5-1CC]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
+[1:00] [Defining Variables][1-1B], [recording][A-AA]  |  [1:00] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D], [Recording][G-GG]  | [1:00] [Plots and Charts Intro][5-1C], [Notebook][5-1CC]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
 [:15] Break   |  [1:00] Extended Break  | [:15] Mid-Week Check-in   |   [1:00] Extended Break  |  [1:00] Extended Break  | --- |
 [1:00] [Lab #1: Fundamentals][1-1D], [Recording][B-BB]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas Intro][4-1E], [Pandas Notebook][4-1EE], [Recording][F-FF]  | [:45] [Pandas Datetime Intro][5-1D], [Notebook][5-1DD]  |  --- |
 [1:00] Extended Break   | [:30] [Dictionaries][2-1E] |  [:30] [Variable Scope][3-1D]   |  [:15] Break |  [1:00] [Pandas Joins][5-1E], [Notebook][5-1EE]   |  ---  |
@@ -151,7 +151,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [D-DD]: https://generalassembly.zoom.us/rec/play/Vip2HpV4nNuV6ZDdIUb9KjoB1sdwpMCLGS6vEZOmfLC-EqKsOvv0sF-FcKctcsxKA72XWIaTl6ZRpZY.Vv2uL2V0cJ2ACpxM
 [E-EE]: https://generalassembly.zoom.us/rec/play/ly1wcnKmSUpWyDeC-ki_ViiHOf5ta4Sy4GDLxnwZyTWDydbieYLJLaMCNPO1uGL9VMtYCq6ngaj57uQJ.n_gK7LTvanTOcxlJ
 [F-FF]: https://generalassembly.zoom.us/rec/play/7vVgtylCxeSm9TSee1wxPRzeCvSSOQma613UsqNuHVrpgmIy8HANrEQDwlnwYCjx-1d3QkdGAuFYR_se.U1gldjMcPrSBOF-P
-[G-GG]: xxxx
+[G-GG]: https://generalassembly.zoom.us/rec/play/d9joID01IOHkiA121MhOgHAMtcXrzVqLSKtpucS4wPv60skvcXYoqrhObYQuFn5NWRamChwwK6eG0olU.CiqVEo3z0YWtW1_g
 [H-HH]: xxxx
 [I-II]: xxxx
 [J-JJ]: xxxx
