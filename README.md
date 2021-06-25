@@ -62,7 +62,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [:30] [Google Colaboratory][1-1C], [recording][A-AA]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][4-1C]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
 [1:00] [Defining Variables][1-1B], [recording][A-AA]  |  [1:00] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D]  | [1:00] [Plots and Charts Intro][5-1C], [Notebook][5-1CC]   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
 [:15] Break   |  [1:00] Extended Break  | [:15] Mid-Week Check-in   |   [1:00] Extended Break  |  [1:00] Extended Break  | --- |
-[1:00] [Lab #1: Fundamentals][1-1D], [Recording][B-BB]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas Intro][4-1E], [Pandas Notebook][4-1EE]  | [:45] [Pandas Datetime Intro][5-1D], [Notebook][5-1DD]  |  --- |
+[1:00] [Lab #1: Fundamentals][1-1D], [Recording][B-BB]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas Intro][4-1E], [Pandas Notebook][4-1EE], [Recording][F-FF]  | [:45] [Pandas Datetime Intro][5-1D], [Notebook][5-1DD]  |  --- |
 [1:00] Extended Break   | [:30] [Dictionaries][2-1E] |  [:30] [Variable Scope][3-1D]   |  [:15] Break |  [1:00] [Pandas Joins][5-1E], [Notebook][5-1EE]   |  ---  |
 [1:00] [Conditionals][1-1E], [Recording][C-CC]   | [:15] Break   | [:15] Break   |  [1:15] [Lab #5: Intermediate Python][4-1F]   |   [:15] Break   |  ----  |
 [:15] Break   |   [:45] [Sets & Tuples][2-1F]   |  [:45] [Debugging Principles][3-1F]   | [:15] [Final Project Discussion][4-1G] |  [1:15] [Lab #6: Weather Forecast][5-1F]  | --- | 
@@ -150,7 +150,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [C-CC]: xxxx
 [D-DD]: https://generalassembly.zoom.us/rec/play/Vip2HpV4nNuV6ZDdIUb9KjoB1sdwpMCLGS6vEZOmfLC-EqKsOvv0sF-FcKctcsxKA72XWIaTl6ZRpZY.Vv2uL2V0cJ2ACpxM
 [E-EE]: https://generalassembly.zoom.us/rec/play/ly1wcnKmSUpWyDeC-ki_ViiHOf5ta4Sy4GDLxnwZyTWDydbieYLJLaMCNPO1uGL9VMtYCq6ngaj57uQJ.n_gK7LTvanTOcxlJ
-[F-FF]: xxxx
+[F-FF]: https://generalassembly.zoom.us/rec/play/7vVgtylCxeSm9TSee1wxPRzeCvSSOQma613UsqNuHVrpgmIy8HANrEQDwlnwYCjx-1d3QkdGAuFYR_se.U1gldjMcPrSBOF-P
 [G-GG]: xxxx
 [H-HH]: xxxx
 [I-II]: xxxx
