@@ -13,7 +13,7 @@ This guide was developed by Susi Remondi and heavily updated by Diego Rodriguez 
 >> Instructor: [Diego Rodriguez](https://generalassemb.ly/instructors/diego-rodriguez/16908)
 
 ## Overview
-In this one-week Python Programming course, students will walk away with a foundation in Python programming. Students will also get an 8 hour dive into the Python library for data analysis, Pandas, and walk away with a project of their choosing they've built using that library, thus, being able to confidently manage data collection, data manipulation, data analysis, data visualization, and data presentation using Python and Pandas.
+In this ten-week Python Programming course, students will walk away with a foundation in Python programming. Students will also get an 8 hour dive into the Python library for data analysis, Pandas, and walk away with a project of their choosing they've built using that library, thus, being able to confidently manage data collection, data manipulation, data analysis, data visualization, and data presentation using Python and Pandas.
 
 ## Quick Links
 - [About This Guide](#about-this-guide)
@@ -32,7 +32,7 @@ This guide contains course information, links to course material, and links to a
 > After the end of the program, this repository will be made private. Students are encouraged to clone this repository at the end of the course for future use and reference (don't worry, we'll go over how to do that). 
 
 ## Course Details
-Python Programming is a 40-hour course. This course is open to and encouraged for absolute beginners, delivered in a 5 day full-time format, with a sixth day used for final project preparation and presentation.
+Python Programming is a 40-hour course. This course is open to and encouraged for absolute beginners, delivered in a 20 day full-time format, with 1-2 days used for final project preparation and presentation.
 
 Once enrolled, students complete 3.5 hours of pre-work on the myGA platform.
 
