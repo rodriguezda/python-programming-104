@@ -54,30 +54,6 @@ Links to the five lab assignments for this course are included in the Course Sch
 
 ## Course Schedule
 
-<!---Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   | 
----------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
-[:30] [Course Introductions][1-1A], [recording][A-AA]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [1:00] [API Lecture](https://colab.research.google.com/drive/1EmkJaMhG3sUCMZT8QVuHaXPy084xZ6OA?usp=sharing), [recording](https://generalassembly.zoom.us/rec/play/mRiFszquFKPPeIf24_EoYTbfPTz2swHHuO3AXpyMB4UXQL527lG4HdUcvnpcst_c0HWvy0MMuNiV60c.FyM65h2F1zal7lim)  |
-[:30] GA Introductions (Erica and David) | [:30] Day 2 Kickoff<!--[2-1A]--> |  [:30] [Day 3 Kickoff][3-1A]  | [:30] [Day 4 Kickoff][4-1A]  | [:30] [Day 5 Kickoff][5-1A] | [2:00] [In-Class: Final Project Workshop][6-1B] |
-[:30] [Final Project][6-1B], [recording][A-AA] | [1:30] [Functions][2-1B]  | [:30] [Inheritance][3-1B]   | [:15] [Intermediate Python Discussion][4-1B], [Recording][G-GG] |  [1:00] [Pandas 2 Intro][5-1B], [Pandas 2 Notebook][5-1BB], [Recording](https://generalassembly.zoom.us/rec/play/zh7miICj3tXlNeIYLnwXzUHtcNXEqiRMbrHKuOg1zglqFv6jXB8O-ftsqoMBne4OGn80Y_ZAq5PTGod5.4rbdB9gVY64BO4DL) | [1:00] Extended Break |
-[:30] [Google Colaboratory][1-1C], [recording][A-AA]  |  [:15] Break   |  [:15] Break   | [:30] [Intro to Python for Data][4-1C], [Recording][G-GG]  | [:15] Break  |  [2:00] [Project Presentations, Data][6-1E]  |
-[1:00] [Defining Variables][1-1B], [recording][A-AA]  |  [1:00] [Advanced Arguments][2-1C]    | [1:30] [Lab #3: OOP][3-1C], [Intro][3-1CC] | [:30] [Modules & Libraries][4-1D], [Recording][G-GG]  | [1:00] [Plots and Charts Intro][5-1C], [Notebook][5-1CC], [Recording](https://generalassembly.zoom.us/rec/play/4n7iK-6Q_dhpQXW8VZCnuElwW1a-sCVKRLwWW6CA1rz1DpCRBfETojRJPKNPKAlKUga8HOfXW5fHxuqu.r2HhhZBevSLgu_hP)   | [:30] [Wrap-up & Celebrations, Data][6-1G]  |
-[:15] Break   |  [1:00] Extended Break  | [:15] Mid-Week Check-in   |   [1:00] Extended Break  |  [1:00] Extended Break  | --- |
-[1:00] [Lab #1: Fundamentals][1-1D], [Recording][B-BB]   | [1:30] [Lab #2: Control Flow][2-1D]   |  [1:00] Extended Break  |  [1:00] [Pandas Intro][4-1E], [Pandas Notebook][4-1EE], [Recording][F-FF]  | [:45] [Pandas Datetime Intro][5-1D], [Notebook][5-1DD], [Recording](https://generalassembly.zoom.us/rec/play/X0WnUv1wiH1FQna15kkI-V1ykcK1mPwVaXxhHYSiG6HMrYBMxNSTS3Kq0DWSfP_MMhR5OjNV_KTwObYA.P4YsyTP5DLznzsAT)  | --- |
-[1:00] Extended Break   | [:30] [Dictionaries][2-1E] |  [:30] [Variable Scope][3-1D]   |  [:15] Break |  [1:00] [Pandas Joins][5-1E], [Notebook][5-1EE], [Recording](https://generalassembly.zoom.us/rec/share/qIXEK2K7rNwhteRNZJ1X5dUoQ1HPJJ5mi8SyXgmY-TVHXEUBvlMFWwTjcJtjd3Rx.MNy_M8BKRPK4TooW?startTime=1624658876000)   |  ---  |
-[1:00] [Conditionals][1-1E], [Recording][C-CC]   | [:15] Break   | [:15] Break   |  [1:15] [Lab #5: Intermediate Python][4-1F]   |   [:15] Break   |  ----  |
-[:15] Break   |   [:45] [Sets & Tuples][2-1F]   |  [:45] [Debugging Principles][3-1F]   | [:15] [Final Project Discussion][4-1G] |  [1:15] [Lab #6: Weather Forecast][5-1F]  | --- | 
-[:30] [Lists][1-1G], [Recording][D-DD]  |  [:15] Break   |  [1:00] [Lab #4: Debugging][3-1G]  |  [:30] [End-of-Day Recap][4-1H]  |  [:30] [End-of-Day Recap][5-1G] |  ---  |
-[:30] [Loops][1-1F], [Recording][E-EE]  | [:45] [Classes][2-1G]   |  [:30] In-class HW/Review Time  |  ---  |  [:15] [Optional: Final Project Discussion][1-1H]  | ---|
-[:30] [End-of-Day Recap]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] [End-of-Day Recap][3-1H]  |  ---  | ---  | --- | 
-[:30] Office Hours     | --    |  --   |  --   | --   |  --   |
---->
-
-<!---                      
-| [:30] [APIs and Requests][5-2G] 
---->
-
-#### 10 Week Pacing
-
 Students are to complete the **Welcome to Python Programming** learning path on myGA prior to the first day of class.
 
 | Lesson # (Week:Day) | In Class                                                                                                                                                                                                                                                                                                                                              |   | Homework                                                                                                                                                                              |
