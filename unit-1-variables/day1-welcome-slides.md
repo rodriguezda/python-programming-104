@@ -69,9 +69,9 @@ In this lesson, students will:
 **Diego Rodriguez**
 
 About Me:
-- Data Scientist with Brightspot. I do statistical modeling, data analytics, data engineering, and machine learning.
+- Data Scientist/Product Manager with Brightspot. I do statistical modeling, data analytics, data engineering, and machine learning. 
 - At General Assembly, I teach Python, and have previously taught Data Science. Also, I am a graduate of General Assembly’s Data Science Immersive bootcamp in 2017. I teach Python with an emphasis on data, data manipulation, data analysis, data science.
-- I enjoy cooking, learning to sail, Marvel movies, AND teaching!
+- I enjoy cooking, learning to sail, AND teaching!
 
 My Teaching Style:
 - To the point! 
@@ -102,7 +102,7 @@ Let’s all agree to:
 
 Other notes (in no particular order):
 
-- Five days seems like a lot of time; it's really not. It will go by quickly! Let's make it count!
+- 10 weeks seems like a lot of time; it's really not. It will go by quickly! Let's make it count!
 - Any questions that I can't answer in the moment, I will put in our "Parking Lot." We will address these questions when feasible.
 - You can snack during class. Just go on mute!
 - Every day will be filled with "bloopers" - code will throw errors, notebooks will crash, etc. This is **normal**. We'll use each of these moments as learning opportunities, and we'll get through them together.
@@ -110,7 +110,7 @@ Other notes (in no particular order):
 - My cat will make a guest appearance at some point during our lessons! She is very chatty and social.
 - Written Feedback will be asked of you at the end of every day - participation is not mandatory, but it helps me and GA understand how we're doing. 
 - We will speed up if we need to; we will slow down if we need to.
-- The pace of this course is FAST (faster than the 10 week program), but it is a good example of the pace of the immersive programs (just something to keep in mind!)
+- The pace of this course is FAST!
 - As part of our lessons, you will be asked or will volunteer to screenshare and walk us through you code. It's part of the learning process!
 
 ---
@@ -163,35 +163,34 @@ Let's talk about the course.
 
 ## Course Specifics
 
-- 6 days. Days 1-5 are lesson days. Day 6 is about the final project.
-- Lesson days consist of lessons (0.5-1.5 hr), labs (1-2 hr), review sessions (0.5-1 hr), and breaks (0.25-1 hr).
+- 20 days. Days 1-19 are lesson days. Days 18-19 include final project work time. Day 20 is the final project.
+- Lesson days consist of lessons (0.5-1.0 hr), labs (0.5-1 hr), review sessions (0.25-0.5 hr), and breaks (10 min).
 
 ---
 
 ## Office Hours
 
 Office hours are currently scheduled for:
-- Monday: 6PM EST
-- Tuesday-Friday: 10AM EST
+- Monday: 5PM EST
+- Wednesday: 5PM EST
 - Use this time to: discuss lesson material, homework problems, labs, the final project, ask industry questions, learn more about General Assembly programs.
-- Hours are subject to change (based on need)
+- Hours are subject to change 
 
 ---
 
 
 ## How to get a certificate of completion
 
-1. Complete all three homework assignments
-2. Attend every class (If you do end up missing class, exceptions to this rule are made on a case-by-case basis. Please just Slack me if you plan on missing class, so I can be accountable.)
-4. Complete the final project
+1. Complete all homework assignments AND labs
+2. Attend 80%+ of classes (If you do end up missing class, exceptions to this rule are made on a case-by-case basis. Please just Slack me if you plan on missing class, so I can be accountable.)
+4. Complete and present the final project
 
 ---
 
 ## Course Materials
 
 - Lessons for the day will be linked/updated at the beginning of the day.
-
-The lessons are interactive to give as much programming practice as possible, so be sure you get the links and follow along!
+- The lessons are interactive to give as much programming practice as possible, so be sure you get the links and follow along!
 
 ---
 
@@ -202,9 +201,11 @@ Homework:
 
   - Isn't graded, but is good practice.
   - We will go over it the next class!
-  - Homework will be assigned Monday, Tuesday, and Wednesday
+  - Homework will be assigned most classes
   - The homework is available from the main GitHub page.
   - It shouldn't take you more than 1-2 hours. 
+  - Please complete before the end of the week.
+  - Homework submissions will be to this form: [insert link here]
 
 ---
 
@@ -213,9 +214,9 @@ Homework:
 
 Labs:
 
-  - Like homework, labs aren't graded, but is good practice.
-  - We will go over each lab at the end of each lab session OR during Kickoff Sessions. 
-  - There are five labs, they will be assigned each day, and to be completed in class.
+  - Like homework, labs aren't graded, but is good practice. 
+  - they are completed in class.
+  - We will go over each lab at the end of each lab session OR beginning of next session. 
   - The labs are available from the main GitHub page.
 
 ---
@@ -223,11 +224,11 @@ Labs:
 ## Your Final Project
 
 - Each day, you’ll build skills in Python and understand different ways in which you can use it to build applications.
-- At the end of {Day 4}, you’ll choose a final project focus.
-- On {Day 5 & 6} in class, you’ll build an application in Python based on your project focus area.
-- At the end of {Day 6}, you’ll demo your project for the class.
+- I will introduce the final project on {Day 5}; we will be discussing it periodically; we will have classtime to work on the final project on days 18-19.
+- By {Day 14}, you’ll choose a final project focus + data set.
+- Between {Days 15-19} in class, you should be working on your final project (exploring and cleaning data, conducing EDA, doing analyses, etc.). My expectation is that you will work on your final project in-between classes, too.
+- On {Day 20}, you’ll demo your project for the class. 5-7 minute presentations.
 - See **Final Project** [notebook](https://colab.research.google.com/drive/1Ex8U8VvmmkvPSCllOSIcf3JPFNgwHWHf?usp=sharing) for more information about the final project.
-- I will introduce the final project on day 1; we will be discussing it periodically on days 2-4; we will have classtime to work on the final project on days 5&6. My expectation is that you will work on it a little bit after class, too.
 - Throughout the course, think of 1) what data you'd like to explore 2) a problem statement. I will provide you with an example of both.
 
 ---
