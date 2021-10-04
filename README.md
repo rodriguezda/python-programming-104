@@ -71,7 +71,7 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [:30] [End-of-Day Recap]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] [End-of-Day Recap][3-1H]  |  ---  | ---  | --- | 
 [:30] Office Hours     | --    |  --   |  --   | --   |  --   |
 --->
-
+x
 <!---                      
 | [:30] [APIs and Requests][5-2G] 
 --->
