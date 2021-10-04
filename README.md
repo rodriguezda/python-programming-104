@@ -69,9 +69,9 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [:30] [Lists][1-1G], [Recording][D-DD]  |  [:15] Break   |  [1:00] [Lab #4: Debugging][3-1G]  |  [:30] [End-of-Day Recap][4-1H]  |  [:30] [End-of-Day Recap][5-1G] |  ---  |
 [:30] [Loops][1-1F], [Recording][E-EE]  | [:45] [Classes][2-1G]   |  [:30] In-class HW/Review Time  |  ---  |  [:15] [Optional: Final Project Discussion][1-1H]  | ---|
 [:30] [End-of-Day Recap]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] [End-of-Day Recap][3-1H]  |  ---  | ---  | --- | 
-[:30] Office Hours     | --    |  --   |  --   | --   |  --   | 
-  
-  --->
+[:30] Office Hours     | --    |  --   |  --   | --   |  --   |
+--->
+
 <!---                      
 | [:30] [APIs and Requests][5-2G] 
 --->
