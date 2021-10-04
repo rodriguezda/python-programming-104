@@ -83,6 +83,7 @@ Students are to complete the **Welcome to Python Programming** learning path on 
 | Lesson 18 (w9:d2)   | Work on Project                                                                                                                                                                                                                                                                                                                                       |   | < None >                                                                                                                                                                              |
 | Lesson 19 (w10:d1)  | Project Presentations                                                                                                                                                                                                                                                                                                                                 |   | < None >                                                                                                                                                                              |
 | Lesson 20d (w10:d2) | *Data Track*: Project Presentations, [Class Summary](unit-7-data-wrap-up/instructor-resources/03-summary)                                                                                                                                                                                                                                             |   | < None >                                                                                                                                                                              |
+| --    |  --   |  --   | --   |  --   |
 
 ---
 
@@ -184,16 +185,7 @@ Students are to complete the **Welcome to Python Programming** learning path on 
 [Y-YY]: xxxx
 [Z-ZZ]: xxxx
 
-Day      | Suggested Homework
--------- | ---------
-1        | [Lists, `if/elif/else`, and `for/while`][7-1A]
-2        | [Functions, Dictionaries, *Bonus: Kwargs*][7-1B]
-3        | [Inheritance, Debugging ][7-1C]
-<!---4        | [Scripting, APIs][7-1D]--->
-<!---5        | [Pandas EDA, Pandas Visualizations][7-1E], [Consumer Sales Exercise][7-1G], [OMDB Pandas Exercise][7-1H]--->
-<!---
-Extra   | [Rendering Templates, Creating APIs, GET/POST Requests][7-1F]
---->
+
 
 [7-1A]: https://colab.research.google.com/drive/1pgB-liqvXN_U9v7860tlMB5haG5tRRAn?usp=sharing     
 [7-1B]: https://colab.research.google.com/drive/1-VqR4yvm4UVWChi3v3HPDO7-6OT6NdK6?usp=sharing
