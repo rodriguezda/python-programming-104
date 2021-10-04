@@ -53,7 +53,7 @@ The homework assignments for this course are listed below. Homework is distribut
 Links to the five lab assignments for this course are included in the Course Schedule in the section below. Each day, the students will receive a lab to complete. During lab time, the instructor will introduce the lab, and then approximately 1-1.5 hours will be alloted for students to complete the labs independently (depending on the class size, breakout sessions may be utilized instead, so students can work on the lab together in groups). Afterward (or during Kickoff sessions), the class will review each lab. 
 
 ## Course Schedule
-
+<!---
 Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   | 
 ---------------- | ---------------- | ---------------- | ---------------- | ---------------- | ---------------- |
 [:30] [Course Introductions][1-1A], [recording][A-AA]  | [:30] Day 2 Office Hours | [:30] Day 3 Office Hours |  [:30] Day 4 Office Hours | [:30] Day 5 Office Hours | [1:00] [API Lecture](https://colab.research.google.com/drive/1EmkJaMhG3sUCMZT8QVuHaXPy084xZ6OA?usp=sharing), [recording](https://generalassembly.zoom.us/rec/play/mRiFszquFKPPeIf24_EoYTbfPTz2swHHuO3AXpyMB4UXQL527lG4HdUcvnpcst_c0HWvy0MMuNiV60c.FyM65h2F1zal7lim)  |
@@ -70,7 +70,8 @@ Day 1  | Day 2   | Day 3   | Day 4  | Day 5 | Day 6   |
 [:30] [Loops][1-1F], [Recording][E-EE]  | [:45] [Classes][2-1G]   |  [:30] In-class HW/Review Time  |  ---  |  [:15] [Optional: Final Project Discussion][1-1H]  | ---|
 [:30] [End-of-Day Recap]  |  [:30] [End-of-Day Recap][2-1H]   | [:30] [End-of-Day Recap][3-1H]  |  ---  | ---  | --- | 
 [:30] Office Hours     | --    |  --   |  --   | --   |  --   | 
-       
+  
+  --->
 <!---                      
 | [:30] [APIs and Requests][5-2G] 
 --->
