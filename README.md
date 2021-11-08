@@ -76,11 +76,11 @@ Students are to complete the **Welcome to Python Programming** learning path on 
 | Lesson 13 (w7:d1)  | [Cleaning and Combining Data: Slides](https://docs.google.com/presentation/d/1K4nAnbDhk2xm0MGMe7dmOrsYBMyUQXbmAtVAy6XO-YA/edit?usp=sharing), [Notebook](https://colab.research.google.com/drive/1SGpwXfdQCnFPCpr5iOzvID3BlKm92w2f?usp=sharing)  |  Day 13 Recording | [Homework: Combining Data](https://colab.research.google.com/drive/1SGpwXfdQCnFPCpr5iOzvID3BlKm92w2f?usp=sharing) | HW Solution
 | Lesson 14 (w7:d2)  | [Data Unit Lab](https://docs.google.com/presentation/d/1mgLOlGDeQzsP4p6mYbw6vw6JQV_96rsRKhNdhIoBjXA/edit?usp=sharing), [Lab Guidelines](https://docs.google.com/document/d/1CwGGTdZ8-2g48esfT-a5JBXA52oSEFih5tgc05I59mc/edit?usp=sharing), [Lab Data](https://drive.google.com/drive/folders/1Ey_RNYnuv_4OPnf3c7AE2VZiqGHNvg_r?usp=sharing) | Day 14 Recording   |  Work on Your Final Project!  | < None >
 | Lesson 15 (w8:d1)  | [Data Analysis Review](https://docs.google.com/presentation/d/1cxrlod9o3HJPWRndmPDJMVvcmFunefgBXSd_sHsvJls/edit?usp=sharing)  |  Day 15 Recording | Final Projects!  | < None >
-| Lesson 16 (w8:d2)  | [Server Development With Flask](xxx)| Day 16 Recording  | [Homework: ](xxx) | HW Solution
-| Lesson 17 (w9:d1)  | [Flask Templates and CRUD Apps](xxx)|  Day 17 Recording  | [Homework: ](xxx) | HW Solution
+| Lesson 16 (w8:d2)  | [Server Development With Flask](xxx)| Day 16 Recording  | [Homework: Flask](xxx) | HW Solution
+| Lesson 17 (w9:d1)  | [Flask Templates and CRUD Apps](xxx)|  Day 17 Recording  | [Homework: Flask Templates & CRUD Apps](xxx) | HW Solution
 | Lesson 18 (w9:d2)   | [Web Unit Lab OR Work on Project](xxx) | Day 18 Recording  | < None > | < None >
 | Lesson 19 (w10:d1)  | Project Presentations | Day 19 Recording  | < None > | < None >
-| Lesson 20 (w10:d2) | Project Presentations | Day 20 Recording  | < None > | < None >
+| Lesson 20 (w10:d2) | Project Presentations, [Course Summary](xxx)| Day 20 Recording  | < None > | < None >
 | --    |  --   |  --   | -- |
 ---
 
