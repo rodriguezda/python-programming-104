@@ -1,0 +1,152 @@
+region_id,country_code,country,region,sub_region,salesperson
+45585,TH,Thailand,APAC,South-Eastern Asia,Fei Hong
+4364,PA,Panama,Americas,Central America,Anna Andreadi
+7530,UA,Ukraine,EMEA,Eastern Europe,Giulietta Dortch
+28804,KR,South Korea,APAC,Eastern Asia,Wang Xiu Ying
+4119,SK,Slovakia,EMEA,Eastern Europe,Giulietta Dortch
+12699,VN,Vietnam,APAC,South-Eastern Asia,Fei Hong
+18787,TN,Tunisia,EMEA,Africa,Deborah Brumfield
+1784,NG,Nigeria,EMEA,Africa,Deborah Brumfield
+8746,SN,Senegal,EMEA,Africa,Deborah Brumfield
+4553,US,United States,Americas,West United States,Matt Collister
+20382,LK,Sri Lanka,APAC,Southern Asia,Nicole Hansen
+41715,SD,Sudan,EMEA,Africa,Deborah Brumfield
+23332,LY,Libya,EMEA,Africa,Deborah Brumfield
+8879,RW,Rwanda,EMEA,Africa,Deborah Brumfield
+6264,ZW,Zimbabwe,EMEA,Africa,Deborah Brumfield
+3280,NL,Netherlands,EMEA,Western Europe,Anna Andreadi
+69832,SZ,Swaziland,EMEA,Africa,Deborah Brumfield
+15598,SE,Sweden,EMEA,Northern Europe,Beatrice Top
+38,BJ,Benin,EMEA,Africa,Deborah Brumfield
+2570,CN,China,APAC,Eastern Asia,Wang Xiu Ying
+3849,ZA,South Africa,EMEA,Africa,Deborah Brumfield
+13836,AT,Austria,EMEA,Western Europe,Anna Andreadi
+63911,NP,Nepal,APAC,Southern Asia,Nicole Hansen
+53877,MM,Myanmar (Burma),APAC,South-Eastern Asia,Fei Hong
+61515,MR,Mauritania,EMEA,Africa,Deborah Brumfield
+73877,GP,Guadeloupe,Americas,Caribbean,Agwe Aristide
+13480,AL,Albania,EMEA,Southern Europe,Giulietta Dortch
+23428,NO,Norway,EMEA,Northern Europe,Beatrice Top
+10701,BH,Bahrain,EMEA,Western Asia,Giulietta Dortch
+1826,IN,India,APAC,Southern Asia,Nicole Hansen
+57488,JM,Jamaica,Americas,Caribbean,Agwe Aristide
+8567,EC,Ecuador,Americas,South America,Chuck Magee
+86650,SI,Slovenia,EMEA,Southern Europe,Giulietta Dortch
+98923,BB,Barbados,Americas,Caribbean,Agwe Aristide
+3855,PH,Philippines,APAC,South-Eastern Asia,Fei Hong
+12090,ME,Montenegro,EMEA,Southern Europe,Giulietta Dortch
+29245,MK,Macedonia,EMEA,Southern Europe,Giulietta Dortch
+4011,JP,Japan,APAC,Eastern Asia,Wang Xiu Ying
+6569,BO,Bolivia,Americas,South America,Chuck Magee
+80597,CG,Republic of the Congo,EMEA,Africa,Deborah Brumfield
+97511,GQ,Equatorial Guinea,EMEA,Africa,Deborah Brumfield
+2253,PK,Pakistan,APAC,Southern Asia,Nicole Hansen
+7993,DK,Denmark,EMEA,Northern Europe,Beatrice Top
+2163,KZ,Kazakhstan,APAC,Central Asia,Giulietta Dortch
+58758,AE,United Arab Emirates,EMEA,Western Asia,Giulietta Dortch
+26965,BD,Bangladesh,APAC,Southern Asia,Nicole Hansen
+35367,BA,Bosnia and Herzegovina,EMEA,Southern Europe,Giulietta Dortch
+5580,DZ,Algeria,EMEA,Africa,Deborah Brumfield
+1573,DE,Germany,EMEA,Western Europe,Anna Andreadi
+28459,LT,Lithuania,EMEA,Northern Europe,Giulietta Dortch
+28921,GE,Georgia,EMEA,Western Asia,Giulietta Dortch
+54837,GA,Gabon,EMEA,Africa,Deborah Brumfield
+59136,SS,South Sudan,EMEA,Africa,Deborah Brumfield
+63249,TG,Togo,EMEA,Africa,Deborah Brumfield
+5636,US,United States,Americas,East United States,Kelly Williams
+32515,ER,Eritrea,EMEA,Africa,Deborah Brumfield
+1774,CH,Switzerland,EMEA,Western Europe,Anna Andreadi
+13836,AT,Austria,EMEA,Western Europe,Giulietta Dortch
+3939,PT,Portugal,EMEA,Southern Europe,Chuck Magee
+15877,HR,Croatia,EMEA,Southern Europe,Giulietta Dortch
+79875,TJ,Tajikistan,APAC,Central Asia,Giulietta Dortch
+16436,HU,Hungary,EMEA,Eastern Europe,Giulietta Dortch
+3752,RO,Romania,EMEA,Eastern Europe,Giulietta Dortch
+9954,EG,Egypt,EMEA,Africa,Deborah Brumfield
+1138,TT,Trinidad and Tobago,Americas,Caribbean,Agwe Aristide
+19250,NI,Nicaragua,Americas,Central America,Anna Andreadi
+21008,BY,Belarus,EMEA,Eastern Europe,Giulietta Dortch
+13554,CI,Cote dIvoire,EMEA,Africa,Deborah Brumfield
+1716,MG,Madagascar,EMEA,Africa,Deborah Brumfield
+32018,NE,Niger,EMEA,Africa,Deborah Brumfield
+13122,MN,Mongolia,APAC,Eastern Asia,Wang Xiu Ying
+22192,QA,Qatar,EMEA,Western Asia,Giulietta Dortch
+3998,MY,Malaysia,APAC,South-Eastern Asia,Fei Hong
+23235,AF,Afghanistan,APAC,Southern Asia,Nicole Hansen
+1546,IR,Iran,APAC,Southern Asia,Giulietta Dortch
+3080,BR,Brazil,Americas,South America,Chuck Magee
+10456,SL,Sierra Leone,EMEA,Africa,Deborah Brumfield
+10495,ZM,Zambia,EMEA,Africa,Deborah Brumfield
+3722,CA,Canada,Americas,North America,Luca Tremblay
+26929,YE,Yemen,EMEA,Western Asia,Giulietta Dortch
+29243,MD,Moldova,EMEA,Eastern Europe,Giulietta Dortch
+30228,UY,Uruguay,Americas,South America,Chuck Magee
+98725,DJ,Djibouti,EMEA,Africa,Deborah Brumfield
+1488,US,United States,Americas,Central United States,Annelise Williams
+11620,KH,Cambodia,APAC,South-Eastern Asia,Fei Hong
+36693,PY,Paraguay,Americas,South America,Chuck Magee
+12667,SY,Syria,EMEA,Western Asia,Giulietta Dortch
+3688,US,United States,Americas,South United States,Scott Smith
+29599,CZ,Czech Republic,EMEA,Eastern Europe,Giulietta Dortch
+4958,SA,Saudi Arabia,EMEA,Western Asia,Giulietta Dortch
+86372,GW,Guinea-Bissau,EMEA,Africa,Deborah Brumfield
+38157,HK,Hong Kong,APAC,Eastern Asia,Wang Xiu Ying
+6687,MZ,Mozambique,EMEA,Africa,Deborah Brumfield
+2125,TR,Turkey,EMEA,Western Asia,Giulietta Dortch
+75586,PG,Papua New Guinea,APAC,Oceania,Nora Preis
+7494,CO,Colombia,Americas,South America,Chuck Magee
+4207,ES,Spain,EMEA,Southern Europe,Chuck Magee
+69872,TW,Taiwan,APAC,Eastern Asia,Wang Xiu Ying
+2941,RU,Russia,EMEA,Eastern Europe,Giulietta Dortch
+19848,HN,Honduras,Americas,Central America,Anna Andreadi
+4463,JO,Jordan,EMEA,Western Asia,Giulietta Dortch
+84378,KG,Kyrgyzstan,APAC,Central Asia,Giulietta Dortch
+4717,VE,Venezuela,Americas,South America,Chuck Magee
+3539,CU,Cuba,Americas,Caribbean,Agwe Aristide
+193,MA,Morocco,EMEA,Africa,Deborah Brumfield
+16676,SV,El Salvador,Americas,Central America,Anna Andreadi
+1864,IQ,Iraq,EMEA,Western Asia,Giulietta Dortch
+17455,CL,Chile,Americas,South America,Chuck Magee
+38728,ML,Mali,EMEA,Africa,Deborah Brumfield
+4023,PL,Poland,EMEA,Eastern Europe,Giulietta Dortch
+59290,GN,Guinea,EMEA,Africa,Deborah Brumfield
+71845,SG,Singapore,APAC,South-Eastern Asia,Fei Hong
+7019,GH,Ghana,EMEA,Africa,Deborah Brumfield
+783,FR,France,EMEA,Western Europe,Anna Andreadi
+11320,PE,Peru,Americas,South America,Chuck Magee
+6093,ID,Indonesia,APAC,South-Eastern Asia,Fei Hong
+1666,CD,Democratic Republic of the Congo,EMEA,Africa,Deborah Brumfield
+26210,LB,Lebanon,EMEA,Western Asia,Giulietta Dortch
+30587,TD,Chad,EMEA,Africa,Deborah Brumfield
+6017,IT,Italy,EMEA,Southern Europe,Chuck Magee
+88643,HT,Haiti,Americas,Caribbean,Agwe Aristide
+2898,GB,United Kingdom,EMEA,Northern Europe,Beatrice Top
+4715,IL,Israel,EMEA,Western Asia,Giulietta Dortch
+98258,BI,Burundi,EMEA,Africa,Deborah Brumfield
+4828,LS,Lesotho,EMEA,Africa,Deborah Brumfield
+3870,TZ,Tanzania,EMEA,Africa,Deborah Brumfield
+18051,FI,Finland,EMEA,Northern Europe,Beatrice Top
+69959,UZ,Uzbekistan,APAC,Central Asia,Giulietta Dortch
+16149,LR,Liberia,EMEA,Africa,Deborah Brumfield
+3373,BE,Belgium,EMEA,Western Europe,Anna Andreadi
+1410,DO,Dominican Republic,Americas,Caribbean,Agwe Aristide
+3031,AR,Argentina,Americas,South America,Chuck Magee
+58722,TM,Turkmenistan,APAC,Central Asia,Giulietta Dortch
+1909,BG,Bulgaria,EMEA,Eastern Europe,Giulietta Dortch
+41733,MQ,Martinique,Americas,Caribbean,Agwe Aristide
+4068,EE,Estonia,EMEA,Northern Europe,Giulietta Dortch
+3210,NZ,New Zealand,APAC,Oceania,Nora Preis
+40412,AZ,Azerbaijan,EMEA,Southern Europe,Giulietta Dortch
+13122,MN,Mongolia,APAC,Eastern Asia,Giulietta Dortch
+15328,IE,Ireland,EMEA,Northern Europe,Beatrice Top
+3219,KE,Kenya,EMEA,Africa,Deborah Brumfield
+1246,CM,Cameroon,EMEA,Africa,Deborah Brumfield
+3104,MX,Mexico,Americas,Central America,Beatrice Top
+4792,AU,Australia,APAC,Oceania,Nora Preis
+7751,AO,Angola,EMEA,Africa,Deborah Brumfield
+18128,CF,Central African Republic,EMEA,Africa,Deborah Brumfield
+15271,UG,Uganda,EMEA,Africa,Deborah Brumfield
+59565,SO,Somalia,EMEA,Africa,Deborah Brumfield
+5003,GT,Guatemala,Americas,Central America,Anna Andreadi
+38912,AM,Armenia,EMEA,Southern Europe,Giulietta Dortch
+95296,ET,Ethiopia,EMEA,Africa,Deborah Brumfield
