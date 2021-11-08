@@ -78,7 +78,7 @@ Students are to complete the **Welcome to Python Programming** learning path on 
 | Lesson 15 (w8:d1)  | [Data Analysis Review](https://docs.google.com/presentation/d/1cxrlod9o3HJPWRndmPDJMVvcmFunefgBXSd_sHsvJls/edit?usp=sharing)  |  Day 15 Recording | Final Projects!  | < None >
 | Lesson 16 (w8:d2)  | [Server Development With Flask](xxx)| Day 16 Recording  | [Homework: Flask](xxx) | HW Solution
 | Lesson 17 (w9:d1)  | [Flask Templates and CRUD Apps](xxx)|  Day 17 Recording  | [Homework: Flask Templates & CRUD Apps](xxx) | HW Solution
-| Lesson 18 (w9:d2)   | [Web Unit Lab OR Work on Project](xxx) | Day 18 Recording  | < None > | < None >
+| Lesson 18 (w9:d2)   | [Web Unit Lab OR Work on Project](xxx) | Day 18 Recording  | Finish Your Final Projects! | < None >
 | Lesson 19 (w10:d1)  | Project Presentations | Day 19 Recording  | < None > | < None >
 | Lesson 20 (w10:d2) | Project Presentations, [Course Summary](xxx)| Day 20 Recording  | < None > | < None >
 | --    |  --   |  --   | -- |
