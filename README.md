@@ -72,7 +72,7 @@ Students are to complete the **Welcome to Python Programming** learning path on 
 | Lesson 9 (w5:d1)    | [Final Project](https://colab.research.google.com/drive/12PrBduPuA0qJBu9jqmwYvvt57hoGk2-S?usp=sharing), [Error Handling: Slides](https://docs.google.com/presentation/d/1vgyk75c3HbXuIPGGgZU9vOTqH5aonuA7iES4mpDIezU/edit?usp=sharing), [Error Handling: Notebook](https://colab.research.google.com/drive/18EYhmL_MSJQAqm97qZQm0_C-JbBPKL1l?usp=sharing) | [Day 9 Recording](https://generalassembly.zoom.us/rec/share/92A5k8_mNvdkwYr6o-PUwbr7P7rxwjf9WEE16aNVbqaolc5Q0_vehy7qUTGKw2ju.oDg_EnWgZwKQ0n_Z)  | [Homework: Error Handling](https://colab.research.google.com/drive/18EYhmL_MSJQAqm97qZQm0_C-JbBPKL1l?usp=sharing) | HW Solution 
 | Lesson 10 (w5:d2)   | [Intro Python Review (if needed)](https://docs.google.com/presentation/d/1belFchPTXjdF8DLf7rOQqIbiJ70zu3YqWfz8RMc_umg/edit?usp=sharing), [APIs: slides](https://docs.google.com/presentation/d/1LveEZY3V8mZD0Dkt5iW_3-Qt26A-ntIKcY2rfUOAgtY/edit?usp=sharing), [APIs: In-class exercises](https://colab.research.google.com/drive/1AjPbWOgqo3I6ljC0PsOoScRHaYLAzlSD?usp=sharing) | [Day 10 Recording](https://generalassembly.zoom.us/rec/share/i6cl9tcrLabdeJdyykYoOmWLaFpbDi0uWWyadBUBZ1AHSamNnA1WrtbtPIlrVElC.glod9bXhSkTn8Ptr), [Final project: example](https://generalassembly.zoom.us/rec/share/_IsjF8t39ckPEfU7FixusR1cVvJnpglcq5pox5slLpRwWE4UyYzrdpvH4PX1AilD.2jdad42d5BOjog0K)  | [Homework: APIs (Optional)](https://colab.research.google.com/drive/1AjPbWOgqo3I6ljC0PsOoScRHaYLAzlSD?usp=sharing) | [In-class exercise solutions](https://colab.research.google.com/drive/1gcHgfagVkrfktM2y7_M_4b3u05RheFFW?usp=sharing) 
 | Lesson 11 (w6:d1)    | [Pandas: Slides](https://docs.google.com/presentation/d/1m_Gg0ufjaf6WPtHoPXOinh2oLhTBIObe0ABzg3PQGtk/edit?usp=sharing), [Pandas: In-class exercises](https://colab.research.google.com/drive/1tn9m-u3ywgf2iWPpOTl82e7VlJ3QhKbP?usp=sharing) |   | [Homework: Pandas](https://colab.research.google.com/drive/1tn9m-u3ywgf2iWPpOTl82e7VlJ3QhKbP?usp=sharing) |
-| Lesson 12 (w6:d2)   | [Unit Lab 5: Intermediate Python](xxx) |   | [Homework: APIs, Debugging, Scripting](xxx) |
+| Lesson 12 (w6:d2)   | [Pandas Data Visualization: Slides](https://docs.google.com/presentation/d/1BekPHnlOf8ZixERW7QPL6UTp1jgzfoVkBrICt4tPbfk/edit?usp=sharing), [Data Viz: Notebook](https://colab.research.google.com/drive/1qn66fFd_r8S1WYLpRv1wVjnpYnNW-_ju?usp=sharing)  |   | [Homework: Data Viz](https://colab.research.google.com/drive/1qn66fFd_r8S1WYLpRv1wVjnpYnNW-_ju?usp=sharing) |
 | Lesson 13 (w7:d1)  | *Data Track*: [Introduction to Data Science](xxx), [Pandas I](uxxx)  |   | [Homework: Reading datasets into Pandas,  Filtering, manipulating, and sorting datasets, Basic exploratory data analysis with Pandas](xxxd) |
 | Lesson 14 (w7:d2)  | *Data Track*: [Data Visualization](xxx), [Plotting with Pandas and Matplotlib](xxxx)  |   | [Homework: Plotting with Pandas, Determining the best plot, given a dataset](xxx)  |
 | Lesson 15 (w8:d1)  | *Data Track*: [Pandas II](xxx), [Unit Lab 6: Pandas](xxx)  |   | [Homework: Basic EDA with Pandas, Visualization with Pandas](xxx)  |
@@ -80,120 +80,10 @@ Students are to complete the **Welcome to Python Programming** learning path on 
 | Lesson 17 (w9:d1)  | *Data Track*: [Overall Review and Q&A](xxx), [Introduce Project](xxx)|   | < None >|
 | Lesson 18 (w9:d2)   | Work on Project|   | < None > |
 | Lesson 19 (w10:d1)  | Project Presentations |   | < None > |
-| Lesson 20d (w10:d2) | *Data Track*: Project Presentations, [Class Summary](xxx) |   | < None > |
+| Lesson 20 (w10:d2) | *Data Track*: Project Presentations, [Class Summary](xxx) |   | < None > |
 | --    |  --   |  --   | -- |
 ---
 
-
-
-[1-1A]: unit-1-variables/day1-welcome-slides.md
-[1-1B]: https://colab.research.google.com/drive/1ot-QxmXfdbQexLJtiRaVqeosibepEVqv?usp=sharing
-[1-1C]: https://colab.research.google.com/drive/1riuwhlTRrQIuY4MVnw9AMPVoiKW8K-Xo?usp=sharing
-[1-1D]: https://colab.research.google.com/drive/1ztcIUodygDEYDRWMnXIwm2xkG_xl_ase?usp=sharing
-[1-1E]: https://colab.research.google.com/drive/1_RnbL2QTD3i4iPhXg2iz19NkjzZ--1ip?usp=sharing
-[1-1F]: https://colab.research.google.com/drive/1gmcXnFof6MR4ma9Hl8reyI3YZBo4UcGU?usp=sharing
-[1-1G]: https://colab.research.google.com/drive/1IvwKNlJT1d4iA_swGGye7myvLNrACUsy?usp=sharing
-[1-1H]: unit-1-variables/day1-hw-labs-final-project.md
-[1-1I]: xxxxx
-
-[2-1A]: xxxx
-[2-1B]: https://colab.research.google.com/drive/1ywsjomMcEsF0R8LPSrHqKpAcLwvjyIaL?usp=sharing
-[2-1BB]: https://colab.research.google.com/drive/1ozuWYeKLUfLmAv9TIYUDaMCCe3F78sV1?usp=sharing
-[2-1C]: https://colab.research.google.com/drive/1T7V4nIPFaKbfYj4_N0lN5GnSQs4D6Uip?usp=sharing
-[2-1D]: https://colab.research.google.com/drive/1osi0pjYorszSxAyKisNhn_JTQIYvYWe6?usp=sharing
-[2-1E]: https://drive.google.com/file/d/15otQYkKeYNysmQWNaInJea0Chy2ztwGs/view?usp=sharing
-[2-1F]: https://colab.research.google.com/drive/16s8vMdwOm4P5aOYhe8iwzcNjYXkM6R5J?usp=sharing
-[2-1G]: https://colab.research.google.com/drive/1uFS_Px75JWhaf0A1U7y_DMjjWEj25G7i?usp=sharing
-[2-1H]: xxxxx
-
-[3-1A]: xxxx
-[3-1B]: https://colab.research.google.com/drive/10S0bhvnqrJT8tF2voLNgXZIsgqoXZ8Cl?usp=sharing
-[3-1C]: https://colab.research.google.com/drive/1p2P3fIQW990MIRsZTrX66uELUWZUfZjE?usp=sharing
-[3-1CC]: https://colab.research.google.com/drive/1i6x_EX95X8663Utrp8IypPuhHSCgYDLu?usp=sharing
-[3-1D]: https://colab.research.google.com/drive/16yKZQwo-oWip1hTb0Sr3-v33VUFuMbzs?usp=sharing
-[3-1E]: unit-4-troubleshooting/instructor-resources/16-intermediate-variables
-[3-1F]: https://colab.research.google.com/drive/1fzYpBHVplY-L_2gkg4Nw6v33S_paVJJg?usp=sharing
-[3-1G]: https://colab.research.google.com/drive/1R5XXiKqDKTurdoRVPO7JQxqglvw7shxB?usp=sharing
-[3-1H]: xxx
-
-[4-1A]: xxxx
-[4-1B]: https://colab.research.google.com/drive/1yOkC5GoD4-Ny8OGEHjJNVxO8IFAPixqt?usp=sharing
-[4-1C]: https://colab.research.google.com/drive/1jaL7K_P80usXCWbmFqLwXbN9UJ0wtF2h?usp=sharing
-[4-1D]: https://colab.research.google.com/drive/1WAMiLfzjHRkE615zL53ntXkO0yYsrnBo?usp=sharing
-[4-1E]: https://colab.research.google.com/drive/1hnzdA_tSQ2zIGKE1KZkcIQGiTre9vh9w?usp=sharing
-[4-1EE]: https://colab.research.google.com/drive/1-gYSubXmwN0OJzyP8h-vpbuZ6Zmxyqxc?usp=sharing
-[4-1F]: https://colab.research.google.com/drive/1EoePiLgN6BrX3nOMQil9qdtdXvMslwTq?usp=sharing
-[4-1G]: XXXX
-[4-1H]: XXXX
-
-[5-1A]: xxxx
-[5-1B]: https://colab.research.google.com/drive/1BZNDt-BVZhToFHtUBQX-rZ521nnamOrL?usp=sharing
-[5-1BB]: https://colab.research.google.com/drive/1tLLx94FlhjqiLn5l3N6ggIxB_4wQ2xL2?usp=sharing
-[5-1C]: https://colab.research.google.com/drive/1F8DevuhzJTHhySKEO5579unMvyrKFNvm?usp=sharing
-[5-1CC]: https://colab.research.google.com/drive/1jziDMxq9fOVrQNVKt4sQNiOCbj5v07Xy?usp=sharing
-[5-1D]: https://colab.research.google.com/drive/15XY1OT7Sj2UDnffzlWMxYg7G4lqD-FSI?usp=sharing
-[5-1DD]: https://colab.research.google.com/drive/18H94d33CZ6ASF_xd_owSQLYznhg9Pvlg?usp=sharing
-[5-1E]: https://colab.research.google.com/drive/1zRxvYHNol0x0YNYkm3XmKTdfyhzBxwnv?usp=sharing
-[5-1EE]: https://colab.research.google.com/drive/14AsxP8reB1XaQiH2y1ome9JlSNLv8ore?usp=sharing
-[5-1F]: https://colab.research.google.com/drive/1AYvxJcWynbHsY_rxzFiLAXReu9c16yxI?usp=sharing
-[5-1G]: xxxxx
-
-[5-1H]: unit-6-pandas/instructor-resources/07-next-steps
-[5-1I]: unit-6-pandas/instructor-resources/08-pandas-datetime
-[5-1J]: unit-6-pandas/instructor-resources/09-pandas-join
-<!---[5-2G]: unit-6-flask/instructor-resources/06-flask-apis--->
-
-[6-1A]: https://colab.research.google.com/drive/11HfEeTrGopGC_PSbxijbayrotoeKCZvF?usp=sharing
-[6-1B]: https://colab.research.google.com/drive/1Ex8U8VvmmkvPSCllOSIcf3JPFNgwHWHf?usp=sharing
-[6-1C]: https://colab.research.google.com/drive/1Ex8U8VvmmkvPSCllOSIcf3JPFNgwHWHf?usp=sharing
-[6-1D]: https://colab.research.google.com/drive/12-gNBsO81yRAb4HywyQswMK4oT8faiot?usp=sharing
-[6-1E]: xxxx
-[6-1F]: xxxx
-[6-1G]: xxxx
-<!---[6-1B]: unit-7-web-dev-wrap-up/instructor-resources/01-review--->
-<!---[6-1D]: unit-7-web-dev-wrap-up/instructor-resources/02-project--->
-<!---[6-1F]: unit-7-web-dev-wrap-up/instructor-resources/02-project--->
-<!---[6-1H]: unit-7-web-dev-wrap-up/instructor-resources/03-summary--->
-
-[A-AA]: https://generalassembly.zoom.us/rec/play/9FUI03G-B0XbQXnnMbZXbE8nvCOQwRr-fth7ihdb-Z_3RwVT61fLzKyC3ZOrI-bGj9wNsUdEvqXpW72z.pciY7EHCjhMBfWVR
-[B-BB]: https://generalassembly.zoom.us/rec/play/0Dt8bMKbqb6afZnayQpYrwtQVoEUvL2GzLsUSa0EMkdwYDmT2ou7ETSrjvlNAvVq48nK2oj2v2aMmztG.xmZzcuZFtKnUiOaN
-[C-CC]: xxxx
-[D-DD]: https://generalassembly.zoom.us/rec/play/Vip2HpV4nNuV6ZDdIUb9KjoB1sdwpMCLGS6vEZOmfLC-EqKsOvv0sF-FcKctcsxKA72XWIaTl6ZRpZY.Vv2uL2V0cJ2ACpxM
-[E-EE]: https://generalassembly.zoom.us/rec/play/ly1wcnKmSUpWyDeC-ki_ViiHOf5ta4Sy4GDLxnwZyTWDydbieYLJLaMCNPO1uGL9VMtYCq6ngaj57uQJ.n_gK7LTvanTOcxlJ
-[F-FF]: https://generalassembly.zoom.us/rec/play/7vVgtylCxeSm9TSee1wxPRzeCvSSOQma613UsqNuHVrpgmIy8HANrEQDwlnwYCjx-1d3QkdGAuFYR_se.U1gldjMcPrSBOF-P
-[G-GG]: https://generalassembly.zoom.us/rec/play/d9joID01IOHkiA121MhOgHAMtcXrzVqLSKtpucS4wPv60skvcXYoqrhObYQuFn5NWRamChwwK6eG0olU.CiqVEo3z0YWtW1_g
-[H-HH]: xxxx
-[I-II]: xxxx
-[J-JJ]: xxxx
-[K-KK]: xxxx
-[L-LL]: xxxx
-[M-MM]: xxxx
-[N-NN]: xxxx
-[O-OO]: xxxx
-[P-PP]: xxxx
-[Q-QQ]: xxxx
-[R-RR]: xxxx
-[S-SS]: xxxx
-[T-TT]: xxxx
-[U-UU]: xxxx
-[V-VV]: xxxx
-[W-WW]: xxxx
-[X-XX]: xxxx
-[Y-YY]: xxxx
-[Z-ZZ]: xxxx
-
-
-
-[7-1A]: https://colab.research.google.com/drive/1pgB-liqvXN_U9v7860tlMB5haG5tRRAn?usp=sharing     
-[7-1B]: https://colab.research.google.com/drive/1-VqR4yvm4UVWChi3v3HPDO7-6OT6NdK6?usp=sharing
-[7-1C]: https://colab.research.google.com/drive/1__0CAhmj8WVbVH_ANdSoum44TDGf9MvT?usp=sharing
-[7-1D]: X
-[7-1E]: unit-6-pandas/instructor-resources/hw-5day-4pandas
-<!---
-[7-1F]: unit-6-flask/instructor-resources/hw-5day-4flask
---->
-[7-1G]: unit-6-pandas/instructor-resources/10-pandas-consumersales
-[7-1H]: unit-6-pandas/instructor-resources/11-pandas-omdb-exercise
 
 
 <!--- ## Appendix: Materials and Resources
