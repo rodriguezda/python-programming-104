@@ -80,7 +80,7 @@ Students are to complete the **Welcome to Python Programming** learning path on 
 | Lesson 17 (w9:d1)  | [Flask Templates and CRUD Apps](xxx)|  Day 17 Recording  | [Homework: ](xxx) | HW Solution
 | Lesson 18 (w9:d2)   | [Web Unit Lab OR Work on Project](xxx) | Day 18 Recording  | < None > | < None >
 | Lesson 19 (w10:d1)  | Project Presentations | Day 19 Recording  | < None > | < None >
-| Lesson 20 (w10:d2) | Project Presentations, [Class Summary](xxx) | Day 20 Recording  | < None > | < None >
+| Lesson 20 (w10:d2) | Project Presentations | Day 20 Recording  | < None > | < None >
 | --    |  --   |  --   | -- |
 ---
 
