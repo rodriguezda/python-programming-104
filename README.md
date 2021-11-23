@@ -79,7 +79,6 @@ Students are to complete the **Welcome to Python Programming** learning path on 
 | Lesson 16 (w8:d1)  | [Data Unit Lab, Cont'd](https://docs.google.com/presentation/d/1mgLOlGDeQzsP4p6mYbw6vw6JQV_96rsRKhNdhIoBjXA/edit?usp=sharing), [Lab Guidelines](https://docs.google.com/document/d/1CwGGTdZ8-2g48esfT-a5JBXA52oSEFih5tgc05I59mc/edit?usp=sharing), [Lab Data](https://drive.google.com/drive/folders/1Ey_RNYnuv_4OPnf3c7AE2VZiqGHNvg_r?usp=sharing), [Lab Review](https://docs.google.com/presentation/d/1cxrlod9o3HJPWRndmPDJMVvcmFunefgBXSd_sHsvJls/edit?usp=sharing)  | [Day 16 Recording] | Final Project!  | < None >
 | Lesson 17 (w8:d2)  | [Server Development With Flask](https://docs.google.com/presentation/d/1EunK1rTbgP0eTSaAhboKBZOK1JHe42xe9C3vzmGC6uI/edit?usp=sharing), [Notebook](https://colab.research.google.com/drive/1GWRN5Kz9SgF9pE1_BWOG4B258gHCUUFs?usp=sharing)| Day 16 Recording  | [Homework: Flask (Optional)](https://colab.research.google.com/drive/1GWRN5Kz9SgF9pE1_BWOG4B258gHCUUFs?usp=sharing) | HW Solution
 | Lesson 18 (w9:d1)  | [Flask Templates and CRUD Apps](https://docs.google.com/presentation/d/1r7uYN4pt7Z_cQDK29oWJq-TbZfzrzkGZGMVoV5K3_JY/edit?usp=sharing), [Notebook](https://colab.research.google.com/drive/1oOrionkg5OfTDIvYZhYGjNlnT3TLE6mR?usp=sharing)|  Day 17 Recording  | [Homework: Flask Templates & CRUD Apps (Optional) ](https://colab.research.google.com/drive/1oOrionkg5OfTDIvYZhYGjNlnT3TLE6mR?usp=sharing) | HW Solution
-<!--- | Lesson 18 (w9:d2)   | [Web Unit Lab](https://docs.google.com/presentation/d/1DnfhHl_U3cOfWz53fqOs7Jpr1PLTzGTF5V7w1d6ec60/edit?usp=sharing) OR Work on Final Project, [Lab: Guidelines](https://docs.google.com/document/d/1ERURW9Ic4kD_Oz7lWHJlh4pnhQjM-87Rn-hYa7gtCls/edit?usp=sharing) | Day 18 Recording  | Finish Your Final Projects! | < None >. --->
 | Lesson 19 (w10:d1)  | Project Presentations | Day 19 Recording  | < None > | < None >
 | Lesson 20 (w10:d2) | Project Presentations, [Course Summary](xxx)| Day 20 Recording  | < None > | < None >
 | --    |  --   |  --   | -- |
@@ -93,7 +92,9 @@ Students are to complete the **Welcome to Python Programming** learning path on 
 - All lesson materials, homeworks and projects outlined on the Suggested Pacing Guide are in this repo.
 - Standard GA-produced pre-work materials can be accessed on myGA. The pre-work lessons details can be found [here.](https://git.generalassemb.ly/python-programming/python-programming/blob/revisions_v2.1/unit-0-prework/instructor-resources/README.md)
 - Tips and templates for instructors are available on the [GA Instructor Blog](http://assemblyrequired.ga.co).
-- For help and support, join the GA Instructors Slack Community and post your questions in #SLACKCHANNEL. --->
+- For help and support, join the GA Instructors Slack Community and post your questions in #SLACKCHANNEL. 
+| Lesson 18 (w9:d2)   | [Web Unit Lab](https://docs.google.com/presentation/d/1DnfhHl_U3cOfWz53fqOs7Jpr1PLTzGTF5V7w1d6ec60/edit?usp=sharing) OR Work on Final Project, [Lab: Guidelines](https://docs.google.com/document/d/1ERURW9Ic4kD_Oz7lWHJlh4pnhQjM-87Rn-hYa7gtCls/edit?usp=sharing) | Day 18 Recording  | Finish Your Final Projects! | < None >.
+--->
 
 
 *Copyright 2021, General Assembly Space. Licensed under [CC-BY-NC-SA, 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)*
